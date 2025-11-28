@@ -31,7 +31,7 @@
 /photos/ 現場圖片及相關紀錄
 
 /docs/ 政府文件、部門回覆及公開信件
-  - 委員會會議記錄（2021-2025，共34份）：[PDF格式](docs/meeting_minutes/pdf/README.md) | [Markdown格式](docs/meeting_minutes/markdown/README.md)
+  - 宏福苑業主立案法團管理委員會會議記錄（2021-2025，共34份）：[PDF格式](docs/meeting_minutes/pdf/README.md) | [Markdown格式](docs/meeting_minutes/markdown/README.md)
 
 
 ## 四、主要研究與技術議題
@@ -144,7 +144,7 @@ On 26 November 2025, a major fire broke out at Wang Fuk Court in Tai Po. The fir
 /photos/ On-site photos and archival records
 
 /docs/ Government documents, departmental replies, and public letters
-  - Committee meeting minutes (2021-2025, 34 records): [PDF format](docs/meeting_minutes/pdf/README.md) | [Markdown format](docs/meeting_minutes/markdown/README.md)
+  - Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (2021-2025, 34 records): [PDF format](docs/meeting_minutes/pdf/README.md) | [Markdown format](docs/meeting_minutes/markdown/README.md)
 
 
 ## 4. Key Technical and Research Topics

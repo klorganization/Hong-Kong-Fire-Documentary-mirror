@@ -1,8 +1,8 @@
-# 委員會會議記錄 (Markdown格式)
-# Committee Meeting Minutes (Markdown Format)
+# 宏福苑業主立案法團管理委員會會議記錄 (Markdown格式)
+# Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (Markdown Format)
 
-本資料夾收錄委員會會議記錄的Markdown文字版本，方便搜尋及引用。
-This folder contains the Markdown text versions of committee meeting minutes for easy search and reference.
+本資料夾收錄宏福苑業主立案法團管理委員會會議記錄的Markdown文字版本，方便搜尋及引用。
+This folder contains the Markdown text versions of Wang Fuk Court Owners' Corporation Management Committee meeting minutes for easy search and reference.
 
 ## 會議記錄索引 / Meeting Minutes Index
 

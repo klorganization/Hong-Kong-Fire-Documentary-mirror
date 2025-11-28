@@ -1,8 +1,8 @@
-# 委員會會議記錄 (PDF格式)
-# Committee Meeting Minutes (PDF Format)
+# 宏福苑業主立案法團管理委員會會議記錄 (PDF格式)
+# Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (PDF Format)
 
-本資料夾收錄委員會會議記錄的PDF原檔，按日期排序。
-This folder contains the original PDF files of committee meeting minutes, sorted by date.
+本資料夾收錄宏福苑業主立案法團管理委員會會議記錄的PDF原檔，按日期排序。
+This folder contains the original PDF files of Wang Fuk Court Owners' Corporation Management Committee meeting minutes, sorted by date.
 
 ## 會議記錄索引 / Meeting Minutes Index
 
