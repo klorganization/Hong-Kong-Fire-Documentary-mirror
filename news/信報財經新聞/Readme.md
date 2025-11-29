@@ -1,6 +1,7 @@
 # 信報財經新聞
 
 ### 2025-11-26
+
 - [大埔宏福苑五級火丨至少13死15傷 高層住戶仍受困](https://www.hkej.com/instantnews/current/article/4257420/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E8%87%B3%E5%B0%9113%E6%AD%BB15%E5%82%B7+%E9%AB%98%E5%B1%A4%E4%BD%8F%E6%88%B6%E4%BB%8D%E5%8F%97%E5%9B%B0)
 - [大埔宏福苑五級火丨特首:政府部門全力協助受影響居民](https://www.hkej.com/instantnews/current/article/4257241/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E7%89%B9%E9%A6%96%3A%E6%94%BF%E5%BA%9C%E9%83%A8%E9%96%80%E5%85%A8%E5%8A%9B%E5%8D%94%E5%8A%A9%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%B1%85%E6%B0%91)
 - [大埔宏福苑五級火丨造成最少13死15傷 一消防員殉職](https://www.hkej.com/instantnews/current/article/4257183/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E9%80%A0%E6%88%90%E6%9C%80%E5%B0%9113%E6%AD%BB15%E5%82%B7+%E4%B8%80%E6%B6%88%E9%98%B2%E5%93%A1%E6%AE%89%E8%81%B7)
@@ -14,6 +15,7 @@
 - [大埔宏福苑發生三級火 濃煙席捲半空](https://www.hkej.com/instantnews/current/article/4256778/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%99%BC%E7%94%9F%E4%B8%89%E7%B4%9A%E7%81%AB+%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA)
 
 ### 2025-11-27
+
 - [宏福苑五級火｜教宗良十四世發慰問信 對事件深表悲痛](https://www.hkej.com/instantnews/current/article/4258627/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E6%85%B0%E5%95%8F%E4%BF%A1+%E5%B0%8D%E4%BA%8B%E4%BB%B6%E6%B7%B1%E8%A1%A8%E6%82%B2%E7%97%9B)
 - [宏福苑五級火丨何永賢:359名受影響居民已入住過渡性房屋](https://www.hkej.com/instantnews/current/article/4258597/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E4%BD%95%E6%B0%B8%E8%B3%A2%3A359%E5%90%8D%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%B1%85%E6%B0%91%E5%B7%B2%E5%85%A5%E4%BD%8F%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B)
 - [宏福苑五級火丨政府要求覆核棚架保護網等物料紀錄或測試文件 7日內交報告](https://www.hkej.com/instantnews/current/article/4258586/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E8%A6%86%E6%A0%B8%E6%A3%9A%E6%9E%B6%E4%BF%9D%E8%AD%B7%E7%B6%B2%E7%AD%89%E7%89%A9%E6%96%99%E7%B4%80%E9%8C%84%E6%88%96%E6%B8%AC%E8%A9%A6%E6%96%87%E4%BB%B6+7%E6%97%A5%E5%85%A7%E4%BA%A4%E5%A0%B1%E5%91%8A)
@@ -80,9 +82,8 @@
 - [宏福苑五級火丨本港火警分六級 災難級需盡用資源撲滅](https://www.hkej.com/instantnews/current/article/4257456/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%9C%AC%E6%B8%AF%E7%81%AB%E8%AD%A6%E5%88%86%E5%85%AD%E7%B4%9A+%E7%81%BD%E9%9B%A3%E7%B4%9A%E9%9C%80%E7%9B%A1%E7%94%A8%E8%B3%87%E6%BA%90%E6%92%B2%E6%BB%85)
 - [大埔宏福苑五級火丨捲入3.3億維修風波 原定明年3月起拆棚](https://www.hkej.com/instantnews/current/article/4257438/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%8D%B2%E5%85%A53.3%E5%84%84%E7%B6%AD%E4%BF%AE%E9%A2%A8%E6%B3%A2+%E5%8E%9F%E5%AE%9A%E6%98%8E%E5%B9%B43%E6%9C%88%E8%B5%B7%E6%8B%86%E6%A3%9A)
 
-
-
 ### 2025-11-28
+
 - [宏福苑五級火丨醫管局兩員工1遇難1失聯 約60人痛失家園](https://www.hkej.com/instantnews/current/article/4259957/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E9%86%AB%E7%AE%A1%E5%B1%80%E5%85%A9%E5%93%A1%E5%B7%A51%E9%81%87%E9%9B%A31%E5%A4%B1%E8%81%AF+%E7%B4%8460%E4%BA%BA%E7%97%9B%E5%A4%B1%E5%AE%B6%E5%9C%92)
 - [宏福苑五級火丨殘特奧會火炬傳遞活動和開幕式取消](https://www.hkej.com/instantnews/current/article/4259896/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%AE%98%E7%89%B9%E5%A5%A7%E6%9C%83%E7%81%AB%E7%82%AC%E5%82%B3%E9%81%9E%E6%B4%BB%E5%8B%95%E5%92%8C%E9%96%8B%E5%B9%95%E5%BC%8F%E5%8F%96%E6%B6%88)
 - [宏福苑五級火丨發展局:屋宇署全面檢視棚架 不針對某一類](https://www.hkej.com/instantnews/current/article/4259848/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E7%99%BC%E5%B1%95%E5%B1%80%3A%E5%B1%8B%E5%AE%87%E7%BD%B2%E5%85%A8%E9%9D%A2%E6%AA%A2%E8%A6%96%E6%A3%9A%E6%9E%B6+%E4%B8%8D%E9%87%9D%E5%B0%8D%E6%9F%90%E4%B8%80%E9%A1%9E)
@@ -113,6 +114,7 @@
 - [宏福苑五級火丨Jer Lau演唱會首場收益悉數捐援](https://www.hkej.com/instantnews/current/article/4258645/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8Jer+Lau%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%96%E5%A0%B4%E6%94%B6%E7%9B%8A%E6%82%89%E6%95%B8%E6%8D%90%E6%8F%B4)
 
 ### 2025-11-29
+
 - [宏福苑五級火｜港超聯周日賽事延期 英超曼聯悼念罹難者](https://www.hkej.com/instantnews/current/article/4260109/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%B8%AF%E8%B6%85%E8%81%AF%E5%91%A8%E6%97%A5%E8%B3%BD%E4%BA%8B%E5%BB%B6%E6%9C%9F+%E8%8B%B1%E8%B6%85%E6%9B%BC%E8%81%AF%E6%82%BC%E5%BF%B5%E7%BD%B9%E9%9B%A3%E8%80%85)
 - [宏福苑五級火｜救災期前高級公僕會辦選舉宴 啖鹽燒南非鮑](https://www.hkej.com/instantnews/current/article/4260043/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%95%91%E7%81%BD%E6%9C%9F%E5%89%8D%E9%AB%98%E7%B4%9A%E5%85%AC%E5%83%95%E6%9C%83%E8%BE%A6%E9%81%B8%E8%88%89%E5%AE%B4+%E5%95%96%E9%B9%BD%E7%87%92%E5%8D%97%E9%9D%9E%E9%AE%91)
 - [宏福苑五級火｜有外傭堅持留守火場 陪伴老僱主](https://www.hkej.com/instantnews/current/article/4260042/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%9C%89%E5%A4%96%E5%82%AD%E5%A0%85%E6%8C%81%E7%95%99%E5%AE%88%E7%81%AB%E5%A0%B4+%E9%99%AA%E4%BC%B4%E8%80%81%E5%83%B1%E4%B8%BB)

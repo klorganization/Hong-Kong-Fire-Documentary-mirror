@@ -3,6 +3,7 @@
 ## 2025-11-26
 
 ### Chinese
+
 - [因應大埔宏福苑火警　當局開放兩個社區會堂作臨時庇護中心](https://news.rthk.hk/rthk/ch/component/k2/1833394-20251126.htm?archive_date=2025-11-26)
 - [大埔宏福苑下午發生四級火造成四死三傷](https://news.rthk.hk/rthk/ch/component/k2/1833396-20251126.htm?archive_date=2025-11-26)
 - [大埔宏福苑四級火造成4死5傷　當中3人危殆](https://news.rthk.hk/rthk/ch/component/k2/1833398-20251126.htm?archive_date=2025-11-26)
@@ -44,6 +45,7 @@
 - [習近平：要確保實現加沙全面持久停火　盡快改善加沙人道局勢](https://news.rthk.hk/rthk/ch/component/k2/1833319-20251126.htm?archive_date=2025-11-26)
 
 ### English
+
 - ['Commuters should plan trips due to Tai Po fire'](https://news.rthk.hk/rthk/en/component/k2/1833446-20251126.htm?archive_date=2025-11-26)
 - ['Hard to predict when killer blaze would be put out'](https://news.rthk.hk/rthk/en/component/k2/1833431-20251126.htm?archive_date=2025-11-26)
 - [13 dead, 15 injured in Tai Po inferno](https://news.rthk.hk/rthk/en/component/k2/1833389-20251126.htm?archive_date=2025-11-26)
@@ -54,6 +56,7 @@
 ## 2025-11-27
 
 ### Chinese
+
 - [宏福苑五級火｜3人被捕　疑有人使用未符防火標準外牆保護網](https://news.rthk.hk/rthk/ch/component/k2/1833566-20251127.htm?archive_date=2025-11-27)
 - [宏福苑五級火｜44死58傷　消防處稱陸續救出傷者](https://news.rthk.hk/rthk/ch/component/k2/1833494-20251127.htm?archive_date=2025-11-27)
 - [宏福苑五級火｜不少居民仍未能聯絡上家人　感到非常擔心](https://news.rthk.hk/rthk/ch/component/k2/1833508-20251127.htm?archive_date=2025-11-27)
@@ -153,6 +156,7 @@
 - [宏福苑五級火｜高層單位火勢仍然猛烈　消防陸續救出被困居民](https://news.rthk.hk/rthk/ch/component/k2/1833479-20251127.htm?archive_date=2025-11-27)
 
 ### English
+
 - [Businesses offer help to Tai Po fire victims](https://news.rthk.hk/rthk/en/component/k2/1833572-20251127.htm?archive_date=2025-11-27)
 - [CE: 279 unaccounted for in Tai Po fire](https://news.rthk.hk/rthk/en/component/k2/1833466-20251127.htm?archive_date=2025-11-27)
 - [Election promotion, forums suspended over fire](https://news.rthk.hk/rthk/en/component/k2/1833473-20251127.htm?archive_date=2025-11-27)
@@ -172,6 +176,7 @@
 ## 2025-11-28
 
 ### Chinese
+
 - [大埔公路–元洲仔段往九龍方向全線仍封閉　多條巴士線改道](https://news.rthk.hk/rthk/ch/component/k2/1833686-20251128.htm?archive_date=2025-11-28)
 - [宏福苑五級火｜8座大廈火警鐘證實不能有效操作　消防即將執法](https://news.rthk.hk/rthk/ch/component/k2/1833754-20251128.htm?archive_date=2025-11-28)
 - [宏福苑五級火｜MAMA取消紅地氈環節MIRROR不參與演出](https://news.rthk.hk/rthk/ch/component/k2/1833660-20251128.htm?archive_date=2025-11-28)
@@ -236,6 +241,7 @@
 - [殘特奧會｜粵港澳火炬傳遞及開幕式活動取消](https://news.rthk.hk/rthk/ch/component/k2/1833804-20251128.htm?archive_date=2025-11-28)
 
 ### English
+
 - ['Water bombs, taller ladders not suitable for blaze'](https://news.rthk.hk/rthk/en/component/k2/1833774-20251128.htm?archive_date=2025-11-28)
 - [CE and officials to mourn victims of deadly blaze](https://news.rthk.hk/rthk/en/component/k2/1833799-20251128.htm?archive_date=2025-11-28)
 - [Fire estate victims to get HK$2,000 Octopus cards](https://news.rthk.hk/rthk/en/component/k2/1833757-20251128.htm?archive_date=2025-11-28)
@@ -254,6 +260,7 @@
 ## 2025-11-29
 
 ### Chinese
+
 - [宏福苑五級火｜18區弔唁處供市民簽署弔唁冊悼念罹難者](https://news.rthk.hk/rthk/ch/component/k2/1833830-20251129.htm?archive_date=2025-11-29)
 - [宏福苑五級火｜大埔醫院病人服務助理遇難　醫管局一名員工失聯](https://news.rthk.hk/rthk/ch/component/k2/1833829-20251129.htm?archive_date=2025-11-29)
 - [宏福苑五級火｜屋宇署分批巡查外牆大維修並有搭建棚架保護網樓宇](https://news.rthk.hk/rthk/ch/component/k2/1833854-20251129.htm?archive_date=2025-11-29)

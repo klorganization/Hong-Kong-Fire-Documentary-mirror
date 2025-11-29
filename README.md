@@ -1,4 +1,5 @@
 [English Version](#english-version)
+
 # 11.26 大埔宏福苑火災紀錄庫
 
 本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便研究、媒體、工程界及關注事件的市民查閱。
@@ -31,8 +32,8 @@
 /photos/ 現場圖片及相關紀錄
 
 /docs/ 政府文件、部門回覆及公開信件
-  - 宏福苑業主立案法團管理委員會會議記錄（2021-2025，共34份）：[PDF格式](docs/meeting_minutes/pdf/README.md) | [Markdown格式](docs/meeting_minutes/markdown/README.md)
 
+- 宏福苑業主立案法團管理委員會會議記錄（2021-2025，共34份）：[PDF格式](docs/meeting_minutes/pdf/README.md) | [Markdown格式](docs/meeting_minutes/markdown/README.md)
 
 ## 四、主要研究與技術議題
 
@@ -79,6 +80,7 @@
 5. 提交後，維護者會審閱並回覆。
 
 Issue 適用於：  
+
 - 提供新的新聞連結、影片或文件來源  
 - 指出資料錯漏  
 - 建議改善存庫架構或內容  
@@ -101,6 +103,7 @@ Issue 適用於：
 5. 提交後，維護者會作出審閱及合併。
 
 Pull Request 適用於：  
+
 - 新增資料夾或檔案（如新聞、文件、技術分析）  
 - 修訂 Markdown 內容、排版或分類  
 - 補充可引用來源的資料  
@@ -144,8 +147,8 @@ On 26 November 2025, a major fire broke out at Wang Fuk Court in Tai Po. The fir
 /photos/ On-site photos and archival records
 
 /docs/ Government documents, departmental replies, and public letters
-  - Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (2021-2025, 34 records): [PDF format](docs/meeting_minutes/pdf/README.md) | [Markdown format](docs/meeting_minutes/markdown/README.md)
 
+- Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (2021-2025, 34 records): [PDF format](docs/meeting_minutes/pdf/README.md) | [Markdown format](docs/meeting_minutes/markdown/README.md)
 
 ## 4. Key Technical and Research Topics
 
@@ -194,6 +197,7 @@ Below are basic instructions.
 5. Submit the issue for review
 
 Issues are suitable for:  
+
 - Adding news links, videos, or document sources  
 - Reporting errors or omissions  
 - Suggesting improvements to structure and content  
@@ -214,6 +218,7 @@ Issues are suitable for:
 5. Maintainers will review and merge if appropriate
 
 Pull Requests are suitable for:  
+
 - Adding folders or files (e.g., news, documents, analysis)  
 - Improving Markdown structures or formatting  
 - Adding verified data  

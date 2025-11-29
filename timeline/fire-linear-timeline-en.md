@@ -41,4 +41,4 @@
 
 Integration was performed using AI tools, without manual verification.
 
-*[This English version is automatically translated from the original Chinese Markdown table for international reference.]* 
+*[This English version is automatically translated from the original Chinese Markdown table for international reference.]*
