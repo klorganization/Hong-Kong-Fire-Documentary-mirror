@@ -4,6 +4,18 @@
 
 本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便學術界、媒體、工程界及關注事件的市民查閱。
 
+## 目錄 (Table of Contents)
+
+- [一、目的](#一目的)
+- [二、事件概述](#二事件概述)
+- [三、存庫內容架構](#三存庫內容架構)
+- [四、主要研究與技術議題](#四主要研究與技術議題)
+- [五、社區參與方式](#五社區參與方式)
+- [六、聲明](#六聲明)
+- [七、如何提交 Issue 或 Pull Request](#七如何提交-issue-或-pull-request)
+- [八、技術資源 (Technical Resources)](#八技術資源-technical-resources)
+- [English Version](#english-version)
+
 ## 一、目的
 
 - 記錄火災事件的公開資料（影片、新聞、文件）
@@ -159,11 +171,35 @@ Pull Request 適用於：
 
 如不熟悉 GitHub，可直接於 Issue 中留言，我們亦會協助整理。
 
+## 八、技術資源 (Technical Resources)
+
+本存庫包含自動化工具及 CI/CD 流程，供開發者參考：
+
+- **`.github/workflows/`**：GitHub Actions 自動化流程
+  - `publish.yml`：自動構建並發布網站至 GitHub Pages
+  - `lint.yml`：自動檢查 Markdown 格式及代碼風格 (Linting)
+- **`scripts/scraper/`**：新聞自動爬蟲 (News Scraper)
+  - 用於定時抓取各大媒體的最新報道
+  - 包含 `scraper.py` (主程式) 及 `scraped_urls.json` (已抓取紀錄)
+- **`mkdocs.yml`**：網站生成配置文件 (MkDocs Configuration)
+  - 定義網站結構、主題及多語言支援 (i18n) 設定
+
 # English Version
 
 # 11.26 Tai Po Wang Fuk Court Fire Documentary
 
 This repository aims to collect, organize, and preserve publicly available information related to the Wang Fuk Court fire in Tai Po on 26 November 2025. Materials include news reports, video footage, technical analyses, contractor information, volunteer and community support resources, official statements, and follow-up developments. The objective is to build a public, centralized, and verifiable archive for researchers, media, engineers, and concerned members of the public.
+
+## Table of Contents
+
+- [1. Purpose](#1-purpose)
+- [2. Incident Overview](#2-incident-overview)
+- [3. Repository Structure](#3-repository-structure)
+- [4. Key Technical and Research Topics](#4-key-technical-and-research-topics)
+- [5. Public Contribution](#5-public-contribution)
+- [6. Disclaimer](#6-disclaimer)
+- [7. How to Submit an Issue or Pull Request](#7-how-to-submit-an-issue-or-pull-request)
+- [8. Technical Resources](#8-technical-resources)
 
 ## 1. Purpose
 
@@ -320,3 +356,16 @@ Pull Requests are suitable for:
 ---
 
 If you are unfamiliar with GitHub, you may also leave a comment in Issues and maintainers will assist with formatting and integration.
+
+## 8. Technical Resources
+
+This repository includes automation tools and CI/CD workflows for developers:
+
+- **`.github/workflows/`**: GitHub Actions workflows
+  - `publish.yml`: Automatically builds and deploys the site to GitHub Pages
+  - `lint.yml`: Automatically checks Markdown formatting and code style (Linting)
+- **`scripts/scraper/`**: Automated News Scraper
+  - Scheduled to fetch the latest reports from major media outlets
+  - Includes `scraper.py` (main script) and `scraped_urls.json` (history record)
+- **`mkdocs.yml`**: Site Configuration
+  - Defines site structure, theme, and internationalization (i18n) settings
