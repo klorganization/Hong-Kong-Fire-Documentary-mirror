@@ -11,9 +11,10 @@
 - [三、存庫內容架構](#三存庫內容架構)
 - [四、主要研究與技術議題](#四主要研究與技術議題)
 - [五、社區參與方式](#五社區參與方式)
-- [六、聲明](#六聲明)
-- [七、如何提交 Issue 或 Pull Request](#七如何提交-issue-或-pull-request)
-- [八、技術資源 (Technical Resources)](#八技術資源-technical-resources)
+- [六、授權條款與引用 (License & Citation)](#六授權條款與引用-license--citation)
+- [七、聲明](#七聲明)
+- [八、如何提交 Issue 或 Pull Request](#八如何提交-issue-或-pull-request)
+- [九、技術資源 (Technical Resources)](#九技術資源-technical-resources)
 - [English Version](#english-version)
 
 ## 一、目的
@@ -114,13 +115,32 @@
   - **Collection Method**: 網上下載 (Web download)
 ```
 
-## 六、聲明
+## 六、授權條款與引用 (License & Citation)
+
+本資料庫採用雙重授權模式：
+
+1. **原創內容**（如時間線整理、分析報告、架構設計）：採用 **[CC BY-SA 4.0](LICENSE.md#a-原創內容授權)** 授權。
+2. **引用內容**（如新聞、影片、政府文件）：版權歸原作者所有，本庫僅作[合理引用及存檔](LICENSE.md#b-引用內容聲明)。
+
+### 引用建議 (Citation)
+
+如需引用本資料庫的原創整理內容，請標示：
+
+```
+來源：11.26 大埔宏福苑火災紀錄庫 (Hong Kong Fire Documentary)
+網址：https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+授權：CC BY-SA 4.0
+```
+
+完整授權條款請參閱 [LICENSE.md](LICENSE.md)。
+
+## 七、聲明
 
 本存庫只收錄公開及可查證的資料，不包含未經核實的傳聞。本存庫之目的為保存資料、協助研究及提升事件透明度，不作出任何未經證實的指控。
 
 如有補充資料，歡迎提交。
 
-## 七、如何提交 Issue 或 Pull Request
+## 八、如何提交 Issue 或 Pull Request
 
 為方便公眾共同完善內容，本存庫歡迎任何形式的補充、修訂與建議。以下為簡單的操作方式。
 
@@ -171,7 +191,7 @@ Pull Request 適用於：
 
 如不熟悉 GitHub，可直接於 Issue 中留言，我們亦會協助整理。
 
-## 八、技術資源 (Technical Resources)
+## 九、技術資源 (Technical Resources)
 
 本存庫包含自動化工具及 CI/CD 流程，供開發者參考：
 
@@ -188,7 +208,7 @@ Pull Request 適用於：
 
 # 11.26 Tai Po Wang Fuk Court Fire Documentary
 
-This repository aims to collect, organize, and preserve publicly available information related to the Wang Fuk Court fire in Tai Po on 26 November 2025. Materials include news reports, video footage, technical analyses, contractor information, volunteer and community support resources, official statements, and follow-up developments. The objective is to build a public, centralized, and verifiable archive for researchers, media, engineers, and concerned members of the public.
+This repository aims to collect, organize, and preserve publicly available information related to the Wang Fuk Court fire in Tai Po on 26 November 2025. Materials include news reports, video footage, technical analyses, contractor information, contractor information, volunteer and community support resources, official statements, and follow-up developments. The objective is to build a public, centralized, and verifiable archive for researchers, media, engineers, and concerned members of the public.
 
 ## Table of Contents
 
@@ -197,9 +217,10 @@ This repository aims to collect, organize, and preserve publicly available infor
 - [3. Repository Structure](#3-repository-structure)
 - [4. Key Technical and Research Topics](#4-key-technical-and-research-topics)
 - [5. Public Contribution](#5-public-contribution)
-- [6. Disclaimer](#6-disclaimer)
-- [7. How to Submit an Issue or Pull Request](#7-how-to-submit-an-issue-or-pull-request)
-- [8. Technical Resources](#8-technical-resources)
+- [6. License & Citation](#6-license--citation)
+- [7. Disclaimer](#7-disclaimer)
+- [8. How to Submit an Issue or Pull Request](#8-how-to-submit-an-issue-or-pull-request)
+- [9. Technical Resources](#9-technical-resources)
 
 ## 1. Purpose
 
@@ -300,7 +321,26 @@ To ensure documents can serve as valid evidence, please include the following in
   - **Collection Method**: 網上下載 (Web download)
 ```
 
-## 6. Disclaimer
+## 6. License & Citation
+
+This repository operates under a dual-licensing model:
+
+1. **Original Content** (e.g., timeline curation, analysis reports, architecture): Licensed under **[CC BY-SA 4.0](LICENSE.md#a-original-content-licensing)**.
+2. **Quoted Content** (e.g., news reports, videos, government documents): Copyright belongs to the original authors. This repository serves as a [fair dealing archive](LICENSE.md#b-declaration-of-quoted-content).
+
+### Citation
+
+When using original content from this repository, please attribute as follows:
+
+```
+Source: 11.26 Tai Po Wang Fuk Court Fire Documentary (Hong Kong Fire Documentary)
+URL: https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+License: CC BY-SA 4.0
+```
+
+For full license terms, please refer to [LICENSE.md](LICENSE.md).
+
+## 7. Disclaimer
 
 This repository only includes publicly available and verifiable information.
 Unverified rumors will not be included.
@@ -309,7 +349,7 @@ No unverified allegations will be made.
 
 Contributions and additional data are welcome.
 
-## 7. How to Submit an Issue or Pull Request
+## 8. How to Submit an Issue or Pull Request
 
 To facilitate community collaboration, this repository accepts Issues and Pull Requests.
 Below are basic instructions.
@@ -357,7 +397,7 @@ Pull Requests are suitable for:
 
 If you are unfamiliar with GitHub, you may also leave a comment in Issues and maintainers will assist with formatting and integration.
 
-## 8. Technical Resources
+## 9. Technical Resources
 
 This repository includes automation tools and CI/CD workflows for developers:
 
