@@ -312,6 +312,9 @@ def push_to_pr_branch() -> bool:
     logging.info(f"Pushing to branch '{PR_BRANCH}'...")
 
     try:
+        # Stash any uncommitted changes (like log file updates) before switching branches
+        run_cmd(["git", "stash", "--include-untracked"], check=False)
+
         # Create or checkout the PR branch
         result = run_cmd(["git", "branch", "--list", PR_BRANCH], check=False)
 
@@ -331,13 +334,17 @@ def push_to_pr_branch() -> bool:
         # Go back to main
         run_cmd(["git", "checkout", MAIN_BRANCH])
 
+        # Restore stashed changes
+        run_cmd(["git", "stash", "pop"], check=False)
+
         logging.info(f"Pushed to {PR_BRANCH}")
         return True
 
     except Exception as e:
         logging.error(f"Failed to push: {e}")
-        # Try to get back to main
+        # Try to get back to main and restore stash
         run_cmd(["git", "checkout", MAIN_BRANCH], check=False)
+        run_cmd(["git", "stash", "pop"], check=False)
         return False
 
 
