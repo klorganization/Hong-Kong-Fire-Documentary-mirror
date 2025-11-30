@@ -7,6 +7,7 @@
 | 2025-11-26 下午 | 火警爆發後初步調查保護網、防水布、發泡膠及窗戶物料疑不合防火標準 | [news.gov.hk](https://www.news.gov.hk/eng/2025/11/20251127/20251127_142002_046.html) |
 | 2025-11-27 | 拘捕3人（宏業建築2董事+1工程顧問，52-68歲），涉嫌誤殺，搜查辦公室及住所 | [維基](https://zh.wikipedia.org/zh-hk/宏福苑大火), [wenweipo](https://www.wenweipo.com/a/202511/28/AP6928edefe4b098d782b632a7.html) |
 | 2025-11-27 | 3人獲保釋，須12月報到，繼續調查閉路電視及證物 | [stheadline](https://www.stheadline.com/breaking-news/3521917) |
+| 2025-11-30 18:00 | 傷亡查詢組成功聯絡了159名市民確認安全；另外有92名死者及37名傷者確認為較早前報稱失聯的人士。有54具遺體有待辨認 | [香港01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 
 ### ICAC行動
 
@@ -30,6 +31,7 @@
 |----------|----------|------|
 | 2025-11-27 | 獨立審查外牆物料防火標準，對進行中工程特別巡查，要求提交棚網阻燃測試報告，違規轉介檢控 | [維基](https://zh.wikipedia.org/zh-hk/宏福苑大火), [news.gov.hk](https://www.news.gov.hk/eng/2025/11/20251127/20251127_033453_007.html) |
 | 2025-11-28 | 參與跨部門專組，檢查宏福苑維修工程及全港類似項目 | [thewitnesshk](https://thewitnesshk.com/宏福苑五級火兩部門守則指棚網「應具」阻燃性業界), [info.gov.hk](https://www.info.gov.hk/gia/general/202511/29/P2025112900444p.htm) |
+| 2025-11-30 18:00 | 房屋署已經動員超過100個專業人員對六棟樓宇進行了初步檢查，完成了超過1500戶的初步檢查，當中宏仁閣、宏道閣、宏健閣、宏泰閣、宏盛閣及宏志閣已經完成 | [香港01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 
 ### 勞工處行動
 

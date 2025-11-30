@@ -9,6 +9,7 @@ Timeline cross-verified from sources (including Wikipedia and government news si
 | 2025-11-26 Afternoon | Initial investigation after fire outbreak suspects protective nets, tarpaulins, foam boards, and window materials do not meet fire safety standards | [news.gov.hk](https://www.news.gov.hk/eng/2025/11/20251127/20251127_142002_046.html) [attached_file:1] |
 | 2025-11-27 | Arrested 3 persons (2 directors of Hung Yip Construction + 1 engineering consultant, aged 52-68), suspected of manslaughter, searched offices and residences | [Wikipedia](https://zh.wikipedia.org/zh-hk/宏福苑大火), [wenweipo](https://www.wenweipo.com/a/202511/28/AP6928edefe4b098d782b632a7.html) |
 | 2025-11-27 | 3 persons granted bail, must report in December, continue investigating CCTV and evidence | [stheadline](https://www.stheadline.com/breaking-news/3521917) |
+| 2025-11-30 18:00 | Casualty Enquiry Team successfully contacted 159 citizens confirming safety; 92 deceased and 37 injured confirmed as previously reported missing. 54 bodies awaiting identification | [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 
 ### ICAC Actions
 
@@ -32,6 +33,7 @@ Timeline cross-verified from sources (including Wikipedia and government news si
 |-------------|-------------------|---------|
 | 2025-11-27 | Independent review of external wall materials fire standards, special inspections on ongoing projects, require submission of scaffold net fire-retardant test reports, prosecute violations | [Wikipedia](https://zh.wikipedia.org/zh-hk/宏福苑大火), [news.gov.hk](https://www.news.gov.hk/eng/2025/11/20251127/20251127_033453_007.html) |
 | 2025-11-28 | Participated in inter-departmental team, inspected Heng Fuk Estate repair works and similar projects citywide | [thewitnesshk](https://thewitnesshk.com/宏福苑五級火兩部門守則指棚網「應具」阻燃性業界), [info.gov.hk](https://www.info.gov.hk/gia/general/202511/29/P2025112900444p.htm) |
+| 2025-11-30 18:00 | Housing Department mobilized over 100 professionals for preliminary inspections of 6 buildings, completing over 1,500 units preliminary checks. Hung Yan House, Hung To House, Hung Kin House, Hung Tai House, Hung Shing House and Hung Chi House completed | [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 
 ### Labour Department Actions
 
