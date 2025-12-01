@@ -16,39 +16,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Sync upstream changes
-        uses: tgymnich/fork-sync@v2
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          # GitHub token with repo permissions
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Owner of the upstream repository
-            # Replace with actual upstream owner
-          owner: Hong-Kong-Emergency-Coordination-Hub
-          
-          # Name of the upstream repository
-          # Replace with actual upstream repo name
-          repo: Hong-Kong-Fire-Documentary
-          
-          # Branch to sync (default is main)
-          # You can specify multiple branches separated by commas
-          base: main
-          
-          # Head branch (your fork's branch)
-          head: main
-          
-          # Merge method: merge, squash, or rebase (default is merge)
-          merge_method: merge
-      
-      - name: Add [skip ci] to commit message
-        if: github.event_name == 'push' || github.event_name == 'schedule'
+          fetch-depth: 0
+
+      - name: Sync fork with upstream
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Check if there are new commits
-          if git log -1 --pretty=%B | grep -q "Merge pull request"; then
-            # Amend the commit message to add [skip ci]
-            git commit --amend -m "[skip ci] $(git log -1 --pretty=%B)"
-            git push -f origin main
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add upstream remote
+          git remote add upstream https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary.git || true
+
+          # Fetch upstream changes
+          git fetch upstream
+
+          # Merge upstream changes
+          git merge upstream/main --no-edit -m "[skip ci] Sync fork with upstream"
+
+          # Push changes
+          git push origin main
