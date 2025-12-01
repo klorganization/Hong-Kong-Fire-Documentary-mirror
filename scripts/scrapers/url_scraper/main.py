@@ -32,6 +32,22 @@ SOURCE_DIR_MAP = {
     "CNN News": "cnn"
 }
 
+# Mapping of Scraper Source Title -> Markdown Header Title (if different)
+SOURCE_HEADER_MAP = {
+    "HKEJ": "信報財經新聞",
+    "iCable": "有線新聞 (i-Cable)",
+    "Points Media": "Points Media (棱角)",
+    "明報": "明報",
+    "OnCC": "東方日報",
+    "People's Daily": "人民日報大湾区",
+    "Sky Post": "晴報 (Sky Post)",
+    "TVBS News": "TVBS News / TVBS新聞",
+    "RTHK": "香港電台",
+    "Guardian": "The Guardian",
+    "DotDotNews": "Dotdotnews",
+    "CNN": "CNN News"
+}
+
 def main():
     """"""
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -134,8 +150,9 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
         markdown_chunk += f"- [{article_title}]({url})\n"
 
     # 4. Insert into File
-    header_marker_single = f"# {title}"
-    header_marker_double = f"## {title}"
+    target_header_title = SOURCE_HEADER_MAP.get(title, title)
+    header_marker_single = f"# {target_header_title}"
+    header_marker_double = f"## {target_header_title}"
     
     lines = existing_content.splitlines(keepends=True)
     
@@ -145,12 +162,14 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
     
     header_line_idx = -1
     for i, line in enumerate(lines):
-        if line.strip() == header_marker_single:
+        line_stripped = line.strip()
+        # Check for exact match or prefix match (e.g. for Mingpao with date)
+        if line_stripped == header_marker_single or line_stripped.startswith(header_marker_single + " "):
             section_found = True
             header_line_idx = i
             header_level = 1
             break
-        elif line.strip() == header_marker_double:
+        elif line_stripped == header_marker_double or line_stripped.startswith(header_marker_double + " "):
             section_found = True
             header_line_idx = i
             header_level = 2
