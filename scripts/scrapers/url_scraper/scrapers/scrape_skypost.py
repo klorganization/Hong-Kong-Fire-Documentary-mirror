@@ -65,7 +65,7 @@ def scrape():
                 if ("大埔" in title and "火" in title) or "宏福苑" in title:
                     date_text = get_article_date(link)
                     
-                    if "2025年11月" in date_text:
+                    if "2025年11月" in date_text or "2025年12月" in date_text:
                         found_articles[link] = (date_text, title, link)
                     
                     time.sleep(0.5) 

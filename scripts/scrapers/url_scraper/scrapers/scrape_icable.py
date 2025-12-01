@@ -43,7 +43,7 @@ def scrape():
                     if date_match:
                         date_text = date_match.group(1)
                     
-                    if "2025年11月" in date_text:
+                    if "2025年11月" in date_text or "2025年12月" in date_text:
                         results.append((date_text, title, link))
                     
                 except Exception:

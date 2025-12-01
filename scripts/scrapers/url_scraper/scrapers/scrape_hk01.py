@@ -1,90 +1,153 @@
 import asyncio
 from playwright.async_api import async_playwright
 import datetime
-import os
+import re
 
 async def _scrape_async():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=True, args=['--disable-dev-shm-usage', '--no-sandbox', '--disable-gpu', '--disable-setuid-sandbox'])
         context = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         )
         page = await context.new_page()
         
         results = []
+        target_url = "https://www.hk01.com/issue/10398"
+        print(f"Scraping HK01 Issue Page: {target_url}")
         
-        keywords = ["宏福苑 火警", "大埔 火警"]
-        found_issue_page = None
-
-        print("Searching for keywords...")
-        for keyword in keywords:
-            url = f"https://www.hk01.com/search?q={keyword}"
-            try:
-                await page.goto(url, wait_until="domcontentloaded", timeout=30000)
-                await asyncio.sleep(2)
-                
-                # Check for "Issue" links or collection links
-                links = await page.query_selector_all('a[href*="/issue/"]')
-                for link in links:
-                    href = await link.get_attribute('href')
-                    if href:
-                        found_issue_page = href if href.startswith("http") else "https://www.hk01.com" + href
-                        print(f"Found issue page via search: {found_issue_page}")
-                        break
-                if found_issue_page:
-                    break
-            except Exception as e:
-                print(f"Search failed for {keyword}: {e}")
-
-        # Fallback to the known issue page if search fails (it was found in initial exploration)
-        if not found_issue_page:
-            found_issue_page = "https://www.hk01.com/issue/10398"
-            print(f"Using fallback issue page: {found_issue_page}")
-
-        # Now scrape the issue page
-        print(f"Scraping issue page: {found_issue_page}")
         try:
-            await page.goto(found_issue_page, wait_until="domcontentloaded", timeout=60000)
-            await asyncio.sleep(5)
+            # Try multiple wait strategies with shorter timeouts
+            try:
+                await page.goto(target_url, wait_until="domcontentloaded", timeout=30000)
+            except Exception as e:
+                print(f"Warning: Page load issue: {e}")
+                # Try a simple goto without wait condition
+                await page.goto(target_url, timeout=30000)
             
-            elements = await page.query_selector_all('a')
-            for el in elements:
-                try:
-                    title = await el.inner_text()
-                    link = await el.get_attribute('href')
+            # Wait for content to appear
+            try:
+                await page.wait_for_selector('a[href*="/"]', timeout=10000)
+            except:
+                pass
+            
+            await asyncio.sleep(3)
+            
+            # Scroll to load more content
+            for _ in range(3):
+                await page.mouse.wheel(0, 3000)
+                await asyncio.sleep(2)
+            
+            items = await page.evaluate(r'''() => {
+                const data = [];
+                const seen = new Set();
+                
+                document.querySelectorAll('a').forEach(a => {
+                    const href = a.href;
+                    const title = a.innerText.trim();
                     
-                    if link and title and len(title) > 5 and not "javascript" in link:
-                         if not link.startswith("http"):
-                            link = "https://www.hk01.com" + link
-                         
-                         # Deduplicate
-                         if link not in [r['link'] for r in results]:
-                             # Verify the link is reachable (simple check)
-                             # We won't fetch every page to save time, but we assume links on the page are valid.
-                             results.append({
-                                 "title": title.strip(),
-                                 "link": link
-                             })
-                except:
-                    pass
+                    if (!href || title.length < 5) return;
+                    if (seen.has(href)) return;
+                    
+                    if (!href.match(/\/\d+\//)) return;
+                    
+                    seen.add(href);
+                    
+                    let dateStr = "";
+                    let parent = a.parentElement;
+                    for(let i=0; i<6; i++) {
+                        if(!parent) break;
+                        const t = parent.querySelector('time') || 
+                                  parent.querySelector('.time') || 
+                                  parent.querySelector('span[class*="time"]') ||
+                                  parent.querySelector('span[class*="date"]');
+                        if (t) {
+                            dateStr = t.innerText.trim();
+                            break;
+                        }
+                        parent = parent.parentElement;
+                    }
+                    
+                    data.push({title, href, dateStr});
+                });
+                return data;
+            }''')
+            
+            print(f"Found {len(items)} items on page.")
+            
+            today = datetime.date.today()
+            print(f"Processing articles (today is {today})...")
+            
+            for item in items:
+                title = item['title']
+                link = item['href']
+                date_text = item['dateStr']
+                
+                final_date = None
+                
+                # Try to parse the date from the date text first
+                if date_text:
+                    try:
+                        if "分鐘前" in date_text or "小時前" in date_text or "Just now" in date_text:
+                            final_date = today.strftime("%Y-%m-%d")
+                        elif "昨日" in date_text or "昨天" in date_text:
+                            d = today - datetime.timedelta(days=1)
+                            final_date = d.strftime("%Y-%m-%d")
+                        elif "前" in date_text and "天" in date_text:
+                            days_match = re.search(r'(\d+)', date_text)
+                            if days_match:
+                                days_ago = int(days_match.group(1))
+                                d = today - datetime.timedelta(days=days_ago)
+                                final_date = d.strftime("%Y-%m-%d")
+                        else:
+                            # Try various date formats
+                            # YYYY-MM-DD or YYYY/MM/DD
+                            match = re.search(r'(\d{4})[-/](\d{1,2})[-/](\d{1,2})', date_text)
+                            if match:
+                                final_date = f"{match.group(1)}-{match.group(2).zfill(2)}-{match.group(3).zfill(2)}"
+                            else:
+                                # DD-MM-YYYY or DD/MM/YYYY
+                                match = re.search(r'(\d{1,2})[-/](\d{1,2})[-/](\d{4})', date_text)
+                                if match:
+                                    final_date = f"{match.group(3)}-{match.group(2).zfill(2)}-{match.group(1).zfill(2)}"
+                    except Exception as e:
+                        print(f"Error parsing date text '{date_text}': {e}")
+                
+                # If we couldn't parse the date from text, try extracting from URL or content
+                if not final_date:
+                    # Look for timestamp in article ID (HK01 URLs contain article IDs)
+                    # Pattern: hk01.com/category/ARTICLEID/title
+                    url_match = re.search(r'/(\d{8})\d*/', link)
+                    if url_match:
+                        # Extract YYYYMMDD from the beginning of article ID
+                        date_str = url_match.group(1)
+                        try:
+                            final_date = f"{date_str[0:4]}-{date_str[4:6]}-{date_str[6:8]}"
+                            # Validate the date
+                            datetime.datetime.strptime(final_date, "%Y-%m-%d")
+                        except:
+                            final_date = None
+                
+                # Last resort: default to fire incident date
+                if not final_date:
+                    print(f"Warning: Could not parse date for '{title[:50]}...', date_text='{date_text}', using default")
+                    final_date = "2025-11-26"
+                
+                # Debug: show first few results
+                if len(results) < 5:
+                    print(f"  -> [{final_date}] {title[:60]}...")
+                
+                results.append((final_date, title, link))
+                
         except Exception as e:
-            print(f"Error visiting issue page: {e}")
+            print(f"Error scraping HK01: {e}")
             
         await browser.close()
         return results
 
 def scrape():
-    """
-    Scrapes HK01 and returns a tuple of (source_name, list_of_articles).
-    Each article is a tuple of (date, title, link).
-    """
-    raw_results = asyncio.run(_scrape_async())
-    
-    # Default date for this specific event collection
-    default_date = "2025-11-26"
-    
-    formatted_results = []
-    for r in raw_results:
-        formatted_results.append((default_date, r['title'], r['link']))
-        
-    return ("HK01", formatted_results)
+    try:
+        formatted_results = asyncio.run(_scrape_async())
+        return ("HK01", formatted_results)
+    except Exception as e:
+        print(f"Scrape failed: {e}")
+        return ("HK01", [])

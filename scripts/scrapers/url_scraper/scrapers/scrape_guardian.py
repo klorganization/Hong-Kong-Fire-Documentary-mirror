@@ -6,7 +6,7 @@ import time
 def scrape():
     base_url = "https://www.theguardian.com/world"
     start_date = datetime.date(2025, 11, 26)
-    end_date = datetime.date(2025, 11, 29)
+    end_date = datetime.date.today()
     keywords = ["Hong Kong", "Tai Po", "Wang Fuk Court", "Fire", "Blaze"]
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"

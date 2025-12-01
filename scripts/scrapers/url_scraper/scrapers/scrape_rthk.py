@@ -5,7 +5,7 @@ import datetime
 def scrape():
     base_url = "https://news.rthk.hk"
     start_date = datetime.date(2025, 11, 26)
-    end_date = datetime.date(2025, 11, 30)
+    end_date = datetime.date.today()
     
     configs = [
         {

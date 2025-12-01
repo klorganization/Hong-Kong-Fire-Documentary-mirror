@@ -66,4 +66,4 @@ def scrape():
             seen.add(url)
             unique.append((date, title, url))
     
-    return ("CNN", unique)
+    return ("CNN News", unique)

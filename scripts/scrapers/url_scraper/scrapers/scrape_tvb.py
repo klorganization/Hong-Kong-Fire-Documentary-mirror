@@ -27,17 +27,20 @@ async def _scrape_async():
         ]
         
         try:
-            await page.goto(topic_url, wait_until="networkidle", timeout=60000)
+            await page.goto(topic_url, wait_until="domcontentloaded", timeout=30000)
+            # Wait for content to stabilize
+            await asyncio.sleep(3)
+            
             # Scroll to bottom to load all content
             last_height = await page.evaluate("document.body.scrollHeight")
             retries = 0
             while True:
                 await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                await asyncio.sleep(3)
+                await asyncio.sleep(2)
                 new_height = await page.evaluate("document.body.scrollHeight")
                 if new_height == last_height:
                     retries += 1
-                    if retries >= 3:  # Try a few times to ensure no more content loads
+                    if retries >= 2:  # Try a couple times to ensure no more content loads
                         break
                 else:
                     retries = 0
@@ -104,8 +107,8 @@ async def _scrape_async():
             for keyword in keywords:
                 url = f"https://news.tvb.com/tc/search?q={keyword}"
                 try:
-                    await page.goto(url, wait_until="networkidle", timeout=30000)
-                    await asyncio.sleep(5)
+                    await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+                    await asyncio.sleep(3)
                     elements = await page.query_selector_all('a')
                     for el in elements:
                          try:
