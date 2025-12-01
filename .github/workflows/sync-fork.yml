@@ -2,8 +2,8 @@ name: Sync Fork (Using fork-sync action)
 
 on:
   schedule:
-    # Run every 15 minutes
-    - cron: '*/15 * * * *'
+    # Run every hour
+    - cron: '0 * * * *'
   # Allow manual trigger
   workflow_dispatch:
 
