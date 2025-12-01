@@ -34,6 +34,9 @@ jobs:
           # You can specify multiple branches separated by commas
           base: main
           
+          # Head branch (your fork's branch)
+          head: main
+          
           # Merge method: merge, squash, or rebase (default is merge)
           merge_method: merge
       
