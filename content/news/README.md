@@ -28,6 +28,7 @@
 - [**人民日報大湾区(People's Daily GBA)**](peoples-daily-gba/README.md)
 - [**香港理工大學 (PolyU)**](polyu/README.md)
 - [**TVBS新聞 (TVBS News)**](tvbs/README.md)
+- [**Pulse News**](pulse-news/README.md)
 
 ## 國際媒體 (International Media)
 
@@ -40,6 +41,7 @@
 - [**Sky**](sky/README.md)
 - [**The Guardian**](the-guardian/README.md)
 - [**The Sun**](the-sun/README.md)
+- [**SBS (Australia)**](sbs/README.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## 官方資料 (Official Information)

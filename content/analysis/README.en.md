@@ -9,6 +9,7 @@ This section contains technical analyses and literature regarding scaffolding sa
 ## Material Flammability Tests
 
 - [TVB News Test on Scaffolding Netting and Styrofoam (Shui Wo Court) (2025-11-30)](material_flammability_tests.md)
+- [HOY TV Report on Styrofoam Board Certification (2025-12-01)](material_flammability_tests.md#hoy-tv-report-on-styrofoam-board-certification-hoy-tv)
 
 ## Engineering Analysis on Improving Safety and Reliability of Bamboo Scaffolding (2002)
 

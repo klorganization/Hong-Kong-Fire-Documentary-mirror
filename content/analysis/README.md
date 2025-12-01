@@ -4,6 +4,10 @@
 
 - [樓宇維修公開資料庫](傳真社/README.md)
 
+## 宏福苑大維修工程疑點分析 (Analysis of Wang Fuk Court Maintenance Project)
+
+- [點新聞：宏福苑火災疑點重重　現屆法團或需逐一解釋？ (2025-11-30)](../news/dotdotnews/archive/2025-11-30-fire-suspicion-corporation.md)
+
 ## 物料阻燃測試 (Material Flammability Tests)
 
 - [TVB新聞：沙田穗禾苑維修棚網及發泡膠測試 (2025-11-30)](material_flammability_tests.md)
