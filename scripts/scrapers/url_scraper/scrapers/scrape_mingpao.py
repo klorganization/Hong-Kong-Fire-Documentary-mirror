@@ -10,9 +10,7 @@ def parse_response(data: dict):
     links = [i["SUMMARY"]["sharelink"] for i in data["data_Result"]]
     dates = [i["ATTRIBUTES"]["DOCISSUE"] for i in data["data_Result"]]
 
-    result = []
-    for i in range(len(data["data_Result"])):
-        result.append((dates[i], title[i], links[i]))
+    result = [(dates[i], title[i], links[i]) for i in range(len(data["data_Result"]))]
     return result
 
 

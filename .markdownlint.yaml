@@ -1,14 +1,15 @@
+---
 # Default state for all rules
 default: true
-MD004 : false
+MD004: false
 MD007:
-  indent : 2 # ul-indent - Unordered list indentation
-MD013 : false    # line-length - Line length
-MD029 : false    # ol-prefix - Ordered list item prefix
-MD033 : false    # no-inline-html Inline HTML
-MD041 : false    # first-line-heading/first-line-h1
-MD046 : false    # indented-code-blocks
-MD059 : false    # descriptive-link-text
-MD036 : false    # no-emphasis-as-heading
-MD024 : false    # no-duplicate-heading
-MD060: false    # table-column-style
+  indent: 2  # ul-indent - Unordered list indentation
+MD013: false  # line-length - Line length
+MD029: false  # ol-prefix - Ordered list item prefix
+MD033: false  # no-inline-html Inline HTML
+MD041: false  # first-line-heading/first-line-h1
+MD046: false  # indented-code-blocks
+MD059: false  # descriptive-link-text
+MD036: false  # no-emphasis-as-heading
+MD024: false  # no-duplicate-heading
+MD060: false  # table-column-style

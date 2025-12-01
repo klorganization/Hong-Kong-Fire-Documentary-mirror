@@ -1,7 +1,9 @@
-import requests
-from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin
+
+import requests
+from bs4 import BeautifulSoup
+
 
 def scrape():
     base_url = "http://gba.people.cn/"
@@ -9,7 +11,7 @@ def scrape():
     all_articles = []
 
     def extract_date_from_url(url):
-        match = re.search(r'/(\d{4})/(\d{2})(\d{2})/', url)
+        match = re.search(r"/(\d{4})/(\d{2})(\d{2})/", url)
         if match:
             return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
         return None
@@ -23,35 +25,33 @@ def scrape():
         except Exception:
             return []
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, "html.parser")
         articles = []
-        
-        for a in soup.find_all('a', href=True):
-            link = a['href']
+
+        for a in soup.find_all("a", href=True):
+            link = a["href"]
             title = a.get_text(strip=True)
-            
+
             if not title or len(title) < 5:
                 continue
-                
+
             full_url = urljoin(base_url, link)
             date = extract_date_from_url(full_url)
-            
+
             if date:
                 if any(k in title for k in keywords):
                     articles.append((date, title, full_url))
         return articles
 
-    pages_to_scrape = ["index.html", "index1.html"]
-    for i in range(2, 11):
-        pages_to_scrape.append(f"index{i}.html")
-        
+    pages_to_scrape = ["index.html", "index1.html"] + [f"index{i}.html" for i in range(2, 11)]
+
     for page in pages_to_scrape:
         url = urljoin(base_url, page)
         articles = scrape_page(url)
         all_articles.extend(articles)
-        
+
     unique_articles = {}
     for date, title, url in all_articles:
         unique_articles[url] = (date, title, url)
-        
+
     return ("People's Daily", list(unique_articles.values()))

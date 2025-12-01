@@ -1,34 +1,27 @@
-import subprocess
-from bs4 import BeautifulSoup
-import re
-from datetime import datetime
-import time
 import concurrent.futures
+import re
+import subprocess
+from datetime import datetime
+
+from bs4 import BeautifulSoup
+
 
 def fetch_with_curl(url):
     try:
         # Simulate curl request
-        result = subprocess.run(
-            ['curl', '-s', '--max-time', '5', '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', url],
-            capture_output=True,
-            timeout=10
-        )
+        result = subprocess.run(["curl", "-s", "--max-time", "5", "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", url], check=False, capture_output=True, timeout=10)
         if result.returncode != 0:
             return None
-        return result.stdout.decode('utf-8', errors='ignore')
+        return result.stdout.decode("utf-8", errors="ignore")
     except Exception:
         return None
 
+
 def scrape():
     base_url = "https://www.dotdotnews.com"
-    start_urls = [
-        "https://www.dotdotnews.com/",
-        "https://www.dotdotnews.com/immed/hknews",
-        "https://www.dotdotnews.com/hkopinion",
-        "https://www.dotdotnews.com/video"
-    ]
+    start_urls = ["https://www.dotdotnews.com/", "https://www.dotdotnews.com/immed/hknews", "https://www.dotdotnews.com/hkopinion", "https://www.dotdotnews.com/video"]
     keywords = ["宏福苑", "大埔", "火災", "五級火"]
-    
+
     articles = []
     visited_urls = set()
 
@@ -36,17 +29,17 @@ def scrape():
         content = fetch_with_curl(url)
         if not content:
             return None
-        return BeautifulSoup(content, 'html.parser')
+        return BeautifulSoup(content, "html.parser")
 
     def extract_date(soup):
         text_content = soup.get_text()
-        date_match = re.search(r'(\d{4}\.\d{2}\.\d{2}\s+\d{2}:\d{2})', text_content)
+        date_match = re.search(r"(\d{4}\.\d{2}\.\d{2}\s+\d{2}:\d{2})", text_content)
         if date_match:
             return date_match.group(1)
-            
-        meta_date = soup.find('meta', property='article:published_time')
+
+        meta_date = soup.find("meta", property="article:published_time")
         if meta_date:
-            return meta_date['content']
+            return meta_date["content"]
 
         return "Unknown Date"
 
@@ -54,68 +47,68 @@ def scrape():
         if url in visited_urls:
             return
         visited_urls.add(url)
-        
+
         soup = get_soup(url)
         if not soup:
             return
 
-        title_tag = soup.find('h1')
+        title_tag = soup.find("h1")
         if not title_tag:
-            title_tag = soup.find('title')
-        
+            title_tag = soup.find("title")
+
         if not title_tag:
             return
-            
+
         title = title_tag.get_text().strip()
-        
+
         is_relevant = False
         for kw in keywords:
             if kw in title:
                 is_relevant = True
                 break
-                
+
         if "宏福苑" not in title:
-             meta_desc = soup.find('meta', attrs={'name': 'description'})
-             if meta_desc and "宏福苑" in meta_desc['content']:
-                 is_relevant = True
-             else:
-                 is_relevant = False
+            meta_desc = soup.find("meta", attrs={"name": "description"})
+            if meta_desc and "宏福苑" in meta_desc["content"]:
+                is_relevant = True
+            else:
+                is_relevant = False
         else:
             is_relevant = True
-            
+
         if is_relevant:
             date_str = extract_date(soup)
             try:
                 date_obj = datetime.strptime(date_str, "%Y.%m.%d %H:%M")
                 date_display = date_obj.strftime("%Y-%m-%d")
-            except:
+            except Exception:
                 date_display = date_str
 
             articles.append((date_display, title, url))
 
     article_links = set()
-    
+
     print(f"Scanning {len(start_urls)} sections for articles...")
     for start_url in start_urls:
         soup = get_soup(start_url)
         if not soup:
             continue
-            
-        for a in soup.find_all('a', href=True):
-            href = a['href']
-            if href.startswith('/'):
+
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if href.startswith("/"):
                 href = base_url + href
-            elif not href.startswith('http'):
+            elif not href.startswith("http"):
                 continue
-                
-            if '/a/202' in href and '.html' in href:
+
+            if "/a/202" in href and ".html" in href:
                 article_links.add(href)
-    
+
     print(f"Found {len(article_links)} potential articles. Processing concurrently...")
-    
+
     count = 0
     total = len(article_links)
-    
+
     try:
         with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
             futures = [executor.submit(parse_article, link) for link in article_links]

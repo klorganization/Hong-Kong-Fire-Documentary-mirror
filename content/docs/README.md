@@ -15,7 +15,7 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf>
   - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf>  
+  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf>
   - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](government/CL_ATGMWCS2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf>
   - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDRMW2025c.pdf)
@@ -47,13 +47,13 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [樓宇復修平台 - 招標妥《自助工具》手冊（DIY Tool-kits）](government/DIY_Tool_Kit.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf>
   - [樓宇復修平台 - 「招標妥」樓宇復修促進服務申請須知](government/Application_notes_ST.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13481/Application_notes_ST.pdf>
   - [樓宇復修平台 - 第三輪樓宇更新大行動 2.0 (第一類別樓宇業主組織適用)申請須知](government/AN-OBB-CHI.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13481/AN-OBB-CHI.pdf>
- 
+
 - **[廉政公署 (ICAC)]**
   - [「誠」建約章2.0 - 參加指引](government/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf>
   - [「誠」建約章2.0 - 誠信政策範本](government/926ada7c-e234-4477-8fbe-feabd989d2af.docx) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/926ada7c-e234-4477-8fbe-feabd989d2af.docx>
   - [「誠」建約章2.0 - 常見問題](government/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2022/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx>
   - [「誠」建約章2.0 - 參加公司名單](government/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2025/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf>
-    
+
 - **社會福利署 (SWD)**
   - [南大埔綜合家庭服務中心服務範圍 (2024年10月)](government/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - 收集自: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
 

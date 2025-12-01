@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 📤 提交證據 / Submit Evidence
 

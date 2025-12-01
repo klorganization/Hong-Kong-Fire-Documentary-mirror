@@ -1,6 +1,6 @@
 [English Version](#english-version)
 
-> **Mirror Site / 鏡像網站**: https://wfc-fire.collection.news/
+> **Mirror Site / 鏡像網站**: <https://wfc-fire.collection.news/>
 >
 > This mirror is synchronized every 12 hours to ensure data accessibility in case of takedown or censorship.
 > 本鏡像網站每 12 小時同步一次，以確保在被移除或審查時仍可存取資料。
@@ -133,7 +133,7 @@
 
 如需引用本資料庫的原創整理內容，請標示：
 
-```
+```text
 來源：11.26 大埔宏福苑火災紀錄庫 (Hong Kong Fire Documentary)
 網址：https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
 授權：CC BY-SA 4.0
@@ -236,9 +236,11 @@ pip install -r requirements.txt
 - **`scripts/archive_database.py`**：新聞資料庫自動備份工具 (JSON)
   - 自動掃描 `scraped_urls.json` 資料庫中的連結，將其備份至 Internet Archive，並將備份連結 (`archive_url`) 寫回資料庫中。
   - **使用方法**：
+
     ```bash
     python3 scripts/archive_database.py scripts/scrapers/content_scraper/scraped_urls.json
     ```
+
 - **`mkdocs.yml`**：網站生成配置文件 (MkDocs Configuration)
   - 定義網站結構、主題及多語言支援 (i18n) 設定
 
@@ -370,7 +372,7 @@ This repository operates under a dual-licensing model:
 
 When using original content from this repository, please attribute as follows:
 
-```
+```text
 Source: 11.26 Tai Po Wang Fuk Court Fire Documentary (Hong Kong Fire Documentary)
 URL: https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
 License: CC BY-SA 4.0
@@ -448,7 +450,7 @@ This repository includes automation tools and CI/CD workflows for developers:
 - **`.github/workflows/`**: GitHub Actions workflows
   - `publish.yml`: Automatically builds and deploys the site to GitHub Pages
   - `lint.yml`: Automatically checks Markdown formatting and code style (Linting)
-  - `auto-review.yml`: Automatically request project reviwers to review Pull Request
+  - `auto-review.yml`: Automatically request project reviewers to review Pull Request
 - **`scripts/scraper/`**: Scheduled News Scraper
   - Scheduled to fetch the latest reports from major media outlets
   - Includes `scraper.py` (main script) and `scraped_urls.json` (history record)
@@ -475,6 +477,7 @@ This repository includes automation tools and CI/CD workflows for developers:
   - Automatically scan links from the Database(`scraped_urls.json`) and back up to Internet Archive, with the back up link(`archive_url`) inserted back to the Database.
 
   - **Usage**:
+
     ```bash
     python3 scripts/archive_database.py scripts/scrapers/content_scraper/scraped_urls.json
     ```

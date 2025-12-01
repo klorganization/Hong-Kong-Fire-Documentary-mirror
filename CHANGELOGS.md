@@ -283,7 +283,6 @@ Added Commercial Radio news coverage and synced with upstream main.
 - (2025-11-29 12:52:45) [d2b9f4b] Merge branch 'Hong-Kong-Emergency-Coordination-Hub:main' into main
 - (2025-11-29 12:51:42) [92e6327] chore: adding commercial radio news
 
-
 ## Stanley Law
 
 優化 CI／Lint 流程與 GitHub Actions 設定。
@@ -323,6 +322,7 @@ Added NestX coverage to document the incident’s media footprint.
 Captured Wang Fuk Court renovation engineering documents to strengthen archival completeness.
 
 - (2025-11-30 03:52:16) [176e924] [Merge Request]: Add Wang Fuk Court Renovation Engineering Documents (#88)
+
 ## Vincent Wong
 
 釐清 README 內容，讓使用者更易理解。
@@ -343,7 +343,7 @@ Fixed erroneous links to keep documentation accessible.
 同步主倉並更新影片／支援頁的原始資料。
 Synced with upstream and refreshed metadata for video and support content.
 
-- (2025-11-29 23:30:33) [12300fe] Merge branch 'main' of https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+- (2025-11-29 23:30:33) [12300fe] Merge branch 'main' of <https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary>
 - (2025-11-29 23:30:12) [e883de6] Update Metadata in content\\videos + English version of content\\support
 
 ## dundd2

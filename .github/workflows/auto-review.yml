@@ -5,12 +5,15 @@ on:
   pull_request:
     types: [opened, ready_for_review]
 
+permissions:
+  pull-requests: write
+
 jobs:
   add-reviews:
     runs-on: ubuntu-latest
     steps:
       - name: Request Reviewers
-        uses: actions/github-script@v7
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b  # v7.1.0
         with:
           script: |
             const reviewers = ['heilcheng'];
