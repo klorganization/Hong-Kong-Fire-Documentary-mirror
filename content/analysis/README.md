@@ -7,6 +7,7 @@
 ## 物料阻燃測試 (Material Flammability Tests)
 
 - [TVB新聞：沙田穗禾苑維修棚網及發泡膠測試 (2025-11-30)](material_flammability_tests.md)
+- [HOY TV：消防顧問質疑發泡膠板檢測證書 (2025-12-01)](material_flammability_tests.md#hoy-tv-report-on-styrofoam-board-certification-hoy-tv)
 
 ## 改進竹棚架安全性及可靠性的工程分析 (2002)
 
