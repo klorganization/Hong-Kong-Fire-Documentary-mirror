@@ -2,6 +2,8 @@
 
 # 11.26 大埔宏福苑火災紀錄庫
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hong-Kong-Emergency-Coordination-Hub.Hong-Kong-Fire-Documentary)
+
 本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便學術界、媒體、工程界及關注事件的市民查閱。
 
 ## 目錄 (Table of Contents)

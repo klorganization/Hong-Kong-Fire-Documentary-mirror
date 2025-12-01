@@ -36,7 +36,7 @@ extra_css:
 extra:
   og_image: https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/assets/og-image.png
 
-copyright: 'Copyright &copy; 2025 Hong Kong Fire Documentary. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
+copyright: 'Copyright &copy; 2025 Hong Kong Fire Documentary. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br><br>Visitors: <img src="https://visitor-badge.laobi.icu/badge?page_id=Hong-Kong-Emergency-Coordination-Hub.Hong-Kong-Fire-Documentary.site" alt="Visitors" style="vertical-align: middle;">'
 
 plugins:
   - search
