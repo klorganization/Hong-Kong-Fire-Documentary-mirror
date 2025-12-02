@@ -43,7 +43,13 @@ def scrape():
                     articles.append((date, title, full_url))
         return articles
 
+<<<<<<< Updated upstream
     pages_to_scrape = ["index.html", "index1.html"] + [f"index{i}.html" for i in range(2, 11)]
+=======
+    pages_to_scrape = ["index.html", "index1.html"]
+    for i in range(2, 11):
+        pages_to_scrape.append(f"index{i}.html")
+>>>>>>> Stashed changes
 
     for page in pages_to_scrape:
         url = urljoin(base_url, page)

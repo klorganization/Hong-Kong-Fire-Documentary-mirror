@@ -15,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4.3.1
         with:
-          ref: ${{ github.head_ref || github.ref }}
+          # For fork PRs, checkout from the fork's repo and branch
+          repository: ${{ github.event.pull_request.head.repo.full_name || github.repository }}
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
           # git-auto-commit-action needs to push back to the branch
           persist-credentials: true  # zizmor: ignore[artipacked]
 
@@ -38,7 +40,8 @@ jobs:
         continue-on-error: true
 
       - name: Commit fixes
-        if: github.event_name == 'pull_request'
+        # Only auto-commit for same-repo PRs (not forks - no push permission)
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403  # v5.2.0
         with:
           commit_message: "style: auto-fix lint issues"

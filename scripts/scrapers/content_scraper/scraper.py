@@ -204,17 +204,41 @@ def get_site_config(url: str, config: dict) -> dict:
     }
 
 
-def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
-    """Save scraped content to archive directory"""
+def get_existing_archive_url(folder: Path) -> str | None:
+    """Get URL from existing archive folder's metadata"""
+    metadata_file = folder / "metadata.json"
+    if metadata_file.exists():
+        try:
+            with open(metadata_file, encoding="utf-8") as f:
+                return json.load(f).get("url")
+        except Exception:
+            pass
+    return None
+
+
+def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
+    """Save scraped content to archive directory. Returns None if already exists."""
     archive_dir = source_dir / "archive"
     archive_dir.mkdir(exist_ok=True)
 
     slug = slugify(url_info["title"])
     article_dir = archive_dir / slug
+    url = url_info["url"]
 
+    # Check if folder exists with same URL (duplicate)
     if article_dir.exists():
+        existing_url = get_existing_archive_url(article_dir)
+        if existing_url == url:
+            log(f"  ⏭️ Archive already exists for this URL", "WARN")
+            return None  # Skip - already archived
+        
+        # Different URL, need unique folder name
         counter = 1
         while (archive_dir / f"{slug}-{counter}").exists():
+            existing_url = get_existing_archive_url(archive_dir / f"{slug}-{counter}")
+            if existing_url == url:
+                log(f"  ⏭️ Archive already exists for this URL", "WARN")
+                return None  # Skip - already archived
             counter += 1
         article_dir = archive_dir / f"{slug}-{counter}"
 
@@ -226,9 +250,9 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
 
     # Save metadata
     metadata = {
-        "url": url_info["url"],
+        "url": url,
         "title": url_info["title"],
-        "source": url_info["source"],
+        "source": url_info["source"].lower(),  # Normalize to lowercase
         "source_file": url_info["source_file"],
         "scraped_at": datetime.now().isoformat(),
         "archive_path": str(article_dir.relative_to(PROJECT_ROOT)),
@@ -239,36 +263,104 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
     return article_dir
 
 
-async def scrape_url_async(url_info: dict, context, config: dict, retries: int = 0) -> tuple[str, bool]:
-    """Scrape a single URL asynchronously"""
+async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
+    """Fallback scraper using requests library for simple pages"""
+    import requests
+
+    try:
+        headers = {"User-Agent": config["user_agent"]}
+        response = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+        response.raise_for_status()
+        return response.text, True
+    except Exception as e:
+        log(f"  ⚠️ Requests fallback failed: {str(e)[:40]}", "WARN")
+        return "", False
+
+
+async def scrape_url_async(url_info: dict, context, config: dict, retries: int = 0, browser=None) -> tuple[str, bool]:
+    """
+    Scrape a single URL with multiple fallback strategies:
+    - Retry 0: domcontentloaded (fast)
+    - Retry 1: networkidle (wait for all network)
+    - Retry 2: new context without HTTP/2 (fixes protocol errors)
+    - Retry 3: requests library fallback (for download-triggering pages)
+    """
     url = url_info["url"]
     site_config = get_site_config(url, config)
     timeout = site_config["timeout_seconds"] * 1000
     max_retries = site_config["max_retries"]
 
-    page = await context.new_page()
+    # Strategy selection based on retry count
+    strategies = [
+        {"wait_until": "domcontentloaded", "desc": "domcontentloaded"},
+        {"wait_until": "networkidle", "desc": "networkidle"},
+        {"wait_until": "domcontentloaded", "desc": "no-http2", "no_http2": True},
+        {"desc": "requests-fallback", "use_requests": True},
+    ]
+
+    strategy_idx = min(retries, len(strategies) - 1)
+    strategy = strategies[strategy_idx]
+
+    # Use requests library as final fallback
+    if strategy.get("use_requests"):
+        log(f"  🔄 Trying requests fallback...", "WARN")
+        return await scrape_with_requests(url, config)
+
+    # Create new context for HTTP/2 disabled retry
+    use_context = context
+    created_context = False
+    if strategy.get("no_http2") and browser:
+        try:
+            use_context = await browser.new_context(
+                user_agent=config["user_agent"],
+                viewport={"width": 1920, "height": 1080},
+                extra_http_headers={"Upgrade-Insecure-Requests": "1"},
+                ignore_https_errors=True,
+            )
+            created_context = True
+        except Exception:
+            use_context = context
+
+    page = await use_context.new_page()
     try:
-        await page.goto(url, timeout=timeout, wait_until="domcontentloaded")
+        # Handle download-triggering pages
+        page.on("download", lambda _: None)  # Ignore downloads
+
+        await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
         await page.wait_for_timeout(1500)  # Wait for JS
         html = await page.content()
+
+        # Check if we got meaningful content
+        if len(html) < 500:
+            raise ValueError("Page content too short, likely blocked")
+
         return html, True
+
     except PlaywrightTimeout:
         if retries < max_retries:
-            log(f"  ⏳ Timeout, retry {retries + 1}/{max_retries}...", "WARN")
+            log(f"  ⏳ Timeout ({strategy['desc']}), retry {retries + 1}/{max_retries}...", "WARN")
             await asyncio.sleep(2**retries)
-            return await scrape_url_async(url_info, context, config, retries + 1)
+            return await scrape_url_async(url_info, context, config, retries + 1, browser)
         return "", False
+
     except Exception as e:
+        error_str = str(e)
+
+        # Skip URLs that trigger downloads (like PDFs, videos)
+        if "Download is starting" in error_str:
+            log(f"  ⏭️ Skipping download URL", "WARN")
+            return "", False
+
         if retries < max_retries:
-            log(
-                f"  ⚠️ Error: {str(e)[:50]}, retry {retries + 1}/{max_retries}...",
-                "WARN",
-            )
+            log(f"  ⚠️ Error ({strategy['desc']}): {error_str[:40]}, retry {retries + 1}/{max_retries}...", "WARN")
             await asyncio.sleep(2**retries)
-            return await scrape_url_async(url_info, context, config, retries + 1)
+            return await scrape_url_async(url_info, context, config, retries + 1, browser)
         return "", False
+
     finally:
         await page.close()
+        if created_context:
+            await use_context.close()
 
 
 async def scrape_domain_queue(
@@ -298,11 +390,11 @@ async def scrape_domain_queue(
         pct = (progress["current"] / progress["total"]) * 100
         log(f"[{progress['current']}/{progress['total']}] ({pct:.0f}%) {domain}: {title}...")
 
-        html, success = await scrape_url_async(url_info, context, config)
+        html, success = await scrape_url_async(url_info, context, config, browser=browser)
 
         if success and html:
-            # Find source directory
-            source_dir = NEWS_DIR / source
+            # Find source directory (case-insensitive)
+            source_dir = NEWS_DIR / source.lower()
             if not source_dir.exists():
                 for d in NEWS_DIR.iterdir():
                     if d.is_dir() and d.name.lower() == source.lower():
@@ -311,19 +403,31 @@ async def scrape_domain_queue(
 
             archive_path = save_archive(url_info, html, source_dir)
 
-            # Update registry
-            registry["scraped_urls"][url] = {
-                "title": url_info["title"],
-                "source": source,
-                "scraped_at": datetime.now().isoformat(),
-                "archive_path": str(archive_path.relative_to(PROJECT_ROOT)),
-            }
-            save_registry(registry)
-
-            results["success"] += 1
-            log(f"  ✓ Saved ({len(html) // 1024}KB)")
+            if archive_path is None:
+                # Already existed - still mark as success and add to registry
+                results["success"] += 1
+                # Update registry to prevent future attempts
+                registry["scraped_urls"][url] = {
+                    "title": url_info["title"],
+                    "source": source.lower(),
+                    "scraped_at": datetime.now().isoformat(),
+                    "archive_path": "already_existed",
+                }
+                save_registry(registry)
+            else:
+                # New archive saved
+                registry["scraped_urls"][url] = {
+                    "title": url_info["title"],
+                    "source": source.lower(),
+                    "scraped_at": datetime.now().isoformat(),
+                    "archive_path": str(archive_path.relative_to(PROJECT_ROOT)),
+                }
+                save_registry(registry)
+                results["success"] += 1
+                log(f"  ✓ Saved ({len(html) // 1024}KB)")
         else:
             results["failed"] += 1
+            results["failed_urls"].append(url)  # Track failed URL
             log("  ✗ Failed")
 
         # Rate limit delay between requests to same domain
@@ -369,11 +473,11 @@ async def run_scraper_async(
                 if len(urls) > 3:
                     print(f"  ... and {len(urls) - 3} more")
         print(f"\nWould scrape {len(new_urls)} URLs across {len(domains)} domains")
-        return
+        return {"success": 0, "failed": 0, "failed_urls": []}
 
     if not new_urls:
         log("No new URLs to scrape")
-        return
+        return {"success": 0, "failed": 0, "failed_urls": []}
 
     # Group URLs by domain
     domains = group_urls_by_domain(new_urls)
@@ -389,7 +493,7 @@ async def run_scraper_async(
     log("🚀 Starting parallel scraper...")
     print()
 
-    results = {"success": 0, "failed": 0}
+    results = {"success": 0, "failed": 0, "failed_urls": []}
     progress = {"current": 0, "total": len(new_urls)}
 
     async with async_playwright() as p:
@@ -416,15 +520,17 @@ async def run_scraper_async(
     log(f"📊 Total:   {results['success'] + results['failed']}")
     log("=" * 50)
 
+    return results
+
 
 def run_scraper(
     dry_run: bool = False,
     source_filter: str = None,
     limit: int = None,
     verbose: bool = False,
-):
-    """Wrapper to run async scraper"""
-    asyncio.run(run_scraper_async(dry_run, source_filter, limit, verbose))
+) -> dict | None:
+    """Wrapper to run async scraper. Returns results dict with success, failed, failed_urls."""
+    return asyncio.run(run_scraper_async(dry_run, source_filter, limit, verbose))
 
 
 def main():

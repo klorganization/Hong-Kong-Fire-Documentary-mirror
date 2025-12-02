@@ -32,6 +32,7 @@ SOURCE_DIR_MAP = {
     "CNN News": "cnn",
 }
 
+<<<<<<< Updated upstream
 # Mapping of Scraper Source Title -> Markdown Header Title (if different)
 SOURCE_HEADER_MAP = {
     "HKEJ": "信報財經新聞",
@@ -48,6 +49,8 @@ SOURCE_HEADER_MAP = {
     "CNN": "CNN News",
 }
 
+=======
+>>>>>>> Stashed changes
 
 def main():
     """"""
@@ -151,9 +154,14 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
         markdown_chunk += f"- [{article_title}]({url})\n"
 
     # 4. Insert into File
+<<<<<<< Updated upstream
     target_header_title = SOURCE_HEADER_MAP.get(title, title)
     header_marker_single = f"# {target_header_title}"
     header_marker_double = f"## {target_header_title}"
+=======
+    header_marker_single = f"# {title}"
+    header_marker_double = f"## {title}"
+>>>>>>> Stashed changes
 
     lines = existing_content.splitlines(keepends=True)
 

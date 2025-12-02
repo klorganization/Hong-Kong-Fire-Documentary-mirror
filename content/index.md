@@ -8,7 +8,7 @@
 
 [![提交資料 Submit Data](https://img.shields.io/badge/📝_提交資料_/_Submit_Data-Google_Form-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScQF_RKTDJNKE0xcyKRTmdKnSouRkQFciO2SiAtgMpA-TVHxQ/viewform)
 
-**不熟悉 GitHub？** [點此了解更多 ↓](#-不熟悉-github使用-google-表格提交) | **Not familiar with GitHub?** [Learn more ↓](#-not-familiar-with-github-use-google-form)
+**不熟悉 GitHub？** [點此了解更多 ↓](#github-google) | **Not familiar with GitHub?** [Learn more ↓](#not-familiar-with-github-use-google-form)
 
 </div>
 

@@ -52,7 +52,11 @@ def scrape():
                         try:
                             dt = datetime.fromisoformat(published_time.replace("Z", "+00:00"))
                             date_str = dt.strftime("%Y-%m-%d")
+<<<<<<< Updated upstream
                         except Exception:
+=======
+                        except:
+>>>>>>> Stashed changes
                             date_str = published_time.split("T")[0]
                     else:
                         match = re.search(r"/(\d{4})/(\d{2})/", art["url"])

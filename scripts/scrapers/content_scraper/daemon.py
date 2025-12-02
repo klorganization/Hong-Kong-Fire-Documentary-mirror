@@ -12,7 +12,6 @@ Environment Variables Required:
 
 Optional Environment Variables:
     UPSTREAM_REPO - Upstream repo (default: Hong-Kong-Emergency-Coordination-Hub/...)
-    PR_BRANCH     - Branch for PRs (default: scraper-updates)
     MAIN_BRANCH   - Main branch name (default: main)
 
 Usage:
@@ -83,12 +82,38 @@ LOG_FILE = LOGS_DIR / "scraper.log"
 UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary")
 FORK_REPO = os.environ.get("FORK_REPO", "")  # Required - no default
 UPSTREAM_URL = f"https://github.com/{UPSTREAM_REPO}.git"
-PR_BRANCH = os.environ.get("PR_BRANCH", "scraper-updates")
 MAIN_BRANCH = os.environ.get("MAIN_BRANCH", "main")
 
 # Timing configuration
 SYNC_INTERVAL_MINUTES = 10
 PR_INTERVAL_MINUTES = 60
+
+# Stats tracking file for cumulative PR statistics
+STATS_FILE = SCRIPT_DIR / "pr_stats.json"
+
+
+def load_stats() -> dict:
+    """Load cumulative scraping statistics from file"""
+    if STATS_FILE.exists():
+        try:
+            with open(STATS_FILE, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {"success": 0, "failed": 0, "failed_urls": [], "cycles": 0, "started_at": None}
+
+
+def save_stats(stats: dict):
+    """Save cumulative scraping statistics to file"""
+    with open(STATS_FILE, "w", encoding="utf-8") as f:
+        json.dump(stats, f, indent=2, ensure_ascii=False)
+
+
+def reset_stats():
+    """Reset stats file when PR is merged or new PR cycle starts"""
+    if STATS_FILE.exists():
+        STATS_FILE.unlink()
+    logging.info("Stats reset for new PR cycle")
 
 
 def setup_logging():
@@ -423,7 +448,7 @@ def sync_with_upstream() -> bool:
 def run_scraper() -> tuple[int, int]:
     """
     Run the scraper to detect and scrape new URLs.
-    Returns (success_count, fail_count)
+    Returns (success_count, fail_count) and updates cumulative stats.
     """
     logging.info("Running scraper...")
 
@@ -450,14 +475,30 @@ def run_scraper() -> tuple[int, int]:
 
         logging.info(f"Found {len(new_urls)} new URLs to scrape")
 
-        # Run the scraper (it handles everything internally)
-        scrape(dry_run=False, verbose=False)
+        # Run the scraper and get results
+        results = scrape(dry_run=False, verbose=False)
 
-        # Count results by checking registry again
-        new_registry = load_registry()
-        scraped_count = len(new_registry.get("scraped_urls", {})) - len(registry.get("scraped_urls", {}))
+        success_count = results.get("success", 0) if results else 0
+        fail_count = results.get("failed", 0) if results else 0
+        failed_urls = results.get("failed_urls", []) if results else []
 
-        return scraped_count, len(new_urls) - scraped_count
+        # Update cumulative stats
+        stats = load_stats()
+        if stats["started_at"] is None:
+            stats["started_at"] = datetime.now().isoformat()
+        stats["success"] += success_count
+        stats["failed"] += fail_count
+        stats["cycles"] += 1
+        # Add new failed URLs (deduplicate)
+        existing_failed = set(stats.get("failed_urls", []))
+        for url in failed_urls:
+            if url not in existing_failed:
+                stats["failed_urls"].append(url)
+        save_stats(stats)
+
+        logging.info(f"Updated cumulative stats: {stats['success']} success, {stats['failed']} failed across {stats['cycles']} cycles")
+
+        return success_count, fail_count
 
     except Exception as e:
         logging.error(f"Scraper error: {e}")
@@ -496,9 +537,11 @@ def commit_changes() -> bool:
 
 @retry_on_failure(max_retries=2, delay=3, backoff=2)
 def get_open_pr() -> dict | None:
-    """Check if there's an existing open PR from the scraper branch using gh CLI"""
+    """Check if there's an existing open PR from fork's main branch using gh CLI"""
     fork_owner = get_fork_owner()
 
+    # Search by author and filter by head branch name
+    # (--head with fork:branch format doesn't work reliably for cross-fork PRs)
     result = run_cmd(
         [
             "gh",
@@ -506,22 +549,22 @@ def get_open_pr() -> dict | None:
             "list",
             "--repo",
             UPSTREAM_REPO,
-            "--head",
-            f"{fork_owner}:{PR_BRANCH}",
+            "--author",
+            fork_owner,
             "--state",
             "open",
             "--json",
-            "number,url",
-            "--limit",
-            "1",
+            "number,url,headRefName",
         ],
         check=False,
     )
 
     if result.returncode == 0 and result.stdout.strip():
         prs = json.loads(result.stdout)
-        if prs:
-            return prs[0]
+        # Filter to PRs from main branch
+        for pr in prs:
+            if pr.get("headRefName") == MAIN_BRANCH:
+                return {"number": pr["number"], "url": pr["url"]}
     return None
 
 
@@ -537,63 +580,8 @@ def close_pr(pr_number: int) -> bool:
         return False
 
 
-@retry_on_failure(max_retries=2, delay=3, backoff=2)
-def push_to_pr_branch() -> bool:
-    """Push changes to the PR branch (force push to keep clean history)"""
-    logging.info(f"Pushing to branch '{PR_BRANCH}'...")
-
-    original_branch = None
-    stashed = False
-
-    try:
-        # Remember current branch
-        result = run_cmd(["git", "rev-parse", "--abbrev-ref", "HEAD"], check=False)
-        if result.returncode == 0:
-            original_branch = result.stdout.strip()
-
-        # Stash any uncommitted changes (like log file updates) before switching branches
-        stash_result = run_cmd(["git", "stash", "--include-untracked"], check=False)
-        stashed = "No local changes" not in stash_result.stdout
-
-        # Delete local PR branch if exists (to avoid conflicts)
-        run_cmd(["git", "branch", "-D", PR_BRANCH], check=False)
-
-        # Create new branch from main
-        run_cmd(["git", "checkout", "-b", PR_BRANCH, MAIN_BRANCH])
-
-        # Force push to origin with retry
-        for attempt in range(3):
-            push_result = run_cmd(["git", "push", "origin", PR_BRANCH, "--force"], check=False)
-            if push_result.returncode == 0:
-                break
-            logging.warning(f"Push attempt {attempt + 1} failed: {push_result.stderr}")
-            time.sleep(2**attempt)
-        else:
-            raise RuntimeError(f"Failed to push PR branch after 3 attempts: {push_result.stderr}")
-
-        logging.info(f"Pushed to {PR_BRANCH}")
-        return True
-
-    except Exception as e:
-        logging.error(f"Failed to push: {e}")
-        raise
-
-    finally:
-        # Always try to get back to original branch and restore stash
-        target_branch = original_branch or MAIN_BRANCH
-        run_cmd(["git", "checkout", target_branch], check=False)
-        if stashed:
-            pop_result = run_cmd(["git", "stash", "pop"], check=False)
-            if pop_result.returncode != 0 and "No stash" not in pop_result.stderr:
-                logging.warning("Failed to restore stash, dropping it")
-                run_cmd(["git", "stash", "drop"], check=False)
-
-
-@retry_on_failure(max_retries=2, delay=3, backoff=2)
-def create_pr() -> bool:
-    """Create a new PR to upstream using gh CLI"""
-    fork_owner = get_fork_owner()
-
+def generate_pr_body() -> tuple[str, str]:
+    """Generate PR title and body with current stats. Returns (title, body)."""
     # Fetch upstream to ensure we have latest refs
     run_cmd(["git", "fetch", "upstream", MAIN_BRANCH], check=False)
 
@@ -631,25 +619,32 @@ def create_pr() -> bool:
 """
     else:
         new_articles_section = """### New Articles in This PR
-No new articles added.
+No new articles added yet.
 
 """
 
-    # Get total archive counts for reference
-    archives_dir = PROJECT_ROOT / "content" / "news"
-    total_articles = 0
-    total_sources = 0
-    try:
-        for source_dir in archives_dir.iterdir():
-            if source_dir.is_dir() and source_dir.name not in ["README.md", "README.en.md"]:
-                archive_dir = source_dir / "archive"
-                if archive_dir.exists():
-                    count = len([d for d in archive_dir.iterdir() if d.is_dir()])
-                    if count > 0:
-                        total_articles += count
-                        total_sources += 1
-    except Exception:
-        pass
+    # Load cumulative scraping stats
+    stats = load_stats()
+    stats_section = f"""### Scraping Statistics (since PR opened)
+- **Cycles completed**: {stats['cycles']}
+- **Successfully scraped**: {stats['success']}
+- **Failed to scrape**: {stats['failed']}
+
+"""
+
+    # Build failed URLs section (cap at 10)
+    failed_urls = stats.get("failed_urls", [])
+    if failed_urls:
+        displayed_urls = failed_urls[:10]
+        failed_lines = "\n".join(f"- {url}" for url in displayed_urls)
+        if len(failed_urls) > 10:
+            failed_lines += f"\n- ... and {len(failed_urls) - 10} more"
+        failed_section = f"""### Failed URLs
+{failed_lines}
+
+"""
+    else:
+        failed_section = ""
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
 
@@ -658,17 +653,18 @@ No new articles added.
 
 This PR was automatically generated by the news scraper daemon.
 
-{new_articles_section}### Repository Totals
-- **Total sources**: {total_sources}
-- **Total archived articles**: {total_articles}
-
-### What's included
-- Scraped HTML archives of news articles
-- Updated URL registry to prevent duplicates
-
----
-*This PR will be automatically replaced if not merged before the next hourly update.*
+{new_articles_section}{stats_section}{failed_section}---
+*Last updated: {timestamp}*
 """
+
+    return title, body
+
+
+@retry_on_failure(max_retries=2, delay=3, backoff=2)
+def create_pr() -> str | None:
+    """Create a new PR to upstream using gh CLI. Returns 'created', 'exists', or None on failure."""
+    fork_owner = get_fork_owner()
+    title, body = generate_pr_body()
 
     result = run_cmd(
         [
@@ -678,7 +674,7 @@ This PR was automatically generated by the news scraper daemon.
             "--repo",
             UPSTREAM_REPO,
             "--head",
-            f"{fork_owner}:{PR_BRANCH}",
+            f"{fork_owner}:{MAIN_BRANCH}",
             "--base",
             MAIN_BRANCH,
             "--title",
@@ -692,33 +688,61 @@ This PR was automatically generated by the news scraper daemon.
     if result.returncode == 0:
         pr_url = result.stdout.strip()
         logging.info(f"Created PR: {pr_url}")
-        return True
+        return "created"
     elif "already exists" in result.stderr.lower():
         logging.info("PR already exists")
-        return True
+        return "exists"
     else:
         logging.error(f"Failed to create PR: {result.stderr}")
+        return None
+
+
+def update_pr(pr_number: int) -> bool:
+    """Update an existing PR's title and body with fresh stats."""
+    title, body = generate_pr_body()
+
+    result = run_cmd(
+        [
+            "gh",
+            "pr",
+            "edit",
+            str(pr_number),
+            "--repo",
+            UPSTREAM_REPO,
+            "--title",
+            title,
+            "--body",
+            body,
+        ],
+        check=False,
+    )
+
+    if result.returncode == 0:
+        logging.info(f"Updated PR #{pr_number} with fresh stats")
+        return True
+    else:
+        logging.error(f"Failed to update PR #{pr_number}: {result.stderr}")
         return False
 
 
 def manage_pr():
-    """Close old PR if exists, push changes, and create new PR"""
+    """Create or update PR from fork's main to upstream's main"""
     logging.info("Managing PR...")
 
     # Check for existing open PR
     existing_pr = get_open_pr()
     if existing_pr:
         pr_number = existing_pr["number"]
-        logging.info(f"Found existing open PR #{pr_number}, closing...")
-        close_pr(pr_number)
-
-    # Push to PR branch
-    if not push_to_pr_branch():
-        logging.error("Failed to push to PR branch")
+        logging.info(f"PR #{pr_number} exists, updating description with fresh stats...")
+        update_pr(pr_number)
         return
 
-    # Create new PR
-    create_pr()
+    # No existing PR - create one
+    result = create_pr()
+    if result == "created":
+        # Only reset stats after successfully creating a NEW PR
+        # Stats will now track from the start of this new PR
+        reset_stats()
 
 
 def run_daemon(run_once: bool = False):
@@ -810,10 +834,10 @@ def run_daemon(run_once: bool = False):
                 logging.info("Starting PR cycle...")
 
                 try:
-                    # Push to fork first with retry logic
+                    # Ensure fork is up to date before PR check
                     push_to_origin_with_retry()
 
-                    # Manage PR (push to PR branch, create/update PR)
+                    # Create PR from fork:main to upstream:main if needed
                     manage_pr()
 
                     last_pr = now
