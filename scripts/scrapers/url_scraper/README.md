@@ -9,7 +9,7 @@ A simple web scraper for scraping urls from sites
   - International: Guardian, CNN, Sky News
   - Government: HKGOV Press Releases
   - Other: Points Media, TVBS News, DotDotNews, People's Daily, HKEJ
-  
+
 - **Automatic deduplication**: Prevents duplicate articles from being added to the repository
 - **Organized output**: Saves articles as markdown files in `content/news/` organized by news source
 - **Date-based grouping**: Articles are grouped by publication date within each source directory

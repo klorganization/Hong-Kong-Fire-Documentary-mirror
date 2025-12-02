@@ -44,7 +44,7 @@ repos:
         types: [yaml]
         exclude: >
           (?x)
-          ^.pre-commit-config/.yaml$|
+          ^\.pre-commit-config\.yaml$
 
   - repo: https://github.com/DavidAnson/markdownlint-cli2
     rev: v0.19.1

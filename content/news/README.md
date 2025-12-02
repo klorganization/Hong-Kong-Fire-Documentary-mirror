@@ -49,3 +49,6 @@
 - [**政府新聞公報**](hkgov%20Press%20Release/README.md)
 - [**消防處通告**](消防處/README.md) *(待補)*
 - [**屋宇署文件**](屋宇署/README.md) *(待補)*
+
+## 各國/機構慰問列表 (Condolence List)
+- [**香港大埔宏福苑火災慰問列表**](international-condolences/international-condolences-zh.md)

@@ -5,8 +5,8 @@ Extract latest news url from sites into markdown and save to content repository
 import glob
 import importlib
 import os
-import sys
 import re
+import sys
 
 # Mapping of Scraper Source Title -> Directory Name in content/news/
 # Directories must exist.
@@ -29,7 +29,7 @@ SOURCE_DIR_MAP = {
     "TVBS News": "tvbs",
     "Points Media": "points-media",
     "CNN": "cnn",
-    "CNN News": "cnn"
+    "CNN News": "cnn",
 }
 
 # Mapping of Scraper Source Title -> Markdown Header Title (if different)
@@ -45,24 +45,25 @@ SOURCE_HEADER_MAP = {
     "RTHK": "香港電台",
     "Guardian": "The Guardian",
     "DotDotNews": "Dotdotnews",
-    "CNN": "CNN News"
+    "CNN": "CNN News",
 }
+
 
 def main():
     """"""
     script_dir = os.path.dirname(os.path.abspath(__file__))
     if script_dir not in sys.path:
         sys.path.append(script_dir)
-        
+
     scrapers_dir = os.path.join(script_dir, "scrapers")
     scraper_files = glob.glob(os.path.join(scrapers_dir, "*.py"))
-    
+
     scrapers = []
     for f in scraper_files:
         filename = os.path.basename(f)
         if filename == "__init__.py":
             continue
-            
+
         module_name = f"scrapers.{filename[:-3]}"
         try:
             # print(f"Importing {module_name}...")
@@ -71,10 +72,10 @@ def main():
             print(f"Failed to import {module_name}: {e}")
 
     print(f"Found {len(scrapers)} scrapers. Starting scrape...")
-    
+
     for scraper in scrapers:
         try:
-            if hasattr(scraper, 'scrape'):
+            if hasattr(scraper, "scrape"):
                 print(f"Running {scraper.__name__}...")
                 source, content = scraper.scrape()
                 save_to_repository(source, content)
@@ -116,11 +117,11 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
     # 2. Read Existing Content & Deduplicate
     existing_content = ""
     existing_urls = set()
-    
+
     if os.path.exists(target_file):
-        with open(target_file, "r", encoding="utf-8") as f:
+        with open(target_file, encoding="utf-8") as f:
             existing_content = f.read()
-            found_urls = re.findall(r'\]\(([^)]+)\)', existing_content)
+            found_urls = re.findall(r"\]\(([^)]+)\)", existing_content)
             existing_urls.update(found_urls)
 
     new_articles = []
@@ -129,7 +130,7 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
             if url not in existing_content:
                 new_articles.append((date, article_title, url))
                 existing_urls.add(url)
-    
+
     if not new_articles:
         print(f"No new articles for {title}.")
         return
@@ -138,11 +139,11 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
 
     # 3. Format New Content
     # Sort by date (ascending)
-    new_articles.sort(key=lambda x: x[0]) 
-    
+    new_articles.sort(key=lambda x: x[0])
+
     markdown_chunk = ""
     current_date = ""
-    
+
     for date, article_title, url in new_articles:
         if date != current_date:
             current_date = date
@@ -153,13 +154,13 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
     target_header_title = SOURCE_HEADER_MAP.get(title, title)
     header_marker_single = f"# {target_header_title}"
     header_marker_double = f"## {target_header_title}"
-    
+
     lines = existing_content.splitlines(keepends=True)
-    
+
     insert_idx = -1
     section_found = False
     header_level = 1  # Track if it's # or ##
-    
+
     header_line_idx = -1
     for i, line in enumerate(lines):
         line_stripped = line.strip()
@@ -174,9 +175,9 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
             header_line_idx = i
             header_level = 2
             break
-            
+
     if section_found:
-        insert_idx = len(lines) # Default to end
+        insert_idx = len(lines)  # Default to end
         for j in range(header_line_idx + 1, len(lines)):
             line_stripped = lines[j].strip()
             if header_level == 1:
@@ -184,27 +185,26 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
                 if line_stripped.startswith("# ") and not line_stripped.startswith("##"):
                     insert_idx = j
                     break
-            else:  # header_level == 2
-                # Looking for next ## (not ###)
-                if line_stripped.startswith("## ") and not line_stripped.startswith("###"):
-                    insert_idx = j
-                    break
-        
+            # Looking for next ## (not ###)
+            elif line_stripped.startswith("## ") and not line_stripped.startswith("###"):
+                insert_idx = j
+                break
+
         to_insert = markdown_chunk
-        if insert_idx > 0 and not lines[insert_idx-1].strip() == "":
-             to_insert = "\n" + to_insert
+        if insert_idx > 0 and not lines[insert_idx - 1].strip() == "":
+            to_insert = "\n" + to_insert
         if insert_idx < len(lines):
-             to_insert = to_insert + "\n"
+            to_insert = to_insert + "\n"
 
         lines.insert(insert_idx, to_insert)
         final_output = "".join(lines)
-        
+
     else:
         # If section header not found, only add content if file is empty
         if existing_content.strip():
             print(f"Warning: Header '{title}' not found in {target_file}. Skipping to avoid duplication.")
             return
-        
+
         final_output = existing_content
         if final_output and not final_output.endswith("\n"):
             final_output += "\n"

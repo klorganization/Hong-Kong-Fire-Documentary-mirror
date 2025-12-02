@@ -45,6 +45,10 @@ ignore = ["PERF203", "PLC0415", "PLR0402"]
 fixable = ["ALL"]
 mccabe.max-complexity = 24
 
+[tool.ruff.lint.per-file-ignores]
+# Scrapers have complex logic that's difficult to refactor
+"scripts/scrapers/url_scraper/scrapers/*.py" = ["C901", "PLR0912", "PLR0915"]
+
 
 [tool.ruff.lint.pylint]
 allow-magic-value-types = ["bytes", "float", "int", "str"]

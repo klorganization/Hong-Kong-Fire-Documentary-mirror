@@ -46,3 +46,6 @@ This section compiles news reports, feature articles, and official releases from
 - [**Government Press Releases**](hkgov%20Press%20Release/README.en.md)
 - [**Fire Services Department Notices**](消防處/README.md) *(Pending)*
 - [**Buildings Department Documents**](屋宇署/README.md) *(Pending)*
+
+## Condolence List
+- [**Hong Kong Tai Po Wang Fuk Court Fire Condolence List**](international-condolences/international-condolences-en.md)

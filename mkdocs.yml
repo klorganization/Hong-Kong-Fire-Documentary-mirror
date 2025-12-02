@@ -70,6 +70,10 @@ plugins:
           theme:
             language: en
 
+markdown_extensions:
+  - md_in_html
+  - attr_list
+
 nav:
   - Home: index.md
   - Timeline: timeline/README.md
