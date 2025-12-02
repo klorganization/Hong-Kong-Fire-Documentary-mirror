@@ -31,6 +31,7 @@ SOURCE_DIR_MAP = {
     "CNN": "cnn",
     "CNN News": "cnn",
     "SBS News (Australia)": "sbs",
+    "BBC 中文": "bbc-chinese",
 }
 
 def main():
