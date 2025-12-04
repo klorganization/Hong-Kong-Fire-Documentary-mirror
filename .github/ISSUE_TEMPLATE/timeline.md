@@ -1,9 +1,9 @@
 ---
 name: 時間線 | Timeline
 about: 與事件時間順序記錄與更新相關 Related to the recording and updating of event time sequence
-title: '[timeline | 時間線] '
-labels: 'timeline | 時間線'
-assignees: ''
+title: "[timeline | 時間線] "
+labels: "timeline | 時間線"
+assignees: ""
 ---
 
 ## 1. Title 標題
@@ -64,15 +64,6 @@ HH:MM (24-hour format)
 **主要來源 Primary Source:**
 
 **次要來源 Secondary Sources:**
-<<<<<<< Updated upstream
-
--
--
-=======
--
-
--
->>>>>>> Stashed changes
 
 **來源類型 Source Type:**
 
@@ -91,27 +82,7 @@ HH:MM (24-hour format)
 
 **目前記錄 Current Entry:**
 
-<<<<<<< Updated upstream
-```markdown
-=======
-```
->>>>>>> Stashed changes
-| 時間 | 事件 | 傷亡/狀態 | 來源 |
-|------|------|-----------|------|
-|      |      |           |      |
-```
-
 **建議修改 Proposed Change:**
-
-<<<<<<< Updated upstream
-```markdown
-=======
-```
->>>>>>> Stashed changes
-| 時間 | 事件 | 傷亡/狀態 | 來源 |
-|------|------|-----------|------|
-|      |      |           |      |
-```
 
 ---
 
@@ -119,6 +90,14 @@ HH:MM (24-hour format)
 
 - **EN:** If this event involves casualties or status updates.
 - **中:** 如此事件涉及傷亡或狀態更新。
+
+**建議格式 Suggested Format:**
+
+```markdown
+| 時間 | 事件 | 傷亡/狀態 | 來源 |
+| ---- | ---- | --------- | ---- |
+|      |      |           |      |
+```
 
 **傷亡數字 Casualty Numbers:**
 

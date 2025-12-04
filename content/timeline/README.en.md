@@ -4,12 +4,16 @@ This section contains a chronological record of the fire incident development.
 
 ## English
 
-### [Fire Linear Timeline (English)](fire-linear-timeline-en.md)
+### 1. [Fire Linear Timeline (English)](fire-linear-timeline.en.md)
 
-### [Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline (English)](gov-operation-timeline-en.md)
+### 2. [Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline (English)](gov-operation-timeline.en.md)
+
+### 3. [Wang Fuk Court Major Repair Controversy (English)](wang-fuk-court-major-repair-controversy.en.md)
 
 ## Chinese
 
-### [Fire Linear Timeline (Chinese)](fire-linear-timeline-zh.md)
+### 1. [Fire Linear Timeline (Chinese)](fire-linear-timeline.zh.md)
 
-### [Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline (Chinese)](gov-operation-timeline-zh.md)
+### 2. [Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline (Chinese)](gov-operation-timeline.zh.md)
+
+### 3. [Wang Fuk Court Major Repair Controversy (Chinese)](wang-fuk-court-major-repair-controversy.zh.md)

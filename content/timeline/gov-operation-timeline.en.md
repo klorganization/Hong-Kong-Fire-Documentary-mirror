@@ -1,4 +1,4 @@
-## Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline
+# Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline
 
 Timeline cross-verified from sources (including Wikipedia and government news sites), times corrected to most accurate version: Fire started at 2025-11-26 14:51, police arrests on 11-27; fire rescue times from Wikipedia precise records. [attached_file:1]
 

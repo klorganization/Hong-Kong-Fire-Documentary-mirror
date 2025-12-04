@@ -34,60 +34,62 @@ def get_url_from_metadata(folder: Path) -> str | None:
 def find_duplicates():
     """Find all duplicate folders and their base folders"""
     duplicates = []
-    
+
     for source_dir in NEWS_DIR.iterdir():
         if not source_dir.is_dir():
             continue
-        
+
         archive_dir = source_dir / "archive"
         if not archive_dir.exists():
             continue
-        
+
         for folder in archive_dir.iterdir():
             if not folder.is_dir():
                 continue
-            
+
             match = DUPLICATE_PATTERN.match(folder.name)
             if match:
                 base_name = match.group(1)
                 suffix_num = int(match.group(2))
                 base_folder = archive_dir / base_name
-                
-                duplicates.append({
-                    "duplicate": folder,
-                    "base_name": base_name,
-                    "base_folder": base_folder,
-                    "suffix": suffix_num,
-                })
-    
+
+                duplicates.append(
+                    {
+                        "duplicate": folder,
+                        "base_name": base_name,
+                        "base_folder": base_folder,
+                        "suffix": suffix_num,
+                    }
+                )
+
     return duplicates
 
 
 def cleanup_duplicates(dry_run: bool = True):
     """Remove duplicate folders if they have the same URL as base"""
     duplicates = find_duplicates()
-    
+
     print(f"Found {len(duplicates)} potential duplicate folders")
-    
+
     removed = 0
     kept = 0
     renamed = 0
     errors = 0
-    
+
     for dup in duplicates:
         duplicate_folder = dup["duplicate"]
         base_folder = dup["base_folder"]
-        
+
         dup_url = get_url_from_metadata(duplicate_folder)
-        
+
         if not dup_url:
             print(f"  SKIP (no URL): {duplicate_folder.relative_to(PROJECT_ROOT)}")
             errors += 1
             continue
-        
+
         if base_folder.exists():
             base_url = get_url_from_metadata(base_folder)
-            
+
             if base_url == dup_url:
                 # Same URL - safe to delete duplicate
                 print(f"  DELETE: {duplicate_folder.relative_to(PROJECT_ROOT)}")
@@ -104,23 +106,22 @@ def cleanup_duplicates(dry_run: bool = True):
             if not dry_run:
                 duplicate_folder.rename(base_folder)
             renamed += 1
-    
-    print(f"\nSummary:")
+
+    print("\nSummary:")
     print(f"  Removed: {removed}")
     print(f"  Renamed: {renamed}")
     print(f"  Kept (different URL): {kept}")
     print(f"  Errors: {errors}")
-    
+
     if dry_run:
         print("\n*** DRY RUN - no changes made. Run with --execute to apply ***")
 
 
 if __name__ == "__main__":
     import argparse
-    
+
     parser = argparse.ArgumentParser(description="Cleanup duplicate archive folders")
     parser.add_argument("--execute", action="store_true", help="Actually delete/rename (default is dry run)")
     args = parser.parse_args()
-    
-    cleanup_duplicates(dry_run=not args.execute)
 
+    cleanup_duplicates(dry_run=not args.execute)

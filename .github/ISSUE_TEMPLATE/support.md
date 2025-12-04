@@ -1,9 +1,9 @@
 ---
 name: 社區支援 | Support
 about: 社區援助、義工服務、物資支援 Community assistance, volunteer services, material support
-title: '[support | 社區支援] '
-labels: 'support | 社區支援'
-assignees: ''
+title: "[support | 社區支援] "
+labels: "support | 社區支援"
+assignees: ""
 ---
 
 ## 1. Title 標題
@@ -73,17 +73,6 @@ Example / 範例:
 **主辦機構 Lead Organization:**
 
 **合作夥伴 Partners:**
-<<<<<<< Updated upstream
-
--
--
--
-=======
--
-
--
--
->>>>>>> Stashed changes
 
 **義工人數 Number of Volunteers:**
 

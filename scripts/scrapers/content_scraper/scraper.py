@@ -229,15 +229,15 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
     if article_dir.exists():
         existing_url = get_existing_archive_url(article_dir)
         if existing_url == url:
-            log(f"  ⏭️ Archive already exists for this URL", "WARN")
+            log("  ⏭️ Archive already exists for this URL", "WARN")
             return None  # Skip - already archived
-        
+
         # Different URL, need unique folder name
         counter = 1
         while (archive_dir / f"{slug}-{counter}").exists():
             existing_url = get_existing_archive_url(archive_dir / f"{slug}-{counter}")
             if existing_url == url:
-                log(f"  ⏭️ Archive already exists for this URL", "WARN")
+                log("  ⏭️ Archive already exists for this URL", "WARN")
                 return None  # Skip - already archived
             counter += 1
         article_dir = archive_dir / f"{slug}-{counter}"
@@ -303,7 +303,7 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
 
     # Use requests library as final fallback
     if strategy.get("use_requests"):
-        log(f"  🔄 Trying requests fallback...", "WARN")
+        log("  🔄 Trying requests fallback...", "WARN")
         return await scrape_with_requests(url, config)
 
     # Create new context for HTTP/2 disabled retry
@@ -348,7 +348,7 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
 
         # Skip URLs that trigger downloads (like PDFs, videos)
         if "Download is starting" in error_str:
-            log(f"  ⏭️ Skipping download URL", "WARN")
+            log("  ⏭️ Skipping download URL", "WARN")
             return "", False
 
         if retries < max_retries:

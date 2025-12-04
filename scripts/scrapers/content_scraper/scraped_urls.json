@@ -19871,7 +19871,127 @@
       "source": "now-news",
       "scraped_at": "2025-12-03T16:08:23.686404",
       "archive_path": "content/news/now-news/archive/宏福苑五級火災盧偉國須檢討屋苑大維修方式"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/26/major-fire-puts-hong-kong-on-highest-alert-as-firefighters-tackle-blaze": {
+      "title": "Major fire puts Hong Kong on highest alert as firefighters tackle blaze",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T16:59:55.861301",
+      "archive_path": "content/news/aljazeera/archive/major-fire-puts-hong-kong-on-highest-alert-as-firefighters-tackle-blaze"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/26/massive-fire-rips-through-hong-kong-high-rise-complex-killing-several": {
+      "title": "Massive fire rips through Hong Kong high-rise complex, killing several",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:02.166046",
+      "archive_path": "content/news/aljazeera/archive/massive-fire-rips-through-hong-kong-high-rise-complex-killing-several"
+    },
+    "https://www.aljazeera.com/news/2025/11/26/at-least-13-dead-as-fire-engulfs-hong-kong-high-rise-residential-buildings": {
+      "title": "Hong Kong high-rise fire kills at least 55, leaves hundreds missing",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:07.702335",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-high-rise-fire-kills-at-least-55-leaves-hundreds-missing"
+    },
+    "https://www.aljazeera.com/news/2025/11/27/hong-kong-fire-that-killed-dozens-under-control-hundreds-still-missing": {
+      "title": "Hong Kong fire that killed at least 94 'under control' but hundreds missing",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:13.083421",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-fire-that-killed-at-least-94-under-control-but-hundreds-missing"
+    },
+    "https://www.aljazeera.com/news/2025/11/27/hong-kongs-deadliest-fire-in-63-years-what-we-know-and-how-it-spread": {
+      "title": "Hong Kong's deadliest fire in a century: What we know and how it spread",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:18.815229",
+      "archive_path": "content/news/aljazeera/archive/hong-kongs-deadliest-fire-in-a-century-what-we-know-and-how-it-spread"
+    },
+    "https://www.aljazeera.com/news/2025/11/27/what-is-bamboo-scaffolding-and-how-did-it-worsen-the-hong-kong-fire": {
+      "title": "What is bamboo scaffolding and how did it worsen the Hong Kong fire",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:25.202864",
+      "archive_path": "content/news/aljazeera/archive/what-is-bamboo-scaffolding-and-how-did-it-worsen-the-hong-kong-fire"
+    },
+    "https://www.aljazeera.com/news/liveblog/2025/11/27/hong-kong-high-rise-fire-live-blaze-kills-at-least-44-hundreds-missing": {
+      "title": "Hong Kong fire updates: Blaze kills at least 65, hundreds still missing",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:31.185328",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-fire-updates-blaze-kills-at-least-65-hundreds-still-missing"
+    },
+    "https://www.aljazeera.com/gallery/2025/11/27/hong-kong-blaze-death-toll-reaches-45-as-rescue-operations-continue": {
+      "title": "Hong Kong blaze death toll reaches 83 as rescue operations continue",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:37.037949",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-blaze-death-toll-reaches-83-as-rescue-operations-continue"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/27/hundreds-still-missing-as-arrests-are-made-after-hong-kong": {
+      "title": "Video: Hundreds still missing as arrests are made after Hong Kong fire",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:43.467344",
+      "archive_path": "content/news/aljazeera/archive/video-hundreds-still-missing-as-arrests-are-made-after-hong-kong-fire"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/28/hong-kong-police-end-rescue-operation-after-deadly-apartment-inferno": {
+      "title": "Hong Kong police end rescue operation after deadly apartment inferno",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:49.643455",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-police-end-rescue-operation-after-deadly-apartment-inferno"
+    },
+    "https://www.aljazeera.com/news/2025/11/28/firefighting-at-hong-kong-blaze-ends-with-deaths-over-90-dozens-missing": {
+      "title": "Rescue efforts at Hong Kong blaze end with deaths at 128, dozens missing",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:00:55.344376",
+      "archive_path": "content/news/aljazeera/archive/rescue-efforts-at-hong-kong-blaze-end-with-deaths-at-128-dozens-missing"
+    },
+    "https://www.aljazeera.com/news/2025/11/29/hong-kong-mourns-victims-of-blaze-as-search-for-remains-continues": {
+      "title": "Hong Kong mourns victims of blaze as search for remains continues",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:01.516629",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-mourns-victims-of-blaze-as-search-for-remains-continues"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/29/hong-kong-begins-five-day-mourning-period-after-deadly-high-rise-fire": {
+      "title": "Hong Kong begins three-day mourning period after deadly high-rise fire",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:07.160827",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-begins-three-day-mourning-period-after-deadly-high-rise-fire"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/11/30/nanny-streamed-dramatic-escape-from-hong-kong-apartment-fire-to-warn-other": {
+      "title": "Nanny streamed dramatic escape from Hong Kong apartment fire to warn others",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:13.252334",
+      "archive_path": "content/news/aljazeera/archive/nanny-streamed-dramatic-escape-from-hong-kong-apartment-fire-to-warn-others"
+    },
+    "https://www.aljazeera.com/gallery/2025/11/30/week-in-pictures-from-deadly-fire-in-hong-kong-to-russian-attack-on-kyiv": {
+      "title": "Week in Pictures: From deadly fire in Hong Kong to Russian attack on Kyiv",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:19.321412",
+      "archive_path": "content/news/aljazeera/archive/week-in-pictures-from-deadly-fire-in-hong-kong-to-russian-attack-on-kyiv"
+    },
+    "https://www.aljazeera.com/news/2025/11/30/death-toll-in-hong-kong-apartment-complex-fire-hits-146": {
+      "title": "Death toll in Hong Kong apartment complex fire hits 146",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:24.906407",
+      "archive_path": "content/news/aljazeera/archive/death-toll-in-hong-kong-apartment-complex-fire-hits-146"
+    },
+    "https://www.aljazeera.com/news/2025/12/1/china-quashes-calls-for-accountability-over-deadly-hong-kong-blaze": {
+      "title": "China cracks down on calls for accountability over deadly Hong Kong blaze",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:30.635702",
+      "archive_path": "content/news/aljazeera/archive/china-cracks-down-on-calls-for-accountability-over-deadly-hong-kong-blaze"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/12/1/hong-kong-says-deficient-netting-spread-deadly-wang-fuk-blaze": {
+      "title": "Hong Kong says deficient netting spread deadly Wang Fuk blaze",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:35.744448",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-says-deficient-netting-spread-deadly-wang-fuk-blaze"
+    },
+    "https://www.aljazeera.com/news/2025/12/2/hong-kong-leader-orders-independent-investigation-into-fire-that-killed-151": {
+      "title": "Hong Kong leader orders independent investigation into fire that killed 151",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:41.981580",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-leader-orders-independent-investigation-into-fire-that-killed-151"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2025/12/2/hong-kong-residents-demand-answers-after-deadly-apartment-fire": {
+      "title": "Hong Kong residents demand answers after deadly apartment fire",
+      "source": "aljazeera",
+      "scraped_at": "2025-12-03T17:01:47.706079",
+      "archive_path": "content/news/aljazeera/archive/hong-kong-residents-demand-answers-after-deadly-apartment-fire"
     }
   },
-  "last_updated": "2025-12-03T16:08:23.686417"
+  "last_updated": "2025-12-03T17:01:47.706093"
 }

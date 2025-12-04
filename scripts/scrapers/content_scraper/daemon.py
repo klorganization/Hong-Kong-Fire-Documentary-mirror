@@ -605,9 +605,7 @@ def generate_pr_body() -> tuple[str, str]:
 
     # Build new articles breakdown
     if new_article_counts:
-        new_source_lines = "\n".join(
-            f"  - **{name}**: +{count}" for name, count in sorted(new_article_counts.items())
-        )
+        new_source_lines = "\n".join(f"  - **{name}**: +{count}" for name, count in sorted(new_article_counts.items()))
         total_new_articles = sum(new_article_counts.values())
         total_new_sources = len(new_article_counts)
         new_articles_section = f"""### New Articles in This PR
@@ -626,9 +624,9 @@ No new articles added yet.
     # Load cumulative scraping stats
     stats = load_stats()
     stats_section = f"""### Scraping Statistics (since PR opened)
-- **Cycles completed**: {stats['cycles']}
-- **Successfully scraped**: {stats['success']}
-- **Failed to scrape**: {stats['failed']}
+- **Cycles completed**: {stats["cycles"]}
+- **Successfully scraped**: {stats["success"]}
+- **Failed to scrape**: {stats["failed"]}
 
 """
 
