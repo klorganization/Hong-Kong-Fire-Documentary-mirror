@@ -13,44 +13,29 @@ import sys
 SOURCE_DIR_MAP = {
     "TVB News": "tvb",
     "TVB News (English)": "tvb",
-    "RTHK": "rthk",
+    "香港電台": "rthk",
     "Guardian": "the-guardian",
     "DotDotNews": "dotdotnews",
     "DotDotNews (Chinese)": "dotdotnews",
     "HK01": "hk01",
     "明報": "mingpao",
-    "iCable": "i-cable",
+    "有線新聞 (i-Cable)": "i-cable",
     "OnCC": "oriental-daily",
-    "People's Daily": "peoples-daily-gba",
+    "人民日報大湾区": "peoples-daily-gba",
     "Sky News": "sky",
-    "HKEJ": "hkej",
-    "Sky Post": "skypost",
+    "信報財經新聞": "hkej",
+    "晴報 (Sky Post)": "skypost",
     "The Sun": "the-sun",
     "TVBS News": "tvbs",
     "Points Media": "points-media",
     "CNN": "cnn",
     "CNN News": "cnn",
+    "SBS News (Australia)": "sbs",
+    "BBC 中文": "bbc-chinese",
+    "商業電台": "commercial-radio",
+    "NOW 新聞報導": "now-news",
+    "Hong Kong Free Press": "hkfp",
 }
-
-<<<<<<< Updated upstream
-# Mapping of Scraper Source Title -> Markdown Header Title (if different)
-SOURCE_HEADER_MAP = {
-    "HKEJ": "信報財經新聞",
-    "iCable": "有線新聞 (i-Cable)",
-    "Points Media": "Points Media (棱角)",
-    "明報": "明報",
-    "OnCC": "東方日報",
-    "People's Daily": "人民日報大湾区",
-    "Sky Post": "晴報 (Sky Post)",
-    "TVBS News": "TVBS News / TVBS新聞",
-    "RTHK": "香港電台",
-    "Guardian": "The Guardian",
-    "DotDotNews": "Dotdotnews",
-    "CNN": "CNN News",
-}
-
-=======
->>>>>>> Stashed changes
 
 def main():
     """"""
@@ -154,14 +139,8 @@ def save_to_repository(title: str, content: list[tuple[str, str, str]]) -> None:
         markdown_chunk += f"- [{article_title}]({url})\n"
 
     # 4. Insert into File
-<<<<<<< Updated upstream
-    target_header_title = SOURCE_HEADER_MAP.get(title, title)
-    header_marker_single = f"# {target_header_title}"
-    header_marker_double = f"## {target_header_title}"
-=======
     header_marker_single = f"# {title}"
     header_marker_double = f"## {title}"
->>>>>>> Stashed changes
 
     lines = existing_content.splitlines(keepends=True)
 

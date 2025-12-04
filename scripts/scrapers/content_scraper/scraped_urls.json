@@ -16253,7 +16253,3625 @@
       "source": "cbc",
       "scraped_at": "2025-12-01T22:59:15.157429",
       "archive_path": "content/news/cbc/archive/hong-kong-highrise-netting-did-not-meet-code-officials-say"
+    },
+    "https://www.sbs.com.au/news/article/hong-kong-residential-tower-fire-wang-fuk-court/1a122jlnp": {
+      "title": "Sadness turns to anger in Hong Kong after city's worst fire in decades kills at least 128",
+      "source": "sbs",
+      "scraped_at": "2025-12-03T15:25:50.104774",
+      "archive_path": "content/news/sbs/archive/sadness-turns-to-anger-in-hong-kong-after-citys-worst-fire-in-decades-kills-at"
+    },
+    "https://news.now.com/home/local/player?newsId=627459": {
+      "title": "宏福苑五級火災｜大埔多間學校停課",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:25:51.503063",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災大埔多間學校停課"
+    },
+    "https://www.881903.com/news/local/2607221/": {
+      "title": "宏福苑5級火｜增至13死1消防殉職　30人傷7危殆仍有居民被困",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:25:55.014050",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至13死1消防殉職-30人傷7危殆仍有居民被困"
+    },
+    "https://www.sbs.com.au/news/podcast-episode/arrests-made-in-connection-with-deadly-hong-kong-fire/ajbkfi8fm": {
+      "title": "Arrests made in connection with deadly Hong Kong fire",
+      "source": "sbs",
+      "scraped_at": "2025-12-03T15:25:56.930672",
+      "archive_path": "content/news/sbs/archive/arrests-made-in-connection-with-deadly-hong-kong-fire"
+    },
+    "https://news.now.com/home/local/player?newsId=627450": {
+      "title": "宏福苑五級火災｜39條專營巴士路線受影響　需改道行駛",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:25:57.364037",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災39條專營巴士路線受影響-需改道行駛"
+    },
+    "https://www.bbc.com/zhongwen/articles/c75vz21pg7po/trad": {
+      "title": "香港大埔火災過百死傷 逾半世紀最致命大火的背後成因？",
+      "source": "bbc-chinese",
+      "scraped_at": "2025-12-03T15:26:00.229945",
+      "archive_path": "content/news/bbc-chinese/archive/香港大埔火災過百死傷-逾半世紀最致命大火的背後成因"
+    },
+    "https://www.881903.com/news/local/2607289/": {
+      "title": "宏福苑5級火｜王肇枝中學後山山火受控　無人傷",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:01.123320",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火王肇枝中學後山山火受控-無人傷"
+    },
+    "https://www.sbs.com.au/news/article/hong-kong-fires-scaffolding-mesh-safety-standards/gf65naix8": {
+      "title": "Hong Kong officials say mesh on apartments failed fire safety standards as death toll rises",
+      "source": "sbs",
+      "scraped_at": "2025-12-03T15:26:02.818763",
+      "archive_path": "content/news/sbs/archive/hong-kong-officials-say-mesh-on-apartments-failed-fire-safety-standards-as"
+    },
+    "https://news.now.com/home/local/player?newsId=627449": {
+      "title": "宏福苑五級火災｜警方拘捕三名工程公司負責人嚴重疏忽　涉嫌誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:03.888197",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方拘捕三名工程公司負責人嚴重疏忽-涉嫌誤殺"
+    },
+    "https://www.881903.com/news/local/2607293/": {
+      "title": "宏福苑5級火｜李家超深夜到大埔社區中心探望居民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:07.349927",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超深夜到大埔社區中心探望居民"
+    },
+    "https://www.bbc.com/zhongwen/articles/cx2epxl95v3o/trad": {
+      "title": "高樓大廈火災中，如何提高生還的機會？",
+      "source": "bbc-chinese",
+      "scraped_at": "2025-12-03T15:26:07.966778",
+      "archive_path": "content/news/bbc-chinese/archive/高樓大廈火災中如何提高生還的機會"
+    },
+    "https://news.now.com/home/local/player?newsId=627448": {
+      "title": "宏福苑五級火災｜消防：3座大廈料要中午至黃昏才去到天台位置搜救",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:10.351106",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災消防3座大廈料要中午至黃昏才去到天台位置搜救"
+    },
+    "https://www.881903.com/news/local/2607290/": {
+      "title": "宏福苑5級火｜工程師何永業：起火或因燒焊亦可能涉人為因素",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:12.738161",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火工程師何永業起火或因燒焊亦可能涉人為因素"
+    },
+    "https://hongkongfp.com/?p=544255": {
+      "title": "Hong Kong man arrested for alleged sedition in relation to fatal Tai Po blaze",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:12.899337",
+      "archive_path": "content/news/hkfp/archive/hong-kong-man-arrested-for-alleged-sedition-in-relation-to-fatal-tai-po-blaze"
+    },
+    "https://www.bbc.com/zhongwen/articles/cwyv1yz8yrno/trad": {
+      "title": "香港大埔宏福苑大火倖存者：第一次覺得死亡和我有關",
+      "source": "bbc-chinese",
+      "scraped_at": "2025-12-03T15:26:15.737950",
+      "archive_path": "content/news/bbc-chinese/archive/香港大埔宏福苑大火倖存者第一次覺得死亡和我有關"
+    },
+    "https://news.now.com/home/local/player?newsId=627447": {
+      "title": "宏福苑五級火災｜火警增至44死包括一名消防員殉職　警拘三男涉嫌誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:16.899004",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災火警增至44死包括一名消防員殉職-警拘三男涉嫌誤殺"
+    },
+    "https://www.881903.com/news/local/2607287/": {
+      "title": "宏福苑5級火｜吐露港公路周邊路段封閉　東鐵綫明早加密班次",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:19.080530",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火吐露港公路周邊路段封閉-東鐵綫明早加密班次"
+    },
+    "https://hongkongfp.com/?p=544295": {
+      "title": "Beijing’s nat. security office backs Hong Kong gov’t’s actions against ‘anti-China disruptors’ after fatal Tai Po fire",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:20.619685",
+      "archive_path": "content/news/hkfp/archive/beijings-nat-security-office-backs-hong-kong-govts-actions-against-anti-china"
+    },
+    "https://www.bbc.com/zhongwen/articles/cvg1ej1d10mo/trad": {
+      "title": "竹棚爭議、「官進民退」到「以災亂港」：香港宏福苑大火後的輿情興起和轉向",
+      "source": "bbc-chinese",
+      "scraped_at": "2025-12-03T15:26:22.534065",
+      "archive_path": "content/news/bbc-chinese/archive/竹棚爭議官進民退到以災亂港香港宏福苑大火後的輿情興起和轉向"
+    },
+    "https://news.now.com/home/local/player?newsId=627446": {
+      "title": "宏福苑五級火災｜警方經查以涉嫌誤殺拘三男子　被捕者為維修工程公司董事及顧問",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:23.722923",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方經查以涉嫌誤殺拘三男子-被捕者為維修工程公司董事及顧問"
+    },
+    "https://www.881903.com/news/local/2607271/": {
+      "title": "宏福苑5級火｜700人入住臨時庇護中心　有居民認為資訊不足",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:24.873253",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火700人入住臨時庇護中心-有居民認為資訊不足"
+    },
+    "https://hongkongfp.com/?p=544287": {
+      "title": "Hong Kong construction company trio arrested again over fatal Tai Po blaze",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:27.719477",
+      "archive_path": "content/news/hkfp/archive/hong-kong-construction-company-trio-arrested-again-over-fatal-tai-po-blaze"
+    },
+    "https://www.bbc.com/zhongwen/articles/cvgrp74x21ro/trad": {
+      "title": "香港大埔火災生倖存者還原逃生經歷：「我覺得要死了，逃不了」",
+      "source": "bbc-chinese",
+      "scraped_at": "2025-12-03T15:26:30.324055",
+      "archive_path": "content/news/bbc-chinese/archive/香港大埔火災生倖存者還原逃生經歷我覺得要死了逃不了"
+    },
+    "https://news.now.com/home/local/player?newsId=627445": {
+      "title": "宏福苑五級火災｜李家超形容事件是重大災難　指揮各部門救援調查支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:30.605608",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超形容事件是重大災難-指揮各部門救援調查支援"
+    },
+    "https://www.881903.com/news/local/2607284/": {
+      "title": "宏福苑5級火｜有市民送物資　關注團體：那打素醫院物資充裕",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:31.761056",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有市民送物資-關注團體那打素醫院物資充裕"
+    },
+    "https://hongkongfp.com/?p=544241": {
+      "title": "In Pictures: Hongkongers mourn at Tai Po fire site as police sweep finds no bodies at 2 residential blocks",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:33.984420",
+      "archive_path": "content/news/hkfp/archive/in-pictures-hongkongers-mourn-at-tai-po-fire-site-as-police-sweep-finds-no"
+    },
+    "https://news.now.com/home/local/player?newsId=627444": {
+      "title": "宏福苑五級火災｜大批居民疏散至8個社區會堂暫避　暫有約900人入住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:37.075345",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災大批居民疏散至8個社區會堂暫避-暫有約900人入住"
+    },
+    "https://www.881903.com/news/local/2607283/": {
+      "title": "宏福苑5級火｜多個路段封閉　運輸署籲留意交通安排",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:37.945347",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火多個路段封閉-運輸署籲留意交通安排"
+    },
+    "https://hongkongfp.com/?p=544230": {
+      "title": "China launches campaign against fire hazards in high-rise buildings in wake of Hong Kong blaze",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:41.656725",
+      "archive_path": "content/news/hkfp/archive/china-launches-campaign-against-fire-hazards-in-high-rise-buildings-in-wake-of"
+    },
+    "https://news.now.com/home/local/player?newsId=627443": {
+      "title": "宏福苑五級火災｜火警增至36死279人失聯　警拘三男涉誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:43.561578",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災火警增至36死279人失聯-警拘三男涉誤殺"
+    },
+    "https://www.881903.com/news/local/2607280/": {
+      "title": "因應大埔5級火　政府立法會選舉論壇暫停2日",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:44.495867",
+      "archive_path": "content/news/commercial-radio/archive/因應大埔5級火-政府立法會選舉論壇暫停2日"
+    },
+    "https://hongkongfp.com/?p=544103": {
+      "title": "Migrant groups mobilise support for domestic workers as 7 Indonesians confirmed dead in Tai Po fire",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:47.768117",
+      "archive_path": "content/news/hkfp/archive/migrant-groups-mobilise-support-for-domestic-workers-as-7-indonesians-confirmed"
+    },
+    "https://news.now.com/home/local/player?newsId=627442": {
+      "title": "宏福苑五級火災｜政府開放8個社區會堂供受影響居民使用",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:50.037756",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府開放8個社區會堂供受影響居民使用"
+    },
+    "https://www.881903.com/news/local/2607288/": {
+      "title": "宏福苑5級火｜  梁君彥代表立法會向消防、醫護及政府部門致謝",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:51.011886",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火-梁君彥代表立法會向消防醫護及政府部門致謝"
+    },
+    "https://hongkongfp.com/?p=544196": {
+      "title": "Tai Po fire: Gov’t plans online platform for relief efforts; volunteers told to vacate makeshift supply station",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:26:55.578520",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-govt-plans-online-platform-for-relief-efforts-volunteers-told-to"
+    },
+    "https://news.now.com/home/local/player?newsId=627441": {
+      "title": "宏福苑五級火災｜李家超：警方消防設專責小組調查　會交死因庭跟進",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:26:56.987580",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超警方消防設專責小組調查-會交死因庭跟進"
+    },
+    "https://www.881903.com/news/local/2607277/": {
+      "title": "宏福苑5級火｜外牆棚架起火蔓延　業界質疑或用非阻燃棚網",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:26:57.224949",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火外牆棚架起火蔓延-業界質疑或用非阻燃棚網"
+    },
+    "https://hongkongfp.com/?p=544531": {
+      "title": "Hong Kong Legislative Council elections likely to go on despite fatal fire – reports",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:01.676492",
+      "archive_path": "content/news/hkfp/archive/hong-kong-legislative-council-elections-likely-to-go-on-despite-fatal-fire"
+    },
+    "https://www.881903.com/news/local/2607264/": {
+      "title": "宏福苑5級火｜殉職消防員何偉豪救火失聯　發現時面部燒傷",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:02.970639",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火殉職消防員何偉豪救火失聯-發現時面部燒傷"
+    },
+    "https://hongkongfp.com/?p=544490": {
+      "title": "Hong Kong student’s calls for accountability over lethal Tai Po fire silenced",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:07.269290",
+      "archive_path": "content/news/hkfp/archive/hong-kong-students-calls-for-accountability-over-lethal-tai-po-fire-silenced"
+    },
+    "https://www.881903.com/news/local/2607268/": {
+      "title": "宏福苑5級火｜工權會關注起火原因及棚架保護網是否阻燃",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:08.954367",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火工權會關注起火原因及棚架保護網是否阻燃"
+    },
+    "https://hongkongfp.com/?p=544511": {
+      "title": "In Pictures: Tai Po fire death toll rises to 146 as police victims identification unit continues combing ravaged estate",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:13.361825",
+      "archive_path": "content/news/hkfp/archive/in-pictures-tai-po-fire-death-toll-rises-to-146-as-police-victims"
+    },
+    "https://www.881903.com/news/local/2607269/": {
+      "title": "宏福苑5級火｜李家超對多人傷亡感哀傷　指示做好滅火救援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:15.508091",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超對多人傷亡感哀傷-指示做好滅火救援"
+    },
+    "https://news.now.com/home/local/player?newsId=627439": {
+      "title": "宏福苑五級火災｜火警增到36人死亡　另有279人失聯",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:27:17.308097",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災火警增到36人死亡-另有279人失聯"
+    },
+    "https://hongkongfp.com/?p=544448": {
+      "title": "Tai Po fire: Nearly 340 pets affected, at least 45 dead, animal NGO says",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:19.275093",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-nearly-340-pets-affected-at-least-45-dead-animal-ngo-says"
+    },
+    "https://www.881903.com/news/local/2607351/": {
+      "title": "宏福苑5級火｜多家本港及內地企業捐助受災居民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:21.319755",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火多家本港及內地企業捐助受災居民-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627438": {
+      "title": "宏福苑五級火災｜李家超：今次火警為重大災難　各部門會全力協助救援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:27:23.723674",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超今次火警為重大災難-各部門會全力協助救援"
+    },
+    "https://hongkongfp.com/?p=544398": {
+      "title": "Hong Kong’s Buildings Department suspends 30 construction projects after deadly Tai Po fire",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:25.470992",
+      "archive_path": "content/news/hkfp/archive/hong-kongs-buildings-department-suspends-30-construction-projects-after-deadly"
+    },
+    "https://www.881903.com/news/local/2607465/": {
+      "title": "周霽及農融到威院了解傷者情況　醫管局感謝帶來習近平關懷",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:27.197509",
+      "archive_path": "content/news/commercial-radio/archive/周霽及農融到威院了解傷者情況-醫管局感謝帶來習近平關懷"
+    },
+    "https://hongkongfp.com/?p=544379": {
+      "title": "Tai Po fire: Over 900 households receive HK$10k gov’t cash relief; official support fund tops HK$1.1 billion",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:32.523606",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-over-900-households-receive-hk10k-govt-cash-relief-official-support"
+    },
+    "https://www.881903.com/news/local/2607463/": {
+      "title": "宏福苑5級火｜九巴龍運多條路線改道",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:34.075804",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火九巴龍運多條路線改道"
+    },
+    "https://hongkongfp.com/?p=544357": {
+      "title": "Tai Po fire: 1 Filipino domestic worker killed in fatal blaze, consulate confirms",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:40.514655",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-1-filipino-domestic-worker-killed-in-fatal-blaze-consulate-confirms"
+    },
+    "https://www.881903.com/news/local/2607462/": {
+      "title": "教宗良十四世就宏福苑5級火  向香港教區發慰問信",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:40.935243",
+      "archive_path": "content/news/commercial-radio/archive/教宗良十四世就宏福苑5級火-向香港教區發慰問信"
+    },
+    "https://news.now.com/home/local/player?newsId=627434": {
+      "title": "宏福苑五級火災(一)｜李家超指首要滅火及支援居民　警務處已成立專責小組調查事件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:27:45.203090",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災一李家超指首要滅火及支援居民-警務處已成立專責小組調查事件"
+    },
+    "https://hongkongfp.com/?p=543960": {
+      "title": "Explainer: How Hong Kong’s history of deadly fires shaped housing policy and triggered reform",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:45.963448",
+      "archive_path": "content/news/hkfp/archive/explainer-how-hong-kongs-history-of-deadly-fires-shaped-housing-policy-and"
+    },
+    "https://www.881903.com/news/local/2607429/": {
+      "title": "宏福苑5級火｜政府設3億援助基金向每戶派1萬元　又會安排悼念活動",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:46.645581",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府設3億援助基金向每戶派1萬元-又會安排悼念活動"
+    },
+    "https://news.now.com/home/local/player?newsId=627435": {
+      "title": "宏福苑五級火災(二)｜醫衞局、民青局及消防交代最新情況　盧寵茂指目前有7人危殆",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:27:51.506715",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災二醫衞局民青局及消防交代最新情況-盧寵茂指目前有7人危殆"
+    },
+    "https://www.881903.com/news/local/2607461/": {
+      "title": "香港電訊向宏褔苑居民發3千張數據電話卡及提供手提電話",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:52.425420",
+      "archive_path": "content/news/commercial-radio/archive/香港電訊向宏褔苑居民發3千張數據電話卡及提供手提電話"
+    },
+    "https://hongkongfp.com/?p=544721": {
+      "title": "Tai Po fire: Local rep. criticised over HK$330m building renovation calls blaze a ‘man-made tragedy’",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:53.299213",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-local-rep-criticised-over-hk330m-building-renovation-calls-blaze-a"
+    },
+    "https://news.now.com/home/local/player?newsId=627436": {
+      "title": "宏福苑五級火災(三)｜鄧炳強指外牆保護網及防水帆布等物料蔓延猛烈及快速　情況不尋常",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:27:57.481819",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災三鄧炳強指外牆保護網及防水帆布等物料蔓延猛烈及快速-情況不尋常"
+    },
+    "https://www.881903.com/news/local/2607460/": {
+      "title": "宏福苑5級火｜有的士車隊在大埔參與義載及運送物資",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:27:58.630089",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有的士車隊在大埔參與義載及運送物資"
+    },
+    "https://hongkongfp.com/?p=544731": {
+      "title": "‘A scene of complete devastation’: Tai Po fire death toll rises to 151, searches may take up to 3 weeks",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:27:59.663003",
+      "archive_path": "content/news/hkfp/archive/a-scene-of-complete-devastation-tai-po-fire-death-toll-rises-to-151-searches"
+    },
+    "https://news.now.com/home/local/player?newsId=627437": {
+      "title": "宏福苑五級火災｜教育局宣布大埔多間學校停課",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:03.451913",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教育局宣布大埔多間學校停課"
+    },
+    "https://www.881903.com/news/local/2607458/": {
+      "title": "MAMA頒獎禮將就宏福苑火災默哀及捐款　改以撐港為主調",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:04.250725",
+      "archive_path": "content/news/commercial-radio/archive/mama頒獎禮將就宏福苑火災默哀及捐款-改以撐港為主調"
+    },
+    "https://hongkongfp.com/?p=544709": {
+      "title": "Unsafe construction netting found at Tai Po fire site, 13 arrests for alleged manslaughter – officials",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:08.518505",
+      "archive_path": "content/news/hkfp/archive/unsafe-construction-netting-found-at-tai-po-fire-site-13-arrests-for-alleged"
+    },
+    "https://www.881903.com/news/local/2607456/": {
+      "title": "律師會為大埔火災特設免費法律諮詢熱線",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:09.520208",
+      "archive_path": "content/news/commercial-radio/archive/律師會為大埔火災特設免費法律諮詢熱線-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627433": {
+      "title": "宏福苑五級火災｜習近平向大埔大火死者表示哀悼　要求努力將傷亡損失降至最低",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:10.080821",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災習近平向大埔大火死者表示哀悼-要求努力將傷亡損失降至最低"
+    },
+    "https://hongkongfp.com/?p=544700": {
+      "title": "Hong Kong student Miles Kwan, who urged gov’t accountability for Tai Po fire, leaves police station",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:15.754657",
+      "archive_path": "content/news/hkfp/archive/hong-kong-student-miles-kwan-who-urged-govt-accountability-for-tai-po-fire"
+    },
+    "https://www.881903.com/news/local/2607454/": {
+      "title": "宏福苑5級火｜附近5間學校明日繼續停課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:15.945260",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火附近5間學校明日繼續停課"
+    },
+    "https://news.now.com/home/local/player?newsId=627432": {
+      "title": "宏福苑五級火災｜何永賢：房署中轉屋、臨時收容中心及過渡屋供受影響居民入住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:16.771907",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災何永賢房署中轉屋臨時收容中心及過渡屋供受影響居民入住"
+    },
+    "https://www.881903.com/news/local/2607452/": {
+      "title": "港金所慈善基金援助宏福苑學生及災民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:22.126173",
+      "archive_path": "content/news/commercial-radio/archive/港金所慈善基金援助宏福苑學生及災民"
+    },
+    "https://hongkongfp.com/?p=544630": {
+      "title": "In Pictures: ‘Man-made tragedy’ – Tears, anger and calls for accountability as thousands mourn Tai Po fire victims",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:22.163210",
+      "archive_path": "content/news/hkfp/archive/in-pictures-man-made-tragedy-tears-anger-and-calls-for-accountability-as"
+    },
+    "https://news.now.com/home/local/player?newsId=627431": {
+      "title": "宏福苑五級火災｜入夜後火勢未受控　消防出動多條喉及煙帽隊灌救",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:23.578093",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災入夜後火勢未受控-消防出動多條喉及煙帽隊灌救"
+    },
+    "https://www.881903.com/news/local/2607451/": {
+      "title": "教大成立臨時支援中心　為受影響學童提供支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:28.535132",
+      "archive_path": "content/news/commercial-radio/archive/教大成立臨時支援中心-為受影響學童提供支援"
+    },
+    "https://hongkongfp.com/?p=544619": {
+      "title": "Tai Po fire: Ex-local councillor and volunteer arrested for allegedly inciting hatred of gov’t – reports",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:30.029794",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-ex-local-councillor-and-volunteer-arrested-for-allegedly-inciting"
+    },
+    "https://news.now.com/home/local/player?newsId=627429": {
+      "title": "宏福苑五級火災｜李家超到大埔探望受火災影響居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:30.549405",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超到大埔探望受火災影響居民"
+    },
+    "https://www.881903.com/news/local/2607450/": {
+      "title": "週日賽馬賽事閉門進行   收益捐出協助受災人士",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:34.902353",
+      "archive_path": "content/news/commercial-radio/archive/週日賽馬賽事閉門進行-收益捐出協助受災人士"
+    },
+    "https://news.now.com/home/local/player?newsId=627427": {
+      "title": "宏福苑五級火災｜港鐵早上繁忙時段增加一列東鐵綫列車",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:37.170269",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災港鐵早上繁忙時段增加一列東鐵綫列車"
+    },
+    "https://hongkongfp.com/?p=544970": {
+      "title": "Tai Po fire death toll rises to 156; some residents may return this week to fetch belongings",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:37.592781",
+      "archive_path": "content/news/hkfp/archive/tai-po-fire-death-toll-rises-to-156-some-residents-may-return-this-week-to"
+    },
+    "https://www.881903.com/news/local/2607446/": {
+      "title": "宏福苑5級火｜旅發局宣布取消周日的香港單車節",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:40.979970",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火旅發局宣布取消周日的香港單車節"
+    },
+    "https://news.now.com/home/local/player?newsId=627426": {
+      "title": "即日焦點｜大埔宏福苑五級火釀至少13死　包括一名消防員殉職",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:43.734872",
+      "archive_path": "content/news/now-news/archive/即日焦點大埔宏福苑五級火釀至少13死-包括一名消防員殉職"
+    },
+    "https://hongkongfp.com/?p=544966": {
+      "title": "Hong Kong survivors, families seek answers to deadly Lamma ferry disaster",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:46.051910",
+      "archive_path": "content/news/hkfp/archive/hong-kong-survivors-families-seek-answers-to-deadly-lamma-ferry-disaster"
+    },
+    "https://www.881903.com/news/local/2607434/": {
+      "title": "宏福苑5級火｜政府設3個工作組　分別跟進調查、應急支援及住宿",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:47.495710",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府設3個工作組-分別跟進調查應急支援及住宿"
+    },
+    "https://news.now.com/home/local/player?newsId=627424": {
+      "title": "宏福苑五級火災｜習近平向死者表示哀悼　要求將傷亡損失降至最低",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:50.758707",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災習近平向死者表示哀悼-要求將傷亡損失降至最低"
+    },
+    "https://www.881903.com/news/local/2607443/": {
+      "title": "宏福苑5級火｜運輸署籲改經達運道或太和路往大埔各區",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:53.622906",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火運輸署籲改經達運道或太和路往大埔各區"
+    },
+    "https://hongkongfp.com/?p=544945": {
+      "title": "Hong Kong solicitor taken in by nat. sec police, as civic press event on deadly Tai Po blaze axed",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:28:54.078202",
+      "archive_path": "content/news/hkfp/archive/hong-kong-solicitor-taken-in-by-nat-sec-police-as-civic-press-event-on-deadly"
+    },
+    "https://news.now.com/home/local/player?newsId=627425": {
+      "title": "宏福苑五級火災｜教育局宣布大埔多間學校周四停課",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:28:57.006698",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教育局宣布大埔多間學校周四停課"
+    },
+    "https://www.881903.com/news/local/2607442/": {
+      "title": "宏福苑5級火｜行會非官守議員向死者致哀　支持政府做好救援善後",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:28:59.201900",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火行會非官守議員向死者致哀-支持政府做好救援善後"
+    },
+    "https://hongkongfp.com/?p=544933": {
+      "title": "Those who ‘exploit’ deadly Tai Po fire will be punished, Hong Kong leader says after sedition arrests",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:29:01.786813",
+      "archive_path": "content/news/hkfp/archive/those-who-exploit-deadly-tai-po-fire-will-be-punished-hong-kong-leader-says"
+    },
+    "https://news.now.com/home/local/player?newsId=627423": {
+      "title": "宏福苑五級火災｜官方立法會選舉論壇暫停　多個政黨停止競選工作",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:03.309502",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災官方立法會選舉論壇暫停-多個政黨停止競選工作"
+    },
+    "https://www.881903.com/news/local/2607437/": {
+      "title": "勞工處明起巡查全港樓宇維修地盤　檢查棚網阻燃性等防火設施",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:05.806693",
+      "archive_path": "content/news/commercial-radio/archive/勞工處明起巡查全港樓宇維修地盤-檢查棚網阻燃性等防火設施-1"
+    },
+    "https://hongkongfp.com/?p=544891": {
+      "title": "Hong Kong migrant domestic workers seek support, solace after Tai Po inferno",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:29:09.776185",
+      "archive_path": "content/news/hkfp/archive/hong-kong-migrant-domestic-workers-seek-support-solace-after-tai-po-inferno"
+    },
+    "https://news.now.com/home/local/player?newsId=627422": {
+      "title": "宏福苑五級火災｜政府開放5個社區會堂供受影響居民使用　暫約700人入住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:09.942668",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府開放5個社區會堂供受影響居民使用-暫約700人入住"
+    },
+    "https://www.881903.com/news/local/2607325/": {
+      "title": "宏福苑5級火｜業界：用發泡膠「錯得離譜」　工程師關注建築支撐",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:12.641986",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火業界用發泡膠錯得離譜-工程師關注建築支撐"
+    },
+    "https://news.now.com/home/local/player?newsId=627420": {
+      "title": "宏福苑五級火災｜入夜後火勢未受控　消防出動多條喉及煙帽隊灌救",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:16.534573",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災入夜後火勢未受控-消防出動多條喉及煙帽隊灌救-1"
+    },
+    "https://hongkongfp.com/?p=544873": {
+      "title": "Hong Kong leader orders independent committee to probe cause of deadly Tai Po blaze",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:29:17.133711",
+      "archive_path": "content/news/hkfp/archive/hong-kong-leader-orders-independent-committee-to-probe-cause-of-deadly-tai-po"
+    },
+    "https://www.881903.com/news/local/2607435/": {
+      "title": "李家超：首要做好大火應急救援  之後才決定立法會選舉是否延期",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:18.635440",
+      "archive_path": "content/news/commercial-radio/archive/李家超首要做好大火應急救援-之後才決定立法會選舉是否延期"
+    },
+    "https://news.now.com/home/local/player?newsId=627419": {
+      "title": "宏福苑五級火災｜棚架起火後波及多座大廈　釀至少13死15傷",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:22.850904",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災棚架起火後波及多座大廈-釀至少13死15傷"
+    },
+    "https://hongkongfp.com/?p=544856": {
+      "title": "Hong Kong ‘all patriots’ legislative polls to go ahead on Dec 7 despite fatal fire",
+      "source": "hkfp",
+      "scraped_at": "2025-12-03T15:29:24.311418",
+      "archive_path": "content/news/hkfp/archive/hong-kong-all-patriots-legislative-polls-to-go-ahead-on-dec-7-despite-fatal-fire"
+    },
+    "https://www.881903.com/news/local/2607347/": {
+      "title": "宏福苑5級火｜仍有居民失聯　廣福社區會堂開放予家屬認屍",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:25.024340",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火仍有居民失聯-廣福社區會堂開放予家屬認屍"
+    },
+    "https://news.now.com/home/local/player?newsId=627415": {
+      "title": "宏福苑五級火災｜消防處指兩三座大廈情況嚴峻　難預計何時能救熄",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:29.016370",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災消防處指兩三座大廈情況嚴峻-難預計何時能救熄"
+    },
+    "https://www.881903.com/news/local/2607427/": {
+      "title": "宏福苑5級火｜夏寶龍組織小組　農融率領赴港展開救災工作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:31.334064",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火夏寶龍組織小組-農融率領赴港展開救災工作"
+    },
+    "https://news.now.com/home/local/player?newsId=627412": {
+      "title": "宏福苑五級火災｜李家超主持跨部門緊急會議　全力協助受影響居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:36.079183",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超主持跨部門緊急會議-全力協助受影響居民"
+    },
+    "https://www.881903.com/news/local/2607425/": {
+      "title": "多國官員慰問宏福苑5級火的遇難者親屬",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:38.135593",
+      "archive_path": "content/news/commercial-radio/archive/多國官員慰問宏福苑5級火的遇難者親屬"
+    },
+    "https://news.now.com/home/local/player?newsId=627403": {
+      "title": "宏福苑直擊｜火勢燒逾四小時未受控　記者距火場500米能感受強勁熱力",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:42.697019",
+      "archive_path": "content/news/now-news/archive/宏福苑直擊火勢燒逾四小時未受控-記者距火場500米能感受強勁熱力"
+    },
+    "https://www.881903.com/news/local/2607424/": {
+      "title": "保監局：協調保險業界支援受災人士",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:44.690640",
+      "archive_path": "content/news/commercial-radio/archive/保監局協調保險業界支援受災人士-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627402": {
+      "title": "消防處處長楊恩健交代大埔宏福苑五級火　37歲消防員不幸殉職",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:49.231530",
+      "archive_path": "content/news/now-news/archive/消防處處長楊恩健交代大埔宏福苑五級火-37歲消防員不幸殉職"
+    },
+    "https://www.881903.com/news/local/2607418/": {
+      "title": "宏福苑5級火｜工權會成立受災者權益聯盟　提供工程職安法律等意見",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:51.203219",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火工權會成立受災者權益聯盟-提供工程職安法律等意見"
+    },
+    "https://news.now.com/home/local/player?newsId=627410": {
+      "title": "時事全方位重點提要｜11月27日",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:29:55.536782",
+      "archive_path": "content/news/now-news/archive/時事全方位重點提要11月27日"
+    },
+    "https://www.881903.com/news/local/2607346/": {
+      "title": "宏福苑5級火｜建築工程公司3人涉誤殺被捕　廉署調查是否涉貪污",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:29:57.238010",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火建築工程公司3人涉誤殺被捕-廉署調查是否涉貪污"
+    },
+    "https://www.881903.com/news/local/2607410/": {
+      "title": "政府：暫停舉行餘下立法會選舉論壇",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:03.810632",
+      "archive_path": "content/news/commercial-radio/archive/政府暫停舉行餘下立法會選舉論壇"
+    },
+    "https://www.881903.com/news/local/2607398/": {
+      "title": "港鐵大埔墟站設支援站助居民特快補領八達通及樂悠咭",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:10.026008",
+      "archive_path": "content/news/commercial-radio/archive/港鐵大埔墟站設支援站助居民特快補領八達通及樂悠咭-1"
+    },
+    "https://www.881903.com/news/local/2607395/": {
+      "title": "宏福苑5級火｜臨時庇護中心增至9個　3間醫院設援助站",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:16.044569",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火臨時庇護中心增至9個-3間醫院設援助站"
+    },
+    "https://www.881903.com/news/local/2607394/": {
+      "title": "宏福苑5級火｜康健醫療為受影響居民提供免費醫療支援服務",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:21.585719",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火康健醫療為受影響居民提供免費醫療支援服務"
+    },
+    "https://www.881903.com/news/local/2607389/": {
+      "title": "宏福苑5級火｜李家超到宏福苑視察火警現場",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:27.430467",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超到宏福苑視察火警現場"
+    },
+    "https://www.881903.com/news/local/2607390/": {
+      "title": "京東在中聯辦協助下調配物資應急　續有物資由廣東出發",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:33.314740",
+      "archive_path": "content/news/commercial-radio/archive/京東在中聯辦協助下調配物資應急-續有物資由廣東出發-1"
+    },
+    "https://www.881903.com/news/local/2607385/": {
+      "title": "宏福苑5級火｜增至55死   有4座火勢大致救熄今早救出一名長者",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:39.266148",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至55死-有4座火勢大致救熄今早救出一名長者"
+    },
+    "https://www.881903.com/news/local/2607383/": {
+      "title": "國際珠寶節開纙　成本增參展商調整策略應對",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:44.987203",
+      "archive_path": "content/news/commercial-radio/archive/國際珠寶節開纙-成本增參展商調整策略應對"
+    },
+    "https://news.now.com/home/local/player?newsId=627397": {
+      "title": "宏福苑五級火災｜工程師建議以金屬棚代替竹棚　減少火警風險",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:30:47.334692",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災工程師建議以金屬棚代替竹棚-減少火警風險"
+    },
+    "https://www.881903.com/news/local/2607375/": {
+      "title": "宏福苑5級火｜基層醫療署於各臨時庇護中心設醫療站",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:51.523372",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火基層醫療署於各臨時庇護中心設醫療站"
+    },
+    "https://news.now.com/home/local/player?newsId=627395": {
+      "title": "宏福苑直擊｜屋苑8座大廈至少4座受大火波及　現場火光熊熊",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:30:53.234414",
+      "archive_path": "content/news/now-news/archive/宏福苑直擊屋苑8座大廈至少4座受大火波及-現場火光熊熊"
+    },
+    "https://www.881903.com/news/local/2607374/": {
+      "title": "宏福苑5級火｜房協調動轄下單位供居民暫住",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:30:57.992155",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火房協調動轄下單位供居民暫住"
+    },
+    "https://news.now.com/home/local/player?newsId=627394": {
+      "title": "宏福苑五級火災｜棚架起火波及多座大廈　造成最少四死三傷　包括一名消防員殉職",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:30:59.997518",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災棚架起火波及多座大廈-造成最少四死三傷-包括一名消防員殉職"
+    },
+    "https://www.881903.com/news/local/2607372/": {
+      "title": "宏福苑5級火｜受影響市民可毋須預約補領身份證或旅行證件",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:04.580150",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火受影響市民可毋須預約補領身份證或旅行證件"
+    },
+    "https://news.now.com/home/local/player?newsId=627390": {
+      "title": "宏福苑五級火災｜據了解有消防員送院後不治",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:06.944292",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災據了解有消防員送院後不治"
+    },
+    "https://www.881903.com/news/local/2607371/": {
+      "title": "宏福苑5級火｜李家超︰即時安排巡查所有正進行大型維修的屋苑",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:10.436688",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超即時安排巡查所有正進行大型維修的屋苑"
+    },
+    "https://news.now.com/home/local/player?newsId=627376": {
+      "title": "宏福苑五級火災｜多座大廈起火　至少三人嚴重燒傷",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:13.690906",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災多座大廈起火-至少三人嚴重燒傷"
+    },
+    "https://www.881903.com/news/local/2607368/": {
+      "title": "樂施會取消毅行者活動　捐款將用於支援大埔火災災民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:16.773102",
+      "archive_path": "content/news/commercial-radio/archive/樂施會取消毅行者活動-捐款將用於支援大埔火災災民-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627375": {
+      "title": "宏福苑直擊｜大火蔓延多幢大廈　火勢猛烈濃煙沖天",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:19.998870",
+      "archive_path": "content/news/now-news/archive/宏福苑直擊大火蔓延多幢大廈-火勢猛烈濃煙沖天"
+    },
+    "https://www.881903.com/news/local/2607364/": {
+      "title": "宏福苑5級火｜社署調遣社工提供支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:23.076269",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火社署調遣社工提供支援"
+    },
+    "https://news.now.com/home/local/player?newsId=627608": {
+      "title": "宏福苑直擊｜部分單位死灰復燃　火光熊熊冒出濃煙",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:25.727785",
+      "archive_path": "content/news/now-news/archive/宏福苑直擊部分單位死灰復燃-火光熊熊冒出濃煙"
+    },
+    "https://www.881903.com/news/local/2607310/": {
+      "title": "宏福苑5級火｜增至最少44人死　279人仍失聯",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:28.660229",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至最少44人死-279人仍失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627600": {
+      "title": "採訪日誌｜宏福苑五級火災第三日　繼續跟進火場及災民情況",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:31.888114",
+      "archive_path": "content/news/now-news/archive/採訪日誌宏福苑五級火災第三日-繼續跟進火場及災民情況"
+    },
+    "https://www.881903.com/news/local/2607356/": {
+      "title": "宏福苑5級火｜有市民自發到庇護中心協助　周霽到場視察",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:35.069406",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有市民自發到庇護中心協助-周霽到場視察"
+    },
+    "https://news.now.com/home/local/player?newsId=627599": {
+      "title": "宏福苑五級火災｜增至94人死亡　76人受傷　消防爆破所有單位確保無人被困",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:37.775095",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災增至94人死亡-76人受傷-消防爆破所有單位確保無人被困"
+    },
+    "https://www.881903.com/news/local/2607354/": {
+      "title": "深圳消防集結口岸屬例行測試　未派員往香港支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:40.442563",
+      "archive_path": "content/news/commercial-radio/archive/深圳消防集結口岸屬例行測試-未派員往香港支援-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627590": {
+      "title": "宏福苑五級火災｜消防大致完成滅火　爆破所有單位確保無人被困",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:44.052326",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災消防大致完成滅火-爆破所有單位確保無人被困"
+    },
+    "https://www.881903.com/news/local/2607339/": {
+      "title": "牛彈琴︰香港5級火讓人失望　對安全隱患突出感意外",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:46.822051",
+      "archive_path": "content/news/commercial-radio/archive/牛彈琴香港5級火讓人失望-對安全隱患突出感意外"
+    },
+    "https://news.now.com/home/local/player?newsId=627591": {
+      "title": "宏福苑五級火災｜印尼指兩名印傭於大埔五級火中罹難",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:50.064004",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災印尼指兩名印傭於大埔五級火中罹難"
+    },
+    "https://www.881903.com/news/local/2607323/": {
+      "title": "陳茂波提前結束意大利訪問返港",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:53.627573",
+      "archive_path": "content/news/commercial-radio/archive/陳茂波提前結束意大利訪問返港"
+    },
+    "https://news.now.com/home/local/player?newsId=627592": {
+      "title": "宏福苑五級火災｜教宗良十四世及俄羅斯總統普京向死難者致哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:31:56.800673",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教宗良十四世及俄羅斯總統普京向死難者致哀"
+    },
+    "https://www.881903.com/news/local/2607321/": {
+      "title": "宏福苑5級火｜有大埔居民改坐港鐵上班　指通勤未有受阻",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:31:59.662976",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有大埔居民改坐港鐵上班-指通勤未有受阻"
+    },
+    "https://news.now.com/home/local/player?newsId=627589": {
+      "title": "宏福苑五級火災｜大埔墟港鐵站外　市民自發將物資轉運給災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:32:03.541076",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災大埔墟港鐵站外-市民自發將物資轉運給災民"
+    },
+    "https://www.881903.com/news/local/2607307/": {
+      "title": "宏福苑5級火｜區內多間學校今日停課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:05.547882",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火區內多間學校今日停課"
+    },
+    "https://news.now.com/home/local/player?newsId=627588": {
+      "title": "宏福苑五級火災｜死亡人數增至83人　另逾70人傷　消防爆破所有單位確保無人被困",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:32:09.637056",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死亡人數增至83人-另逾70人傷-消防爆破所有單位確保無人被困"
+    },
+    "https://www.881903.com/news/local/2607306/": {
+      "title": "宏福苑5級火｜39條巴士線受影響　東鐵加強服務",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:11.842165",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火39條巴士線受影響-東鐵加強服務"
+    },
+    "https://www.881903.com/news/local/2607303/": {
+      "title": "英外相指宏福苑大火令人痛心　慰問所有受影響人士",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:17.983187",
+      "archive_path": "content/news/commercial-radio/archive/英外相指宏福苑大火令人痛心-慰問所有受影響人士"
+    },
+    "https://www.881903.com/news/local/2607302/": {
+      "title": "中聯辦成立應急專班密切跟進火災救援情況",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:23.765814",
+      "archive_path": "content/news/commercial-radio/archive/中聯辦成立應急專班密切跟進火災救援情況"
+    },
+    "https://www.881903.com/news/local/2607300/": {
+      "title": "宏福苑5級火｜李家超：事件是重大災難　首要撲滅火災必追究責任",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:30.357483",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超事件是重大災難-首要撲滅火災必追究責任"
+    },
+    "https://www.881903.com/news/local/2607285/": {
+      "title": "宏福苑5級火｜至少11間大埔區學校今日停課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:37.026481",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火至少11間大埔區學校今日停課"
+    },
+    "https://www.881903.com/news/local/2607299/": {
+      "title": "岑浩輝向宏福苑火災遇難者致哀　願全力提供所需協助",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:43.142049",
+      "archive_path": "content/news/commercial-radio/archive/岑浩輝向宏福苑火災遇難者致哀-願全力提供所需協助"
+    },
+    "https://www.881903.com/news/local/2607297/": {
+      "title": "宏福苑5級火｜九巴龍運多條路線改道",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:49.591587",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火九巴龍運多條路線改道-1"
+    },
+    "https://www.881903.com/news/local/2607296/": {
+      "title": "宏福苑5級火｜城巴預計多條路線周四早上維持改道",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:32:56.073719",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火城巴預計多條路線周四早上維持改道"
+    },
+    "https://www.881903.com/news/local/2607295/": {
+      "title": "何永賢指將提供中轉屋等供宏福苑火災受影響居民入住",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:02.777741",
+      "archive_path": "content/news/commercial-radio/archive/何永賢指將提供中轉屋等供宏福苑火災受影響居民入住"
+    },
+    "https://news.now.com/home/local/player?newsId=627587": {
+      "title": "宏福苑五級火災｜滅火行動大致完成　餘下處理25個求助個案",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:04.843127",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災滅火行動大致完成-餘下處理25個求助個案"
+    },
+    "https://www.881903.com/news/local/2607286/": {
+      "title": "宏福苑5級火｜習近平對遇難者及消防員致哀　要求全力撲滅火災",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:08.980234",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火習近平對遇難者及消防員致哀-要求全力撲滅火災"
+    },
+    "https://www.881903.com/news/local/2607652/": {
+      "title": "陳茂波促監管機構及銀行加強支援宏福苑災民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:15.097229",
+      "archive_path": "content/news/commercial-radio/archive/陳茂波促監管機構及銀行加強支援宏福苑災民"
+    },
+    "https://news.now.com/home/local/player?newsId=627585": {
+      "title": "宏福苑五級火災｜死亡人數增至83人　另有76人傷",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:16.763539",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死亡人數增至83人-另有76人傷"
+    },
+    "https://www.881903.com/news/local/2607646/": {
+      "title": "宏福苑5級火｜逾800受災居民獲臨時安置",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:21.042407",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火逾800受災居民獲臨時安置"
+    },
+    "https://news.now.com/home/local/player?newsId=627582": {
+      "title": "宏福苑五級火災｜多國外長及教宗向死難者致哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:22.779522",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災多國外長及教宗向死難者致哀"
+    },
+    "https://www.881903.com/news/local/2607650/": {
+      "title": "宏福苑5級火｜部份路段仍然封閉",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:27.269692",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火部份路段仍然封閉"
+    },
+    "https://news.now.com/home/local/player?newsId=627581": {
+      "title": "宏福苑五級火災｜災民可於庇護中心登記領取1萬元應急",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:29.471684",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災民可於庇護中心登記領取1萬元應急"
+    },
+    "https://www.881903.com/news/local/2607649/": {
+      "title": "宏福苑5級火｜宏志閣窗戶發泡膠物料化驗結果為易燃",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:32.470216",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火宏志閣窗戶發泡膠物料化驗結果為易燃"
+    },
+    "https://news.now.com/home/local/player?newsId=627580": {
+      "title": "宏福苑五級火災｜警拘三名工程公司負責人嚴重疏忽涉嫌誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:35.654554",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警拘三名工程公司負責人嚴重疏忽涉嫌誤殺-1"
+    },
+    "https://www.881903.com/news/local/2607639/": {
+      "title": "宏福苑5級火｜社署：緊急救濟登記證與「一戶一社工」服務無關",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:39.010100",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火社署緊急救濟登記證與一戶一社工服務無關"
+    },
+    "https://news.now.com/home/local/player?newsId=627577": {
+      "title": "即日焦點｜政府成立三個工作組處理宏福苑五級火災／李家超：撥3億元成立援助基金　每戶災民派一萬元應急",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:42.015951",
+      "archive_path": "content/news/now-news/archive/即日焦點政府成立三個工作組處理宏福苑五級火災李家超撥3億元成立援助基金-每戶災民派一萬元應急"
+    },
+    "https://www.881903.com/news/local/2607642/": {
+      "title": "入境處為大火災民補辦證件　協調中旅社補辦回鄉證",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:45.062504",
+      "archive_path": "content/news/commercial-radio/archive/入境處為大火災民補辦證件-協調中旅社補辦回鄉證"
+    },
+    "https://news.now.com/home/local/player?newsId=627579": {
+      "title": "宏福苑五級火災｜截至晚上10時　增至75死、76傷",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:47.747094",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災截至晚上10時-增至75死76傷"
+    },
+    "https://www.881903.com/news/local/2607638/": {
+      "title": "銀行業界推措施助宏福苑受災居民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:50.806903",
+      "archive_path": "content/news/commercial-radio/archive/銀行業界推措施助宏福苑受災居民"
+    },
+    "https://news.now.com/home/local/player?newsId=627576": {
+      "title": "亞冠二｜大埔作客1:2不敵澳職球隊麥克阿瑟　賽前默哀悼念宏福苑五級火死者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:33:55.672573",
+      "archive_path": "content/news/now-news/archive/亞冠二大埔作客12不敵澳職球隊麥克阿瑟-賽前默哀悼念宏福苑五級火死者"
+    },
+    "https://www.881903.com/news/local/2607637/": {
+      "title": "殘特奧會｜原定明日的火炬傳遞及下月8日開幕式取消",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:33:56.974358",
+      "archive_path": "content/news/commercial-radio/archive/殘特奧會原定明日的火炬傳遞及下月8日開幕式取消"
+    },
+    "https://www.881903.com/news/local/2607635/": {
+      "title": "宏福苑5級火｜東昌街體育館義工運走物資　有義工稱部分數層由關愛隊接管",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:02.835757",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火東昌街體育館義工運走物資-有義工稱部分數層由關愛隊接管"
+    },
+    "https://news.now.com/home/local/player?newsId=627573": {
+      "title": "宏福苑五級火災｜政府慶祝活動將會取消或延期",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:02.954505",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府慶祝活動將會取消或延期"
+    },
+    "https://www.881903.com/news/local/2607634/": {
+      "title": "宏福苑5級火｜醫管局一名病人服務助理罹難　另一同事失聯",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:08.945234",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火醫管局一名病人服務助理罹難-另一同事失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627570": {
+      "title": "時事全方位重點提要｜11月28日",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:09.351949",
+      "archive_path": "content/news/now-news/archive/時事全方位重點提要11月28日"
+    },
+    "https://www.881903.com/news/local/2607633/": {
+      "title": "中電豁免宏福苑受災住戶11月份電費",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:15.269658",
+      "archive_path": "content/news/commercial-radio/archive/中電豁免宏福苑受災住戶11月份電費"
+    },
+    "https://news.now.com/home/local/player?newsId=627568": {
+      "title": "宏福苑五級火災｜港澳辦副主任徐啟方及農融到港開展救災工作　李家超：正草擬清單冀內地協助",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:15.801956",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災港澳辦副主任徐啟方及農融到港開展救災工作-李家超正草擬清單冀內地協助"
+    },
+    "https://www.881903.com/news/local/2607631/": {
+      "title": "宏福苑5級火｜盧煜明：中大向受影響師生職員提供支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:21.648645",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火盧煜明中大向受影響師生職員提供支援"
+    },
+    "https://news.now.com/home/local/player?newsId=627567": {
+      "title": "宏福苑五級火災｜災民即晚起可於庇護中心領取1萬元現金應急",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:24.018726",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災民即晚起可於庇護中心領取1萬元現金應急"
+    },
+    "https://www.881903.com/news/local/2607542/": {
+      "title": "宏福苑5級火｜廉署拘8人　包括工程顧問公司兩董事",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:28.333173",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火廉署拘8人-包括工程顧問公司兩董事"
+    },
+    "https://news.now.com/home/local/player?newsId=627565": {
+      "title": "宏福苑五級火災｜政府成立三個工作組　分別處理調查規管、支援募捐及應急住宿",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:30.035885",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府成立三個工作組-分別處理調查規管支援募捐及應急住宿"
+    },
+    "https://www.881903.com/news/local/2607626/": {
+      "title": "梁君彥回覆狄志遠　稱無法召開緊急會議商宏福苑大火",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:34.958464",
+      "archive_path": "content/news/commercial-radio/archive/梁君彥回覆狄志遠-稱無法召開緊急會議商宏福苑大火"
+    },
+    "https://news.now.com/home/local/player?newsId=627564": {
+      "title": "守護相望　祝願各人平安",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:38.140033",
+      "archive_path": "content/news/now-news/archive/守護相望-祝願各人平安"
+    },
+    "https://www.881903.com/news/local/2607625/": {
+      "title": "信德集團及3名高層向政府援助宏福苑基金捐款1000萬",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:41.004380",
+      "archive_path": "content/news/commercial-radio/archive/信德集團及3名高層向政府援助宏福苑基金捐款1000萬"
+    },
+    "https://news.now.com/home/local/player?newsId=627563": {
+      "title": "宏福苑五級火災｜被問會否延後選舉　李家超：審視救援情況再決定",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:45.026056",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災被問會否延後選舉-李家超審視救援情況再決定"
+    },
+    "https://www.881903.com/news/local/2607622/": {
+      "title": "宏福苑5級火｜明起一連3日哀悼死者　政府建築物及設施下半旗",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:47.325203",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火明起一連3日哀悼死者-政府建築物及設施下半旗"
+    },
+    "https://news.now.com/home/local/player?newsId=627560": {
+      "title": "宏福苑五級火災｜港澳辦副主任徐啟方及農融率工作小組到港開展救災",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:51.611686",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災港澳辦副主任徐啟方及農融率工作小組到港開展救災"
+    },
+    "https://www.881903.com/news/local/2607539/": {
+      "title": "宏福苑5級火｜有居民指曾就棚網規格投訴　勞工處：曾16次巡查宏福苑",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:53.732186",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有居民指曾就棚網規格投訴-勞工處曾16次巡查宏福苑"
+    },
+    "https://news.now.com/home/local/player?newsId=627561": {
+      "title": "宏福苑五級火災｜英、加等多國外長向五級火死難者致哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:34:56.715241",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災英加等多國外長向五級火死難者致哀"
+    },
+    "https://www.881903.com/news/local/2607611/": {
+      "title": "宏福苑5級火｜孫玉菡：至少2名外傭死亡　會與領事館合作支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:34:59.884046",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火孫玉菡至少2名外傭死亡-會與領事館合作支援"
+    },
+    "https://news.now.com/home/local/player?newsId=627557": {
+      "title": "宏福苑五級火災｜李家超：撥3億元成立援助基金　每戶派一萬元應急",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:03.717370",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超撥3億元成立援助基金-每戶派一萬元應急"
+    },
+    "https://www.881903.com/news/local/2607544/": {
+      "title": "火炭穗禾苑正進行大維修　消防及房署分別檢驗棚網",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:06.384356",
+      "archive_path": "content/news/commercial-radio/archive/火炭穗禾苑正進行大維修-消防及房署分別檢驗棚網"
+    },
+    "https://news.now.com/home/local/player?newsId=627556": {
+      "title": "宏福苑五級火災｜4座大樓大致救熄　另外3座火勢受控",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:09.442129",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災4座大樓大致救熄-另外3座火勢受控"
+    },
+    "https://www.881903.com/news/local/2607588/": {
+      "title": "曾任宏福苑5法團顧問　政制局胡健民：無參與工程招標",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:12.203356",
+      "archive_path": "content/news/commercial-radio/archive/曾任宏福苑5法團顧問-政制局胡健民無參與工程招標"
+    },
+    "https://news.now.com/home/local/player?newsId=627555": {
+      "title": "宏福苑五級火災｜馬會提供1億元援助予火災受影響人士",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:15.069449",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災馬會提供1億元援助予火災受影響人士"
+    },
+    "https://www.881903.com/news/local/2607586/": {
+      "title": "宏福苑5級火｜至少2名印傭事件中身亡　約30名外傭失聯",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:18.012557",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火至少2名印傭事件中身亡-約30名外傭失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627554": {
+      "title": "宏福苑五級火災｜4座大致救熄3座火勢受控",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:21.572469",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災4座大致救熄3座火勢受控"
+    },
+    "https://www.881903.com/news/local/2607575/": {
+      "title": "宏福苑5級火｜初步檢驗圍網具阻燃效用　火警鐘未能運作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:23.981822",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火初步檢驗圍網具阻燃效用-火警鐘未能運作"
+    },
+    "https://news.now.com/home/local/player?newsId=627545": {
+      "title": "宏福苑五級火災｜保監局協調業界援助宏福苑災民　包括加快賠償程序",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:28.404951",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災保監局協調業界援助宏福苑災民-包括加快賠償程序"
+    },
+    "https://www.881903.com/news/local/2607524/": {
+      "title": "宏福苑5級火｜太平香港：已與宏福苑立案法團和大部分個人客戶聯繫　將全速理賠",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:29.553798",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火太平香港已與宏福苑立案法團和大部分個人客戶聯繫-將全速理賠-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627546": {
+      "title": "宏福苑五級火災｜警拘三名工程公司負責人嚴重疏忽涉嫌誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:35:35.233007",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警拘三名工程公司負責人嚴重疏忽涉嫌誤殺-2"
+    },
+    "https://www.881903.com/news/local/2607559/": {
+      "title": "續有多間公司及機構捐款　港鐵派2000元八達通　大家樂派「開飯咭」",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:37.459619",
+      "archive_path": "content/news/commercial-radio/archive/續有多間公司及機構捐款-港鐵派2000元八達通-大家樂派開飯咭-1"
+    },
+    "https://www.881903.com/news/local/2607570/": {
+      "title": "宏福苑5級火｜消防：用直升機救火會加快蔓延　鄧炳強：網上現假消息想分化社會",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:43.280854",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火消防用直升機救火會加快蔓延-鄧炳強網上現假消息想分化社會"
+    },
+    "https://www.881903.com/news/local/2607562/": {
+      "title": "宏福苑5級火｜128人死亡　約200人情況未明",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:49.523205",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火128人死亡-約200人情況未明"
+    },
+    "https://www.881903.com/news/local/2607537/": {
+      "title": "屯門怡樂花園大維修暫停　待宏業建築提交阻燃測試報告",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:35:55.620450",
+      "archive_path": "content/news/commercial-radio/archive/屯門怡樂花園大維修暫停-待宏業建築提交阻燃測試報告"
+    },
+    "https://news.now.com/home/local/player?newsId=627543": {
+      "title": "宏福苑五級火災｜港鐵在大埔墟站設支援站助受影響居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:36:25.123447",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災港鐵在大埔墟站設支援站助受影響居民"
+    },
+    "https://www.881903.com/news/local/2607489/": {
+      "title": "宏福苑5級火｜有居民斥申領政府援助金安排混亂",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:36:30.338223",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有居民斥申領政府援助金安排混亂"
+    },
+    "https://news.now.com/home/local/player?newsId=627541": {
+      "title": "宏福苑五級火災｜市民通宵送物資予災民：大家都住在香港",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:36:36.734039",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災市民通宵送物資予災民大家都住在香港"
+    },
+    "https://news.now.com/home/local/player?newsId=627540": {
+      "title": "宏福苑五級火災｜李家超視察災場　消防處處長楊恩健匯報搜救進度",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:36:42.533306",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超視察災場-消防處處長楊恩健匯報搜救進度"
+    },
+    "https://news.now.com/home/local/player?newsId=627539": {
+      "title": "宏福苑五級火災｜增至55死約70傷　消防大廈內盡力向上搜救",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:36:48.298424",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災增至55死約70傷-消防大廈內盡力向上搜救"
+    },
+    "https://news.now.com/home/local/player?newsId=627538": {
+      "title": "宏福苑五級火災｜廉署成立專案小組　調查大維修工程或涉貪",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:36:54.760109",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廉署成立專案小組-調查大維修工程或涉貪"
+    },
+    "https://www.881903.com/news/local/2607536/": {
+      "title": "狄志遠致函梁君彥　要求立法會就宏福苑大火緊急辯論",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:36:57.787861",
+      "archive_path": "content/news/commercial-radio/archive/狄志遠致函梁君彥-要求立法會就宏福苑大火緊急辯論"
+    },
+    "https://news.now.com/home/local/player?newsId=627491": {
+      "title": "宏福苑五級火災｜支援服務、求助電話等資訊一覽",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:01.505232",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災支援服務求助電話等資訊一覽"
+    },
+    "https://www.881903.com/news/local/2607535/": {
+      "title": "宏福苑5級火｜港澳辦︰廣東省已應港府要求交付物資",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:03.657528",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火港澳辦廣東省已應港府要求交付物資-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627536": {
+      "title": "宏福苑五級火災｜房協大埔「策誠軒」提供約90個單位予災民暫住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:07.736536",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災房協大埔策誠軒提供約90個單位予災民暫住"
+    },
+    "https://www.881903.com/news/local/2607532/": {
+      "title": "宏福苑5級火｜團體向學生提供1000元應急　助盡快重投學習",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:09.424259",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火團體向學生提供1000元應急-助盡快重投學習"
+    },
+    "https://news.now.com/home/local/player?newsId=627535": {
+      "title": "宏福苑五級火災｜紅十字會已啟動心理支援服務熱線",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:13.227191",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災紅十字會已啟動心理支援服務熱線"
+    },
+    "https://www.881903.com/news/local/2607527/": {
+      "title": "宏福苑5級火｜港大醫學院派出醫療隊　負責醫療站工作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:15.452091",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火港大醫學院派出醫療隊-負責醫療站工作"
+    },
+    "https://news.now.com/home/local/player?newsId=627534": {
+      "title": "宏福苑五級火災｜紅十字會動員逾百人支援居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:20.142997",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災紅十字會動員逾百人支援居民"
+    },
+    "https://www.881903.com/news/local/2607523/": {
+      "title": "港澳平：中央關心支持提供信心底氣　相信可做好救災工作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:21.786823",
+      "archive_path": "content/news/commercial-radio/archive/港澳平中央關心支持提供信心底氣-相信可做好救災工作"
+    },
+    "https://news.now.com/home/local/player?newsId=627516": {
+      "title": "宏福苑五級火災｜殉職消防員何偉豪家屬到殮房認屍",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:26.407381",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災殉職消防員何偉豪家屬到殮房認屍"
+    },
+    "https://www.881903.com/news/local/2607403/": {
+      "title": "金管局籲銀行靈活支援受災居民　滙豐恒生渣打：加快為居民換卡",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:27.933987",
+      "archive_path": "content/news/commercial-radio/archive/金管局籲銀行靈活支援受災居民-滙豐恒生渣打加快為居民換卡-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627514": {
+      "title": "宏福苑五級火災｜李家超：安排巡查全港大維修屋苑棚架安全　與港人團結一致",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:33.225353",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超安排巡查全港大維修屋苑棚架安全-與港人團結一致"
+    },
+    "https://www.881903.com/news/local/2607508/": {
+      "title": "業界對轉用金屬棚持開放態度　惟關注成本及應用困難",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:34.381001",
+      "archive_path": "content/news/commercial-radio/archive/業界對轉用金屬棚持開放態度-惟關注成本及應用困難"
+    },
+    "https://news.now.com/home/local/player?newsId=627512": {
+      "title": "宏福苑五級火災｜災民可毋須預約　到任何人事登記辦事處補領身份證等證件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:39.672934",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災民可毋須預約-到任何人事登記辦事處補領身份證等證件"
+    },
+    "https://www.881903.com/news/local/2607519/": {
+      "title": "宏福苑5級火｜紅十字會助失蹤者家屬辨認遺體　冀減低心理傷害",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:41.679462",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火紅十字會助失蹤者家屬辨認遺體-冀減低心理傷害"
+    },
+    "https://news.now.com/home/local/player?newsId=627505": {
+      "title": "宏福苑五級火災｜多間企業捐款支援大埔火災救援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:46.132342",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災多間企業捐款支援大埔火災救援"
+    },
+    "https://www.881903.com/news/local/2607518/": {
+      "title": "宏福苑5級火｜冠忠巴士為宏福苑居民　提供免費交通服務",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:47.534170",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火冠忠巴士為宏福苑居民-提供免費交通服務"
+    },
+    "https://news.now.com/home/local/player?newsId=627503": {
+      "title": "宏福苑五級火災｜房委會開放2000個臨時收容中心及中轉屋床位予災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:52.461486",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災房委會開放2000個臨時收容中心及中轉屋床位予災民"
+    },
+    "https://www.881903.com/news/local/2607510/": {
+      "title": "公益金取消周日百萬行活動　善款將撥捐援助火災居民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:37:53.418289",
+      "archive_path": "content/news/commercial-radio/archive/公益金取消周日百萬行活動-善款將撥捐援助火災居民-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627502": {
+      "title": "宏福苑五級火災｜部分居民留守屋苑附近等候被困家人消息",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:37:58.574171",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災部分居民留守屋苑附近等候被困家人消息"
+    },
+    "https://news.now.com/home/local/player?newsId=627497": {
+      "title": "時事全方位｜宏福苑火災之房委會支援(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:05.157177",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之房委會支援二"
+    },
+    "https://news.now.com/home/local/player?newsId=627496": {
+      "title": "時事全方位｜宏福苑火災之房委會支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:12.110300",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之房委會支援一"
+    },
+    "https://news.now.com/home/local/player?newsId=627486": {
+      "title": "時事全方位｜宏福苑火災之心理支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:18.639051",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之心理支援一"
+    },
+    "https://news.now.com/home/local/player?newsId=627485": {
+      "title": "時事全方位｜宏福苑火災之應急支援(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:24.814968",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之應急支援二"
+    },
+    "https://news.now.com/home/local/player?newsId=627484": {
+      "title": "時事全方位｜宏福苑火災之應急支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:31.631071",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之應急支援一"
+    },
+    "https://news.now.com/home/local/player?newsId=627483": {
+      "title": "時事全方位｜宏福苑火災(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:38.325177",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災二"
+    },
+    "https://news.now.com/home/local/player?newsId=627482": {
+      "title": "時事全方位｜宏福苑火災(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:45.235264",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災一"
+    },
+    "https://www.881903.com/news/local/2607509/": {
+      "title": "宏福苑5級火｜政府設戶口接受捐款　有巿民仍傾向慈善團體",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:38:48.535542",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府設戶口接受捐款-有巿民仍傾向慈善團體"
+    },
+    "https://news.now.com/home/local/player?newsId=627499": {
+      "title": "宏福苑五級火災｜業主立案法團主席指早已向承辦商反映有工人吸煙",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:51.441943",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災業主立案法團主席指早已向承辦商反映有工人吸煙"
+    },
+    "https://news.now.com/home/local/player?newsId=627500": {
+      "title": "宏福苑五級火災｜澳門行政長官岑浩輝對遇難者表示哀悼",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:38:57.338904",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災澳門行政長官岑浩輝對遇難者表示哀悼"
+    },
+    "https://www.881903.com/news/local/2607486/": {
+      "title": "宏福苑5級火｜359人已入住過渡性房屋",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:38:58.534307",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火359人已入住過渡性房屋"
+    },
+    "https://news.now.com/home/local/player?newsId=627495": {
+      "title": "宏福苑直擊｜火災逾22小時仍未救熄　消防員繼續射水灌救",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:04.008454",
+      "archive_path": "content/news/now-news/archive/宏福苑直擊火災逾22小時仍未救熄-消防員繼續射水灌救"
+    },
+    "https://www.881903.com/news/local/2607480/": {
+      "title": "宏福苑5級火｜部份路段仍封閉　港鐵早上加強班次",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:04.424511",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火部份路段仍封閉-港鐵早上加強班次"
+    },
+    "https://www.881903.com/news/local/2607479/": {
+      "title": "周霽及農融探望宏福苑大火傷者及受傷消防員",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:09.776033",
+      "archive_path": "content/news/commercial-radio/archive/周霽及農融探望宏福苑大火傷者及受傷消防員"
+    },
+    "https://news.now.com/home/local/player?newsId=627494": {
+      "title": "宏福苑五級火災｜中國紅十字會捐200萬元人民幣支持救援行動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:10.769705",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中國紅十字會捐200萬元人民幣支持救援行動"
+    },
+    "https://www.881903.com/news/local/2607469/": {
+      "title": "宏福苑5級火｜增至94死　滅火行動大致完成",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:15.370557",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至94死-滅火行動大致完成"
+    },
+    "https://www.881903.com/news/local/2607466/": {
+      "title": "發展局等部門與建造業開會  為轉用金屬棚擬定路線圖",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:22.055703",
+      "archive_path": "content/news/commercial-radio/archive/發展局等部門與建造業開會-為轉用金屬棚擬定路線圖"
+    },
+    "https://www.881903.com/news/local/2607758/": {
+      "title": "宏福苑5級火｜教育局成立特別事故小組　支援受影響師生",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:27.837702",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火教育局成立特別事故小組-支援受影響師生"
+    },
+    "https://news.now.com/home/local/player?newsId=627488": {
+      "title": "宏福苑五級火災｜市民通宵送物資予災民：大家都住在香港",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:31.316646",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災市民通宵送物資予災民大家都住在香港-1"
+    },
+    "https://www.881903.com/news/local/2607757/": {
+      "title": "宏福苑5級火｜小量單位結構損壞較嚴重　需臨時鞏固",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:34.165633",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火小量單位結構損壞較嚴重-需臨時鞏固"
+    },
+    "https://news.now.com/home/local/player?newsId=627481": {
+      "title": "宏福苑五級火災｜外牆圍網肉眼難辨阻燃功能　棚業工會促加強抽查",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:37.391986",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災外牆圍網肉眼難辨阻燃功能-棚業工會促加強抽查"
+    },
+    "https://www.881903.com/news/local/2607756/": {
+      "title": "宏福苑5級火｜據了解1名訴求聯署發起人被國安處帶走",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:40.695821",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火據了解1名訴求聯署發起人被國安處帶走"
+    },
+    "https://news.now.com/home/local/player?newsId=627480": {
+      "title": "大埔直擊｜宏福苑大火　其中一個安置點有過百名居民休息",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:43.027891",
+      "archive_path": "content/news/now-news/archive/大埔直擊宏福苑大火-其中一個安置點有過百名居民休息"
+    },
+    "https://www.881903.com/news/local/2607753/": {
+      "title": "宏福苑5級火｜屋宇署勒令30私人樓宇工程項暫停工　宏業涉28個",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:46.152673",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火屋宇署勒令30私人樓宇工程項暫停工-宏業涉28個"
+    },
+    "https://news.now.com/home/local/player?newsId=627479": {
+      "title": "宏福苑五級火災｜初步調查在大廈窗外發現發泡膠　警拘三名工程公司負責人嚴重疏忽涉嫌誤殺",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:49.219750",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災初步調查在大廈窗外發現發泡膠-警拘三名工程公司負責人嚴重疏忽涉嫌誤殺"
+    },
+    "https://www.881903.com/news/local/2607751/": {
+      "title": "宏福苑5級火｜消防處工協會：有失實言論圖分化管理層與同事",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:52.648479",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火消防處工協會有失實言論圖分化管理層與同事"
+    },
+    "https://news.now.com/home/local/player?newsId=627470": {
+      "title": "宏福苑五級火災｜陳茂波提前結束米蘭外訪　參與政府應對和善後工作",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:39:57.065220",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災陳茂波提前結束米蘭外訪-參與政府應對和善後工作"
+    },
+    "https://www.881903.com/news/local/2607750/": {
+      "title": "宏福苑5級火｜港澳辦協調向特區政府提供第二階段物資",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:39:58.924297",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火港澳辦協調向特區政府提供第二階段物資"
+    },
+    "https://news.now.com/home/local/player?newsId=627469": {
+      "title": "宏福苑五級火災｜消防派逾20隊拯救隊到不同樓層處理求助個案",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:02.895787",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災消防派逾20隊拯救隊到不同樓層處理求助個案"
+    },
+    "https://www.881903.com/news/local/2607749/": {
+      "title": "宏福苑5級火｜金監總局要求中資銀行及保險業助力重建",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:04.941510",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火金監總局要求中資銀行及保險業助力重建"
+    },
+    "https://news.now.com/home/local/player?newsId=627465": {
+      "title": "宏福苑五級火災｜東鐵綫加密班次　途徑大埔等39條專營巴士路線需改道",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:08.507999",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災東鐵綫加密班次-途徑大埔等39條專營巴士路線需改道"
+    },
+    "https://www.881903.com/news/local/2607698/": {
+      "title": "宏福苑5級火｜廉署拘維修工程承建商3負責人  至今11人被捕",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:10.862019",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火廉署拘維修工程承建商3負責人-至今11人被捕"
+    },
+    "https://news.now.com/home/local/player?newsId=627740": {
+      "title": "宏福苑五級火災｜香港紅十字會：很多災民親人失蹤　不願在庇護中心過夜",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:14.555527",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災香港紅十字會很多災民親人失蹤-不願在庇護中心過夜"
+    },
+    "https://www.881903.com/news/local/2607747/": {
+      "title": "宏福苑5級火｜逾1500名居民獲安排入住過渡性房屋等單位",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:16.728687",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火逾1500名居民獲安排入住過渡性房屋等單位"
+    },
+    "https://news.now.com/home/local/player?newsId=627739": {
+      "title": "宏福苑五級火災｜火炭穗禾苑大維修同以發泡膠遮窗　居民憂悲劇再演",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:21.256065",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災火炭穗禾苑大維修同以發泡膠遮窗-居民憂悲劇再演"
+    },
+    "https://www.881903.com/news/local/2607744/": {
+      "title": "宏福苑5級火｜入境處安排專車　接載災民補辦證件",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:23.096673",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火入境處安排專車-接載災民補辦證件"
+    },
+    "https://news.now.com/home/local/player?newsId=627737": {
+      "title": "社會福利署：宏福苑居民不需登記證就可接受「一戶一社工」服務",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:26.921023",
+      "archive_path": "content/news/now-news/archive/社會福利署宏福苑居民不需登記證就可接受一戶一社工服務"
+    },
+    "https://www.881903.com/news/local/2607708/": {
+      "title": "宏福苑5級火｜災民陸續登記領取津貼　大批市民到場獻花",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:29.619657",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火災民陸續登記領取津貼-大批市民到場獻花"
+    },
+    "https://news.now.com/home/local/player?newsId=627736": {
+      "title": "即日焦點｜政府下周起向宏福苑每戶發5萬元生活津貼　另向死者家屬發20萬元慰問金／廉署拘八人　涉宏福苑大維修工程貪污",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:33.727844",
+      "archive_path": "content/news/now-news/archive/即日焦點政府下周起向宏福苑每戶發5萬元生活津貼-另向死者家屬發20萬元慰問金廉署拘八人-涉宏福苑大維修工程貪污"
+    },
+    "https://www.881903.com/news/local/2607739/": {
+      "title": "大埔宏福苑支援服務設專題網站　一站式提供最新消息",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:36.051576",
+      "archive_path": "content/news/commercial-radio/archive/大埔宏福苑支援服務設專題網站-一站式提供最新消息"
+    },
+    "https://news.now.com/home/local/player?newsId=627734": {
+      "title": "宏福苑五級火災｜醫管局一名病人服務助理遇難　一名員工失聯",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:40.090787",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災醫管局一名病人服務助理遇難-一名員工失聯"
+    },
+    "https://www.881903.com/news/local/2607733/": {
+      "title": "宏福苑5級火｜警方完成2幢樓宇搜索沒發現遺骸　處理150宗失聯",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:42.209191",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火警方完成2幢樓宇搜索沒發現遺骸-處理150宗失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627733": {
+      "title": "宏福苑五級火災｜政府將向每戶發5萬元生活津貼　向死者家屬發20萬慰問金　社署指災民接受一戶一社工服務毋須登記證",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:46.284990",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府將向每戶發5萬元生活津貼-向死者家屬發20萬慰問金-社署指災民接受一戶一社工服務毋須登記證"
+    },
+    "https://www.881903.com/news/local/2607732/": {
+      "title": "宏福苑5級火｜援助基金增至11億　已向929戶發放應急錢",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:48.334181",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火援助基金增至11億-已向929戶發放應急錢"
+    },
+    "https://news.now.com/home/local/player?newsId=627729": {
+      "title": "宏福苑五級火災｜太平香港承保屋苑工程項目　稱按合約應賠盡賠",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:51.907355",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災太平香港承保屋苑工程項目-稱按合約應賠盡賠"
+    },
+    "https://www.881903.com/news/local/2607737/": {
+      "title": "駐港國安公署斥反中亂港分子「以災亂港」　妄圖讓香港再現「黑暴」",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:40:55.180123",
+      "archive_path": "content/news/commercial-radio/archive/駐港國安公署斥反中亂港分子以災亂港-妄圖讓香港再現黑暴"
+    },
+    "https://news.now.com/home/local/player?newsId=627728": {
+      "title": "宏福苑五級火災｜涉大維修工程貪污　廉署拘八人",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:40:58.422137",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災涉大維修工程貪污-廉署拘八人"
+    },
+    "https://www.881903.com/news/local/2607731/": {
+      "title": "宏福苑5級火｜卓永興：大埔社區中心設中央物資站　有意捐贈需先登記",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:01.693824",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火卓永興大埔社區中心設中央物資站-有意捐贈需先登記"
+    },
+    "https://news.now.com/home/local/player?newsId=627727": {
+      "title": "宏福苑五級火災 | 全港政府建築物周六起下半旗誌哀　政府官員周六到政總默哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:04.159013",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災-全港政府建築物周六起下半旗誌哀-政府官員周六到政總默哀"
+    },
+    "https://www.881903.com/news/local/2607725/": {
+      "title": "「打開香港」取消餘下所有活動　冀參與者集中支援災民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:07.637557",
+      "archive_path": "content/news/commercial-radio/archive/打開香港取消餘下所有活動-冀參與者集中支援災民"
+    },
+    "https://news.now.com/home/local/player?newsId=627726": {
+      "title": "宏福苑五級火災｜周霽與農融探望受大火影響災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:10.456219",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災周霽與農融探望受大火影響災民"
+    },
+    "https://www.881903.com/news/local/2607715/": {
+      "title": "梁君彥：出席前高級公務員協會晚宴不違哀悼指引",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:13.964475",
+      "archive_path": "content/news/commercial-radio/archive/梁君彥出席前高級公務員協會晚宴不違哀悼指引"
+    },
+    "https://news.now.com/home/local/player?newsId=627725": {
+      "title": "宏福苑五級火災｜麥美娟澄清政府一切對災民支援皆免費　須優先保護災民私隱",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:16.392236",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災麥美娟澄清政府一切對災民支援皆免費-須優先保護災民私隱"
+    },
+    "https://www.881903.com/news/local/2607693/": {
+      "title": "宏福苑5級火｜警方派員助辨認遺體　周一鳴等人到場視察",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:20.217810",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火警方派員助辨認遺體-周一鳴等人到場視察"
+    },
+    "https://news.now.com/home/local/player?newsId=627724": {
+      "title": "宏福苑五級火災｜政府下周起向每戶提供5萬元生活津貼　另向死者家屬發放20萬元慰問金",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:22.173959",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府下周起向每戶提供5萬元生活津貼-另向死者家屬發放20萬元慰問金"
+    },
+    "https://www.881903.com/news/local/2607714/": {
+      "title": "樹仁大學因應宏福苑火災善後工作　延後畢業禮",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:26.680756",
+      "archive_path": "content/news/commercial-radio/archive/樹仁大學因應宏福苑火災善後工作-延後畢業禮"
+    },
+    "https://news.now.com/home/local/player?newsId=627723": {
+      "title": "宏福苑五級火災｜死亡人數增至128人　200人情況未明　當局設辨認處助失聯者家屬經相片辨認身份",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:28.422696",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死亡人數增至128人-200人情況未明-當局設辨認處助失聯者家屬經相片辨認身份"
+    },
+    "https://www.881903.com/news/local/2607705/": {
+      "title": "宏福苑5級火｜中聯辦、外交部駐港公署和駐港部隊都有默哀儀式",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:32.807057",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火中聯辦外交部駐港公署和駐港部隊都有默哀儀式"
+    },
+    "https://news.now.com/home/local/player?newsId=627721": {
+      "title": "宏福苑五級火災｜鄧炳強批「有心人」網上散播假消息分化社會　籲社會團結一致",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:35.318120",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災鄧炳強批有心人網上散播假消息分化社會-籲社會團結一致"
+    },
+    "https://www.881903.com/news/local/2607710/": {
+      "title": "宏福苑5級火｜政府跨部門調查專組召開首次會議　調查起因",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:39.417434",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府跨部門調查專組召開首次會議-調查起因"
+    },
+    "https://news.now.com/home/local/player?newsId=627720": {
+      "title": "宏福苑五級火災｜廉署拘三名涉案工程顧問公司人員　包括東主及項目經理",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:40.960737",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廉署拘三名涉案工程顧問公司人員-包括東主及項目經理"
+    },
+    "https://www.881903.com/news/local/2607678/": {
+      "title": "精神科醫生指大火災民或患PTSD　籲集中社會精神科資源",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:45.370801",
+      "archive_path": "content/news/commercial-radio/archive/精神科醫生指大火災民或患ptsd-籲集中社會精神科資源"
+    },
+    "https://news.now.com/home/local/player?newsId=627714": {
+      "title": "宏福苑五級火災｜澳門及社會各界繼續捐款",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:47.770374",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災澳門及社會各界繼續捐款"
+    },
+    "https://www.881903.com/news/local/2607704/": {
+      "title": "宏福苑5級火｜網傳關愛隊報警驅趕義工　麥美娟澄清沒有報警",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:50.841814",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火網傳關愛隊報警驅趕義工-麥美娟澄清沒有報警"
+    },
+    "https://news.now.com/home/local/player?newsId=627715": {
+      "title": "宏福苑五級火災｜蘋果行政總裁庫克：將就大埔火災捐款支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:41:54.180070",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災蘋果行政總裁庫克將就大埔火災捐款支援"
+    },
+    "https://www.881903.com/news/local/2607703/": {
+      "title": "宏福苑5級火｜去年已有居民投訴工程棚網　孫玉菡認勞工處回信有欠理想",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:41:56.929445",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火去年已有居民投訴工程棚網-孫玉菡認勞工處回信有欠理想"
+    },
+    "https://news.now.com/home/local/player?newsId=627713": {
+      "title": "宏福苑五級火災｜警方將進入大廈蒐證　料需時三至四星期",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:00.536316",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方將進入大廈蒐證-料需時三至四星期"
+    },
+    "https://www.881903.com/news/local/2607663/": {
+      "title": "宏福苑5級火｜李家超出席默哀儀式　政府總部下半旗誌哀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:03.650546",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超出席默哀儀式-政府總部下半旗誌哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627712": {
+      "title": "宏福苑五級火災｜麥美娟：向死者家屬發20萬慰問金　食環署助殮葬事宜　每戶發5萬元生活津貼",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:06.088357",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災麥美娟向死者家屬發20萬慰問金-食環署助殮葬事宜-每戶發5萬元生活津貼"
+    },
+    "https://www.881903.com/news/local/2607692/": {
+      "title": "宏福苑5級火｜全港18區設置弔唁處　巿民留言表達心意",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:10.704686",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火全港18區設置弔唁處-巿民留言表達心意"
+    },
+    "https://news.now.com/home/local/player?newsId=627711": {
+      "title": "大埔直擊｜廣福邨宏福苑居民聚集廣福商場平台觀察　有宏昌閣住戶料單位或財物盡失",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:12.571946",
+      "archive_path": "content/news/now-news/archive/大埔直擊廣福邨宏福苑居民聚集廣福商場平台觀察-有宏昌閣住戶料單位或財物盡失"
+    },
+    "https://www.881903.com/news/local/2607691/": {
+      "title": "宏福苑5級火｜房委會為未補價單位業主　提供特別貸款安排",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:16.835247",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火房委會為未補價單位業主-提供特別貸款安排"
+    },
+    "https://news.now.com/home/local/player?newsId=627708": {
+      "title": "宏福苑五級火災｜宏福苑大維修57間承建商入標　宏業建築工程獲最高90分",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:18.713687",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災宏福苑大維修57間承建商入標-宏業建築工程獲最高90分"
+    },
+    "https://www.881903.com/news/local/2607689/": {
+      "title": "宏福苑5級火｜人行開通跨境人民幣捐款綠色通道",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:22.844327",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火人行開通跨境人民幣捐款綠色通道-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627709": {
+      "title": "宏福苑五級火災｜曾任宏福苑法團顧問　政制局副局長胡健民：無參與維修招標",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:25.050455",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災曾任宏福苑法團顧問-政制局副局長胡健民無參與維修招標"
+    },
+    "https://www.881903.com/news/local/2607688/": {
+      "title": "宏福苑5級火｜大埔墟站外有義工將物資搬離現場",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:29.193772",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火大埔墟站外有義工將物資搬離現場"
+    },
+    "https://news.now.com/home/local/player?newsId=627707": {
+      "title": "宏福苑五級火災｜死亡人數增至128人　200人情況未明　當局不排除發現更多燒焦遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:31.444044",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死亡人數增至128人-200人情況未明-當局不排除發現更多燒焦遺體"
+    },
+    "https://www.881903.com/news/local/2607687/": {
+      "title": "宏福苑5級火｜曼聯車路士拜仁等外國球會致哀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:35.823032",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火曼聯車路士拜仁等外國球會致哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627700": {
+      "title": "宏福苑五級火災｜太平香港承保宏福苑工程項目　稱按合約應賠盡賠",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:38.086700",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災太平香港承保宏福苑工程項目-稱按合約應賠盡賠"
+    },
+    "https://www.881903.com/news/local/2607684/": {
+      "title": "宏福苑5級火｜政府已向逾300戶發放應急錢　麥美娟倡由社署統一處理捐款",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:42.675549",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府已向逾300戶發放應急錢-麥美娟倡由社署統一處理捐款"
+    },
+    "https://news.now.com/home/local/player?newsId=627693": {
+      "title": "宏福苑五級火災｜廉署拘兩名涉案工程顧問公司人員",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:44.249854",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廉署拘兩名涉案工程顧問公司人員"
+    },
+    "https://www.881903.com/news/local/2607683/": {
+      "title": "宏福苑5級火｜發展局：意見指政府將大火矛頭指向竹棚　是錯誤解讀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:48.429527",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火發展局意見指政府將大火矛頭指向竹棚-是錯誤解讀"
+    },
+    "https://news.now.com/home/local/player?newsId=627694": {
+      "title": "宏福苑五級火災｜鄧炳強：火勢迅速蔓延料與發泡膠板有關　楊恩健：大廈火警鐘沒聲響",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:50.671543",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災鄧炳強火勢迅速蔓延料與發泡膠板有關-楊恩健大廈火警鐘沒聲響"
+    },
+    "https://www.881903.com/news/local/2607672/": {
+      "title": "英王查理斯三世對大埔火災死難者致哀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:53.670620",
+      "archive_path": "content/news/commercial-radio/archive/英王查理斯三世對大埔火災死難者致哀-1"
+    },
+    "https://news.now.com/home/local/player?newsId=627692": {
+      "title": "宏福苑五級火災｜增至128死約200人情況未明　不排除發現更多燒焦遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:42:56.855214",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災增至128死約200人情況未明-不排除發現更多燒焦遺體"
+    },
+    "https://www.881903.com/news/local/2607668/": {
+      "title": "宏福苑5級火｜國家消防救援局提供設備支持",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:42:59.450438",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火國家消防救援局提供設備支持"
+    },
+    "https://news.now.com/home/local/player?newsId=627691": {
+      "title": "宏福苑五級火災｜印尼駐港總領事證實兩名印傭罹難　另有11人失聯",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:03.760641",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災印尼駐港總領事證實兩名印傭罹難-另有11人失聯"
+    },
+    "https://www.881903.com/news/local/2607665/": {
+      "title": "周霽與農融探望慰問宏福苑5級火受災人員",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:05.786200",
+      "archive_path": "content/news/commercial-radio/archive/周霽與農融探望慰問宏福苑5級火受災人員"
+    },
+    "https://news.now.com/home/local/player?newsId=627690": {
+      "title": "宏福苑五級火災｜「善樓」臨時庇護中心爆滿　善導會：現階段不會收取居民任何費用",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:09.855639",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災善樓臨時庇護中心爆滿-善導會現階段不會收取居民任何費用"
+    },
+    "https://www.881903.com/news/local/2607664/": {
+      "title": "宏福苑5級火｜政府展開後續支援工作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:12.434839",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火政府展開後續支援工作"
+    },
+    "https://www.881903.com/news/local/2607659/": {
+      "title": "香港前高級公務員協會晚宴　支持立法會選舉",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:18.423912",
+      "archive_path": "content/news/commercial-radio/archive/香港前高級公務員協會晚宴-支持立法會選舉"
+    },
+    "https://news.now.com/home/local/player?newsId=627689": {
+      "title": "宏福苑五級火災｜鄧炳強指初步相信火勢迅速蔓延與發泡膠板有關",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:19.410253",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災鄧炳強指初步相信火勢迅速蔓延與發泡膠板有關"
+    },
+    "https://www.881903.com/news/local/2607598/": {
+      "title": "宏福苑5級火｜麥美娟：向死者家屬發放20萬慰問金及每戶5萬元津貼",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:25.196368",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火麥美娟向死者家屬發放20萬慰問金及每戶5萬元津貼"
+    },
+    "https://news.now.com/home/local/player?newsId=627688": {
+      "title": "宏福苑五級火災｜鄧炳強交代最新傷亡情況　料需3至4周調查",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:25.730767",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災鄧炳強交代最新傷亡情況-料需3至4周調查"
+    },
+    "https://www.881903.com/news/local/2607656/": {
+      "title": "宏福苑5級火｜足總宣布周日所有超聯賽事延期",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:30.818308",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火足總宣布周日所有超聯賽事延期"
+    },
+    "https://news.now.com/home/local/player?newsId=627687": {
+      "title": "宏福苑五級火災｜教育局因應火災向大埔區內的學校提供津貼及支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:32.380798",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教育局因應火災向大埔區內的學校提供津貼及支援"
+    },
+    "https://www.881903.com/news/local/2607858/": {
+      "title": "將軍澳入境處總部加開時段為宏福苑居民補領證件",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:36.731753",
+      "archive_path": "content/news/commercial-radio/archive/將軍澳入境處總部加開時段為宏福苑居民補領證件"
+    },
+    "https://news.now.com/home/local/player?newsId=627685": {
+      "title": "宏福苑五級火災｜鄧炳強：警方最快今日入部分大廈調查　料整個調查需三至四周",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:38.871961",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災鄧炳強警方最快今日入部分大廈調查-料整個調查需三至四周"
+    },
+    "https://www.881903.com/news/local/2607856/": {
+      "title": "深水埗怡閣苑維修工程以塑膠板封窗  須停工改善",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:43.343455",
+      "archive_path": "content/news/commercial-radio/archive/深水埗怡閣苑維修工程以塑膠板封窗-須停工改善"
+    },
+    "https://news.now.com/home/local/player?newsId=627686": {
+      "title": "宏福苑五級火災｜楊恩健：若使用直升機救援　會加劇火勢",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:45.703476",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災楊恩健若使用直升機救援-會加劇火勢"
+    },
+    "https://www.881903.com/news/local/2607855/": {
+      "title": "宏福苑5級火｜停課學校明日逐步復課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:49.315792",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火停課學校明日逐步復課"
+    },
+    "https://news.now.com/home/local/player?newsId=627684": {
+      "title": "宏福苑五級火災｜增至128死79傷　消防滅火搜救工作完成",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:52.343228",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災增至128死79傷-消防滅火搜救工作完成"
+    },
+    "https://www.881903.com/news/local/2607846/": {
+      "title": "宏福苑5級火｜基層醫療署免費為災民安排醫療服務",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:43:55.297384",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火基層醫療署免費為災民安排醫療服務"
+    },
+    "https://news.now.com/home/local/player?newsId=627679": {
+      "title": "宏福苑五級火災｜政府續開放多間臨時庇護中心　善樓160個單位供受影響居民暫住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:43:59.017608",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府續開放多間臨時庇護中心-善樓160個單位供受影響居民暫住"
+    },
+    "https://news.now.com/home/local/player?newsId=627678": {
+      "title": "宏福苑五級火災｜承保工程太平香港指「能賠快賠」　保險業料明年家居及建築工程保費將上調",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:44:05.571720",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災承保工程太平香港指能賠快賠-保險業料明年家居及建築工程保費將上調"
+    },
+    "https://news.now.com/home/local/player?newsId=627634": {
+      "title": "時事全方位｜宏福苑火災之保險賠償(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:44:11.986656",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之保險賠償二"
+    },
+    "https://www.881903.com/news/local/2607843/": {
+      "title": "運輸署督導大埔巴士線調整改道安排　減通勤上學不便",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:44:30.506308",
+      "archive_path": "content/news/commercial-radio/archive/運輸署督導大埔巴士線調整改道安排-減通勤上學不便"
+    },
+    "https://news.now.com/home/local/player?newsId=627633": {
+      "title": "時事全方位｜宏福苑火災之保險賠償(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:04.900135",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之保險賠償一"
+    },
+    "https://www.881903.com/news/local/2607839/": {
+      "title": "沙田賽馬閉門進行　馬會共向宏福苑災民捐助1.7億",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:05.569438",
+      "archive_path": "content/news/commercial-radio/archive/沙田賽馬閉門進行-馬會共向宏福苑災民捐助17億"
+    },
+    "https://www.881903.com/news/local/2607838/": {
+      "title": "宏福苑5級火｜中國福利基金會接收逾6600萬人民幣捐款",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:11.756117",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火中國福利基金會接收逾6600萬人民幣捐款"
+    },
+    "https://news.now.com/home/local/player?newsId=627629": {
+      "title": "時事全方位｜宏福苑火災之善後支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:16.358376",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之善後支援一"
+    },
+    "https://www.881903.com/news/local/2607804/": {
+      "title": "宏福苑5級火｜周思傑：至少4工友罹難　社署：協助家屬",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:18.530304",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火周思傑至少4工友罹難-社署協助家屬"
+    },
+    "https://news.now.com/home/local/player?newsId=627644": {
+      "title": "時事全方位｜舊廈維修及建築安全(三)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:22.758629",
+      "archive_path": "content/news/now-news/archive/時事全方位舊廈維修及建築安全三"
+    },
+    "https://www.881903.com/news/local/2607834/": {
+      "title": "宏褔苑5級火｜居民：申請援資訊混亂　過渡性房屋位置偏遠",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:25.047364",
+      "archive_path": "content/news/commercial-radio/archive/宏褔苑5級火居民申請援資訊混亂-過渡性房屋位置偏遠"
+    },
+    "https://news.now.com/home/local/player?newsId=627626": {
+      "title": "時事全方位｜舊廈維修及建築安全(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:29.674082",
+      "archive_path": "content/news/now-news/archive/時事全方位舊廈維修及建築安全二"
+    },
+    "https://www.881903.com/news/local/2607835/": {
+      "title": "宏福苑5級火｜搭棚業界認為將大火歸究竹棚　難汲取教訓",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:30.975634",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火搭棚業界認為將大火歸究竹棚-難汲取教訓"
+    },
+    "https://news.now.com/home/local/player?newsId=627625": {
+      "title": "時事全方位｜舊廈維修及建築安全(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:35.977543",
+      "archive_path": "content/news/now-news/archive/時事全方位舊廈維修及建築安全一"
+    },
+    "https://www.881903.com/news/local/2607831/": {
+      "title": "宏福苑5級火｜民建聯：若調查發現黃碧嬌等成員違法　絕不姑息",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:37.870394",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火民建聯若調查發現黃碧嬌等成員違法-絕不姑息"
+    },
+    "https://news.now.com/home/local/player?newsId=627656": {
+      "title": "宏福苑五級火災｜廉署押疑犯到涉案工程顧問公司蒐證",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:42.288992",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廉署押疑犯到涉案工程顧問公司蒐證"
+    },
+    "https://www.881903.com/news/local/2607803/": {
+      "title": "宏福苑5級火｜增至146人死亡　跟進40多宗失聯個案",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:44.401251",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至146人死亡-跟進40多宗失聯個案"
+    },
+    "https://news.now.com/home/local/player?newsId=627648": {
+      "title": "大埔直擊｜東昌街社區會堂堆有大量物資　現場貼標示籲市民不用送水",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:48.794758",
+      "archive_path": "content/news/now-news/archive/大埔直擊東昌街社區會堂堆有大量物資-現場貼標示籲市民不用送水"
+    },
+    "https://www.881903.com/news/local/2607828/": {
+      "title": "穗禾苑將移除大廈棚網　研究以吊船方式完成餘下工程",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:51.073637",
+      "archive_path": "content/news/commercial-radio/archive/穗禾苑將移除大廈棚網-研究以吊船方式完成餘下工程"
+    },
+    "https://news.now.com/home/local/player?newsId=627646": {
+      "title": "宏福苑五級火災｜周霽與農融探望受大火影響災民　港澳平文章：特區政府帶領定能做好救災渡過難關",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:45:54.863036",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災周霽與農融探望受大火影響災民-港澳平文章特區政府帶領定能做好救災渡過難關"
+    },
+    "https://www.881903.com/news/local/2607824/": {
+      "title": "警方：有騙徒假扮義工以假登記表騙大埔災民個人資料",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:45:56.717430",
+      "archive_path": "content/news/commercial-radio/archive/警方有騙徒假扮義工以假登記表騙大埔災民個人資料"
+    },
+    "https://news.now.com/home/local/player?newsId=627647": {
+      "title": "宏福苑五級火災｜中央港澳辦協調廣東省支援宏福苑救災工作",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:46:01.050692",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中央港澳辦協調廣東省支援宏福苑救災工作"
+    },
+    "https://www.881903.com/news/local/2607816/": {
+      "title": "宏福苑5級火｜香港紅十字會設24小時心理支援熱線",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:02.655000",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火香港紅十字會設24小時心理支援熱線"
+    },
+    "https://news.now.com/home/local/player?newsId=627645": {
+      "title": "宏福苑五級火災｜死傷者家屬繼續到社區會堂認領遺物",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:46:07.018075",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死傷者家屬繼續到社區會堂認領遺物"
+    },
+    "https://www.881903.com/news/local/2607807/": {
+      "title": "麥美娟：會向災民提供長期援助　當局成立工作組面對問題",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:09.254085",
+      "archive_path": "content/news/commercial-radio/archive/麥美娟會向災民提供長期援助-當局成立工作組面對問題"
+    },
+    "https://news.now.com/home/local/player?newsId=627642": {
+      "title": "宏福苑五級火災｜倫敦及上海曾發生高層住宅大火慘劇　均與工程及物料有關",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:46:13.159465",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災倫敦及上海曾發生高層住宅大火慘劇-均與工程及物料有關"
+    },
+    "https://www.881903.com/news/local/2607802/": {
+      "title": "曾俊華：宏福苑大火罪魁顯然並非竹棚　應調查人為因素",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:15.256540",
+      "archive_path": "content/news/commercial-radio/archive/曾俊華宏福苑大火罪魁顯然並非竹棚-應調查人為因素"
+    },
+    "https://news.now.com/home/local/player?newsId=627641": {
+      "title": "宏福苑五級火災｜火警發生時消防警鐘系統疑被關　物管界：任何情況都不應該",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:46:19.781554",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災火警發生時消防警鐘系統疑被關-物管界任何情況都不應該"
+    },
+    "https://www.881903.com/news/local/2607801/": {
+      "title": "宏福苑5級火｜專家：居民或出現PTSD　促提供長遠心理支援",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:20.981194",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火專家居民或出現ptsd-促提供長遠心理支援"
+    },
+    "https://www.881903.com/news/local/2607798/": {
+      "title": "宏福苑5級火｜陳茂波：政府全力支援居民　金融機構人性化提供服務",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:26.980579",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火陳茂波政府全力支援居民-金融機構人性化提供服務"
+    },
+    "https://www.881903.com/news/local/2607792/": {
+      "title": "宏福苑5級火｜民間物資站已清場　災民指政府資訊混亂",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:33.068447",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火民間物資站已清場-災民指政府資訊混亂"
+    },
+    "https://www.881903.com/news/local/2607775/": {
+      "title": "宏褔苑5級火｜黃偉綸︰1500居民入住安置住宿　不宜猜測是否須拆卸重建",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:38.875855",
+      "archive_path": "content/news/commercial-radio/archive/宏褔苑5級火黃偉綸1500居民入住安置住宿-不宜猜測是否須拆卸重建"
+    },
+    "https://www.881903.com/news/local/2607781/": {
+      "title": "宏褔苑5級火｜逾300寵物受影響　最少45隻離世",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:44.206229",
+      "archive_path": "content/news/commercial-radio/archive/宏褔苑5級火逾300寵物受影響-最少45隻離世"
+    },
+    "https://www.881903.com/news/local/2607779/": {
+      "title": "建造業議會︰業界和政府會推動更嚴謹消防風險評估",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:49.843568",
+      "archive_path": "content/news/commercial-radio/archive/建造業議會業界和政府會推動更嚴謹消防風險評估"
+    },
+    "https://www.881903.com/news/local/2607772/": {
+      "title": "宏福苑5級火｜菲律賓證實一名公民死亡　另一人受傷",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:46:56.602309",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火菲律賓證實一名公民死亡-另一人受傷"
+    },
+    "https://www.881903.com/news/local/2607767/": {
+      "title": "吐露港公路往大埔公路–元洲仔段支路重開",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:02.471719",
+      "archive_path": "content/news/commercial-radio/archive/吐露港公路往大埔公路元洲仔段支路重開"
+    },
+    "https://www.881903.com/news/local/2608009/": {
+      "title": "消息：屯門怡樂花園將於周四前拆除外牆工程棚網",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:09.077079",
+      "archive_path": "content/news/commercial-radio/archive/消息屯門怡樂花園將於周四前拆除外牆工程棚網"
+    },
+    "https://www.881903.com/news/local/2608034/": {
+      "title": "宏福苑5級火｜李家超到雙魚薈探望災民  關注生活需要",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:15.513967",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超到雙魚薈探望災民-關注生活需要"
+    },
+    "https://www.881903.com/news/local/2608007/": {
+      "title": "宏福苑5級火｜警方再拘10男女涉誤殺  至今13人被捕",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:21.584603",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火警方再拘10男女涉誤殺-至今13人被捕"
+    },
+    "https://www.881903.com/news/local/2607964/": {
+      "title": "宏福苑5級火｜增至151死亡   尚有30多宗失聯個案",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:27.451103",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火增至151死亡-尚有30多宗失聯個案"
+    },
+    "https://www.881903.com/news/local/2608002/": {
+      "title": "宏福苑5級火｜逾1500災民入住安置單位　加強交通配套",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:34.572873",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火逾1500災民入住安置單位-加強交通配套"
+    },
+    "https://www.881903.com/news/local/2608001/": {
+      "title": "宏福苑5級火｜遺屬及災民獲發補助　增住院、學生及工人等4項",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:40.061953",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火遺屬及災民獲發補助-增住院學生及工人等4項"
+    },
+    "https://www.881903.com/news/local/2607996/": {
+      "title": "宏福苑5級火｜公院傷者治療及復康費用獲全額豁免",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:45.923005",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火公院傷者治療及復康費用獲全額豁免"
+    },
+    "https://www.881903.com/news/local/2607995/": {
+      "title": "傳暫停竹棚培訓課程　建造業議會：已報名或正培訓不受影響",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:52.583618",
+      "archive_path": "content/news/commercial-radio/archive/傳暫停竹棚培訓課程-建造業議會已報名或正培訓不受影響"
+    },
+    "https://www.881903.com/news/local/2607929/": {
+      "title": "宏福苑5級火｜宏福苑大維修招標評分　疑漏計「宏業」定罪紀錄",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:47:59.447516",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火宏福苑大維修招標評分-疑漏計宏業定罪紀錄"
+    },
+    "https://www.881903.com/news/local/2607985/": {
+      "title": "消防處籲警惕不法份子冒殉職防員何偉豪家屬名義募捐",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:05.045977",
+      "archive_path": "content/news/commercial-radio/archive/消防處籲警惕不法份子冒殉職防員何偉豪家屬名義募捐"
+    },
+    "https://www.881903.com/news/local/2607981/": {
+      "title": "宏福苑5級火｜勞工處：5名工程承建商工人遇難",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:11.215174",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火勞工處5名工程承建商工人遇難"
+    },
+    "https://www.881903.com/news/local/2607976/": {
+      "title": "宏福苑5級火｜入境處：已處理約330居民證件申請",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:17.220885",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火入境處已處理約330居民證件申請"
+    },
+    "https://www.881903.com/news/local/2607958/": {
+      "title": "宏福苑5級火｜7棚網樣本未達阻燃標準　拘14人涉誤殺或魚目混珠",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:22.771094",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火7棚網樣本未達阻燃標準-拘14人涉誤殺或魚目混珠"
+    },
+    "https://www.881903.com/news/local/2607873/": {
+      "title": "宏福苑5級火｜復課學生稱心情逐漸平復　部份學校仍上網課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:29.608810",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火復課學生稱心情逐漸平復-部份學校仍上網課"
+    },
+    "https://news.now.com/home/local/player?newsId=627640": {
+      "title": "宏福苑五級火災｜「善樓」160個單位供宏福苑受影響居民暫住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:48:31.254771",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災善樓160個單位供宏福苑受影響居民暫住"
+    },
+    "https://www.881903.com/news/local/2607948/": {
+      "title": "宏福苑大維修工程承建商獲市建局評滿分",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:35.092681",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑大維修工程承建商獲市建局評滿分"
+    },
+    "https://news.now.com/home/local/player?newsId=627639": {
+      "title": "宏福苑五級火災｜志願者續在現場留守　向災民派發乾糧及禦寒衣物等物資",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:48:37.610179",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災志願者續在現場留守-向災民派發乾糧及禦寒衣物等物資"
+    },
+    "https://www.881903.com/news/local/2607962/": {
+      "title": "警方國安處拘至少3人　鄧炳強：有人利用社會傷痛作煽動",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:40.889023",
+      "archive_path": "content/news/commercial-radio/archive/警方國安處拘至少3人-鄧炳強有人利用社會傷痛作煽動"
+    },
+    "https://news.now.com/home/local/player?newsId=627635": {
+      "title": "宏福苑五級火災｜周霽與農融探望受傷消防員　港澳平文章：有中央和內地強大後盾　特區政府定能做好救災",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:48:43.304831",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災周霽與農融探望受傷消防員-港澳平文章有中央和內地強大後盾-特區政府定能做好救災"
+    },
+    "https://www.881903.com/news/local/2607941/": {
+      "title": "夏寶龍在深圳聽取匯報",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:47.309230",
+      "archive_path": "content/news/commercial-radio/archive/夏寶龍在深圳聽取匯報"
+    },
+    "https://news.now.com/home/local/player?newsId=627631": {
+      "title": "宏福苑五級火災｜多間中資企業捐款　組織義工隊派發物資",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:48:50.201123",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災多間中資企業捐款-組織義工隊派發物資"
+    },
+    "https://www.881903.com/news/local/2607915/": {
+      "title": "安基苑維修承建商燒棚網測試部分起火　居民感擔心",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:53.074360",
+      "archive_path": "content/news/commercial-radio/archive/安基苑維修承建商燒棚網測試部分起火-居民感擔心"
+    },
+    "https://news.now.com/home/local/player?newsId=627627": {
+      "title": "香港電訊支援宏褔苑居民　大埔門市即日起至周日24小時開放　提供電話卡及5G寬頻路由器等",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:48:56.417866",
+      "archive_path": "content/news/now-news/archive/香港電訊支援宏褔苑居民-大埔門市即日起至周日24小時開放-提供電話卡及5g寬頻路由器等"
+    },
+    "https://www.881903.com/news/local/2607932/": {
+      "title": "黃碧嬌：將報案查宏福苑現屆法團　法團：支持依法追查",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:48:59.538864",
+      "archive_path": "content/news/commercial-radio/archive/黃碧嬌將報案查宏福苑現屆法團-法團支持依法追查"
+    },
+    "https://news.now.com/home/local/player?newsId=627624": {
+      "title": "宏福苑五級火災｜紅十字會為死者家屬提供情緒支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:02.656630",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災紅十字會為死者家屬提供情緒支援"
+    },
+    "https://www.881903.com/news/local/2607875/": {
+      "title": "湯家驊不認為獨立委員會　是調查宏福苑大火唯一選項",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:05.856734",
+      "archive_path": "content/news/commercial-radio/archive/湯家驊不認為獨立委員會-是調查宏福苑大火唯一選項"
+    },
+    "https://news.now.com/home/local/player?newsId=627623": {
+      "title": "宏福苑五級火災｜消防在火場續射水降溫　將爆破全部被燒7座大廈單位搜索",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:08.378667",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災消防在火場續射水降溫-將爆破全部被燒7座大廈單位搜索"
+    },
+    "https://www.881903.com/news/local/2607953/": {
+      "title": "穗禾苑拆除棚網　法團主席：釋除居民疑慮",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:12.184799",
+      "archive_path": "content/news/commercial-radio/archive/穗禾苑拆除棚網-法團主席釋除居民疑慮"
+    },
+    "https://news.now.com/home/local/player?newsId=627619": {
+      "title": "宏福苑五級火災｜兩名印傭罹難　教宗良十四世及多國領袖向死傷者表達慰問及悼念",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:15.318212",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災兩名印傭罹難-教宗良十四世及多國領袖向死傷者表達慰問及悼念"
+    },
+    "https://www.881903.com/news/local/2607937/": {
+      "title": "宏福苑5級火｜罹難者家屬將到場路祭",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:19.097068",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火罹難者家屬將到場路祭"
+    },
+    "https://news.now.com/home/local/player?newsId=627617": {
+      "title": "宏福苑五級火災｜續有志願者派發物資給災民應急",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:21.933951",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災續有志願者派發物資給災民應急"
+    },
+    "https://www.881903.com/news/local/2607935/": {
+      "title": "私隱專員呼籲慎防騙徒利用宏福苑火災詐騙",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:24.569748",
+      "archive_path": "content/news/commercial-radio/archive/私隱專員呼籲慎防騙徒利用宏福苑火災詐騙"
+    },
+    "https://news.now.com/home/local/player?newsId=627618": {
+      "title": "宏福苑五級火災｜中聯辦主任周霽與港澳辦副主任農融探望受傷消防員",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:27.578925",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中聯辦主任周霽與港澳辦副主任農融探望受傷消防員"
+    },
+    "https://www.881903.com/news/local/2607933/": {
+      "title": "宏福苑5級火｜消防累計救出209隻生還動物",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:30.100238",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火消防累計救出209隻生還動物"
+    },
+    "https://news.now.com/home/local/player?newsId=627553": {
+      "title": "宏福苑五級火災｜香港電訊為受大埔火災影響客戶提供特別支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:34.134421",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災香港電訊為受大埔火災影響客戶提供特別支援"
+    },
+    "https://www.881903.com/news/local/2607928/": {
+      "title": "宏福苑5級火｜周守仁昨慰問災民　稱檢討事件同時勿激發仇恨",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:36.265861",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火周守仁昨慰問災民-稱檢討事件同時勿激發仇恨"
+    },
+    "https://news.now.com/home/local/player?newsId=627611": {
+      "title": "大埔直擊｜物資持續送達物資站　備乾糧及床上用品等供宏福苑居民領取",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:40.716487",
+      "archive_path": "content/news/now-news/archive/大埔直擊物資持續送達物資站-備乾糧及床上用品等供宏福苑居民領取"
+    },
+    "https://www.881903.com/news/local/2607921/": {
+      "title": "屯門怡樂花園單位冒煙無人傷　約50人疏散",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:42.965815",
+      "archive_path": "content/news/commercial-radio/archive/屯門怡樂花園單位冒煙無人傷-約50人疏散"
+    },
+    "https://news.now.com/home/local/player?newsId=627610": {
+      "title": "宏福苑五級火災｜大火增至94死76傷　早上有部分單位死灰復燃",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:47.729119",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災大火增至94死76傷-早上有部分單位死灰復燃"
+    },
+    "https://www.881903.com/news/local/2607916/": {
+      "title": "宏福苑5級火｜心理學會：現時著重安撫情緒　不建議深層心理輔導",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:49.421653",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火心理學會現時著重安撫情緒-不建議深層心理輔導"
+    },
+    "https://news.now.com/home/local/player?newsId=627837": {
+      "title": "宏福苑五級火災｜據悉警方國安處拘一人　涉藉宏福苑火災意圖煽動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:49:53.674359",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災據悉警方國安處拘一人-涉藉宏福苑火災意圖煽動"
+    },
+    "https://www.881903.com/news/local/2607909/": {
+      "title": "宏福苑5級火｜續有市民到大埔獻花默哀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:49:55.450983",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火續有市民到大埔獻花默哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627835": {
+      "title": "港澳辦協調廣東省支援宏福苑救災工作　第二階段首批物資已交付",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:00.651504",
+      "archive_path": "content/news/now-news/archive/港澳辦協調廣東省支援宏福苑救災工作-第二階段首批物資已交付"
+    },
+    "https://www.881903.com/news/local/2607908/": {
+      "title": "香港寬頻：向火災居民提供流動路由器及SIM卡　客戶可獲提升至無限數據",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:00.713747",
+      "archive_path": "content/news/commercial-radio/archive/香港寬頻向火災居民提供流動路由器及sim卡-客戶可獲提升至無限數據"
+    },
+    "https://news.now.com/home/local/player?newsId=627833": {
+      "title": "宏福苑五級火災｜單位內部照片曝光　完全熏黑傢俱燒成灰燼",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:06.334994",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災單位內部照片曝光-完全熏黑傢俱燒成灰燼"
+    },
+    "https://www.881903.com/news/local/2607870/": {
+      "title": "宏福苑5級火｜房委會助居民押後按揭還款　業界料火險可應付貸款額",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:06.565296",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火房委會助居民押後按揭還款-業界料火險可應付貸款額"
+    },
+    "https://news.now.com/home/local/player?newsId=627834": {
+      "title": "宏福苑五級火災｜屋宇署勒令30個私人樓宇工程項目暫時停工",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:13.219829",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災屋宇署勒令30個私人樓宇工程項目暫時停工"
+    },
+    "https://www.881903.com/news/local/2607897/": {
+      "title": "宏福苑5級火｜理大教授就錯誤言論致歉　無意將成因歸究竹棚",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:13.263543",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火理大教授就錯誤言論致歉-無意將成因歸究竹棚"
+    },
+    "https://news.now.com/home/local/player?newsId=627832": {
+      "title": "宏福苑五級火災｜民政及青年事務局探望獲安排到青年宿舍及酒店暫住的受影響居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:19.002486",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災民政及青年事務局探望獲安排到青年宿舍及酒店暫住的受影響居民"
+    },
+    "https://www.881903.com/news/local/2607880/": {
+      "title": "宏福苑5級火｜有1900戶申請應急錢　1760戶已領款",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:19.587693",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火有1900戶申請應急錢-1760戶已領款"
+    },
+    "https://news.now.com/home/local/player?newsId=627831": {
+      "title": "即日焦點｜宏福苑五級火災　尚有150人未能聯絡／全港政府建築物及設施下半旗誌哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:25.560469",
+      "archive_path": "content/news/now-news/archive/即日焦點宏福苑五級火災-尚有150人未能聯絡全港政府建築物及設施下半旗誌哀"
+    },
+    "https://www.881903.com/news/local/2607868/": {
+      "title": "宏福苑5級火｜運輸署協調九巴　減低市民出行不便",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:25.791658",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火運輸署協調九巴-減低市民出行不便"
+    },
+    "https://news.now.com/home/local/player?newsId=627829": {
+      "title": "宏福苑五級火災｜金融監管總局要求銀行業和保險業做好大埔火災金融保障服務",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:31.635376",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災金融監管總局要求銀行業和保險業做好大埔火災金融保障服務"
+    },
+    "https://www.881903.com/news/local/2607785/": {
+      "title": "宏福苑5級火｜大批市民輪候獻花　冀遇難者家屬好好活下去",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:31.951439",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火大批市民輪候獻花-冀遇難者家屬好好活下去"
+    },
+    "https://www.881903.com/news/local/2607864/": {
+      "title": "宏福苑5級火｜消息指再有2人涉意圖煽動被捕",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:38.393391",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火消息指再有2人涉意圖煽動被捕"
+    },
+    "https://news.now.com/home/local/player?newsId=627827": {
+      "title": "宏福苑五級火災｜宏福苑維修工程涉貪　廉署再拘3名承建商負責人",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:38.575018",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災宏福苑維修工程涉貪-廉署再拘3名承建商負責人"
+    },
+    "https://news.now.com/home/local/player?newsId=627826": {
+      "title": "宏福苑五級火災｜逾1500名受大埔宏福苑居民已入住政府安排的住所",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:44.592793",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災逾1500名受大埔宏福苑居民已入住政府安排的住所"
+    },
+    "https://www.881903.com/news/local/2607861/": {
+      "title": "宏福苑5級火｜物資捐贈網上平台開始運作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:45.304921",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火物資捐贈網上平台開始運作"
+    },
+    "https://news.now.com/home/local/player?newsId=627820": {
+      "title": "宏福苑五級火災｜警方完成宏道閣及宏仁閣搜索沒發現遺體　尚有150人未能聯絡",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:51.241103",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方完成宏道閣及宏仁閣搜索沒發現遺體-尚有150人未能聯絡"
+    },
+    "https://www.881903.com/news/local/2608073/": {
+      "title": "李家超：立法會選舉如期12月7日舉行　陳國基：不礙救災",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:51.872117",
+      "archive_path": "content/news/commercial-radio/archive/李家超立法會選舉如期12月7日舉行-陳國基不礙救災"
+    },
+    "https://www.881903.com/news/local/2608159/": {
+      "title": "宏福苑5級火丨多2人涉誤殺被捕　累計15人被捕",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:50:57.447777",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨多2人涉誤殺被捕-累計15人被捕"
+    },
+    "https://news.now.com/home/local/player?newsId=627764": {
+      "title": "大鳴大放｜宏福苑災後支援(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:50:57.478271",
+      "archive_path": "content/news/now-news/archive/大鳴大放宏福苑災後支援二"
+    },
+    "https://news.now.com/home/local/player?newsId=627763": {
+      "title": "大鳴大放｜宏福苑災後支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:03.044835",
+      "archive_path": "content/news/now-news/archive/大鳴大放宏福苑災後支援一"
+    },
+    "https://www.881903.com/news/local/2608204/": {
+      "title": "宏福苑5級火丨逾2600名災民入住臨時房屋或酒店",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:03.461470",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨逾2600名災民入住臨時房屋或酒店"
+    },
+    "https://news.now.com/home/local/player?newsId=627818": {
+      "title": "宏福苑五級火災｜「大埔宏福苑支援服務」專題網站已推出",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:09.171511",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災大埔宏福苑支援服務專題網站已推出"
+    },
+    "https://www.881903.com/news/local/2608202/": {
+      "title": "政府「大埔宏福苑援助基金」增至23億元",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:09.734552",
+      "archive_path": "content/news/commercial-radio/archive/政府大埔宏福苑援助基金增至23億元"
+    },
+    "https://www.881903.com/news/local/2608201/": {
+      "title": "宏福苑5級火｜宏昌閣13單位臨時加固",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:15.552174",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火宏昌閣13單位臨時加固"
+    },
+    "https://news.now.com/home/local/player?newsId=627812": {
+      "title": "宏福苑五級火災｜市民獻花悼念死難者　冀災民走出傷痛",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:15.569055",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災市民獻花悼念死難者-冀災民走出傷痛"
+    },
+    "https://news.now.com/home/local/player?newsId=627809": {
+      "title": "宏福苑五級火災｜警方完成宏道閣及宏仁閣搜索沒發現遺體　尚有150人未能聯絡",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:21.103583",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方完成宏道閣及宏仁閣搜索沒發現遺體-尚有150人未能聯絡-1"
+    },
+    "https://www.881903.com/news/local/2608186/": {
+      "title": "陳茂波到醫院慰問大火傷者及死者家屬",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:21.695391",
+      "archive_path": "content/news/commercial-radio/archive/陳茂波到醫院慰問大火傷者及死者家屬"
+    },
+    "https://news.now.com/home/local/player?newsId=627810": {
+      "title": "宏福苑五級火災｜麥美娟：一萬應急錢及五萬元生活津貼乃給予受影響住戶　包括租戶",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:27.215363",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災麥美娟一萬應急錢及五萬元生活津貼乃給予受影響住戶-包括租戶"
+    },
+    "https://www.881903.com/news/local/2608184/": {
+      "title": "測量師學會就宏福苑5級火設WhatsApp查詢系統",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:27.243118",
+      "archive_path": "content/news/commercial-radio/archive/測量師學會就宏福苑5級火設whatsapp查詢系統"
+    },
+    "https://news.now.com/home/local/player?newsId=627806": {
+      "title": "宏福苑五級火災｜有市民到沙田消防局獻花　悼念殉職消防員何偉豪",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:33.439665",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災有市民到沙田消防局獻花-悼念殉職消防員何偉豪"
+    },
+    "https://www.881903.com/news/local/2608112/": {
+      "title": "宏福苑5級火｜警設10條熱線收集相關影片或相片",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:33.617665",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火警設10條熱線收集相關影片或相片"
+    },
+    "https://news.now.com/home/local/player?newsId=627805": {
+      "title": "宏福苑五級火災｜政府就宏福苑罹難者下半旗誌哀　市民自發到弔唁處悼念罹難者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:39.358121",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府就宏福苑罹難者下半旗誌哀-市民自發到弔唁處悼念罹難者"
+    },
+    "https://www.881903.com/news/local/2608147/": {
+      "title": "宏福苑5級火丨增至156人死30人失聯",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:40.262017",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨增至156人死30人失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627804": {
+      "title": "宏福苑五級火災｜麥美娟：一萬應急錢及五萬元生活津貼乃給予受影響住戶　包括租戶",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:45.514304",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災麥美娟一萬應急錢及五萬元生活津貼乃給予受影響住戶-包括租戶-1"
+    },
+    "https://www.881903.com/news/local/2608171/": {
+      "title": "宏福苑5級火｜大埔浸信會公立學校續封閉　月中起借2校上課",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:47.875940",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火大埔浸信會公立學校續封閉-月中起借2校上課"
+    },
+    "https://news.now.com/home/local/player?newsId=627803": {
+      "title": "宏福苑五級火災｜政府簡報最新情況　死亡人數或再上升",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:51.368984",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府簡報最新情況-死亡人數或再上升"
+    },
+    "https://www.881903.com/news/local/2608175/": {
+      "title": "宏福苑5級火丨宏志閣住戶明日後日可回單位取個人物品",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:53.913543",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨宏志閣住戶明日後日可回單位取個人物品"
+    },
+    "https://news.now.com/home/local/player?newsId=627801": {
+      "title": "宏福苑五級火災｜入境處安排專車接載災民到將軍澳總部補領證件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:51:57.320317",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災入境處安排專車接載災民到將軍澳總部補領證件"
+    },
+    "https://www.881903.com/news/local/2608126/": {
+      "title": "宏福苑5級火丨孫玉菡：10名外傭死亡　30人下落未明",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:51:59.724906",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨孫玉菡10名外傭死亡-30人下落未明"
+    },
+    "https://news.now.com/home/local/player?newsId=627800": {
+      "title": "宏福苑五級火災｜樹仁大學因應火災善後工作　延後畢業禮",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:03.227308",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災樹仁大學因應火災善後工作-延後畢業禮"
+    },
+    "https://www.881903.com/news/local/2608108/": {
+      "title": "廖成利被警方國安處邀會面　稱屬「溝通」否認被禁言",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:05.727613",
+      "archive_path": "content/news/commercial-radio/archive/廖成利被警方國安處邀會面-稱屬溝通否認被禁言"
+    },
+    "https://news.now.com/home/local/player?newsId=627799": {
+      "title": "宏福苑五級火災｜中央駐港機構及駐港解放軍下半旗誌哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:10.055649",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中央駐港機構及駐港解放軍下半旗誌哀"
+    },
+    "https://www.881903.com/news/local/2608111/": {
+      "title": "牛頭角安基苑棚網阻燃表現不一　緊急更換全新棚網",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:11.661070",
+      "archive_path": "content/news/commercial-radio/archive/牛頭角安基苑棚網阻燃表現不一-緊急更換全新棚網"
+    },
+    "https://news.now.com/home/local/player?newsId=627795": {
+      "title": "宏福苑五級火災｜人行開通跨境人民幣捐款綠色通道支援災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:16.226685",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災人行開通跨境人民幣捐款綠色通道支援災民"
+    },
+    "https://www.881903.com/news/local/2608105/": {
+      "title": "宏福苑5級火｜居民指警尋回失聯父母遺體　須驗DNA確認身份",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:17.687071",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火居民指警尋回失聯父母遺體-須驗dna確認身份"
+    },
+    "https://news.now.com/home/local/player?newsId=627794": {
+      "title": "宏福苑五級火災｜富衛保險捐出1000萬元支援緊急援助及災後復原",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:22.967719",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災富衛保險捐出1000萬元支援緊急援助及災後復原"
+    },
+    "https://www.881903.com/news/local/2608095/": {
+      "title": "宏福苑5級火｜市民到九龍殯儀館獻花　向逝者致哀",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:23.865734",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火市民到九龍殯儀館獻花-向逝者致哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627793": {
+      "title": "宏福苑五級火災｜政府跨部門調查專組已召開首次會議",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:29.993999",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府跨部門調查專組已召開首次會議"
+    },
+    "https://www.881903.com/news/local/2608109/": {
+      "title": "梁君彥支持如期辦立法會選舉　冀妥善推進援助災民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:30.046937",
+      "archive_path": "content/news/commercial-radio/archive/梁君彥支持如期辦立法會選舉-冀妥善推進援助災民"
+    },
+    "https://news.now.com/home/local/player?newsId=627792": {
+      "title": "宏福苑五級火災｜富衛捐1000萬元支援緊急援助及災後復原工作　設24小時熱線提供醫療服務支援等",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:36.189753",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災富衛捐1000萬元支援緊急援助及災後復原工作-設24小時熱線提供醫療服務支援等"
+    },
+    "https://www.881903.com/news/local/2608106/": {
+      "title": "宏福苑5級火｜消防及家屬為殉職消防員何偉豪舉行路祭",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:36.360350",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火消防及家屬為殉職消防員何偉豪舉行路祭"
+    },
+    "https://www.881903.com/news/local/2608099/": {
+      "title": "宏福苑5級火｜李家超回應巡查是否有漏洞　稱應支持及鼓勵執法部門",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:42.090953",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超回應巡查是否有漏洞-稱應支持及鼓勵執法部門"
+    },
+    "https://news.now.com/home/local/player?newsId=627791": {
+      "title": "港隊40歲以上板球隊代表Moner Dar　將球隊在世界盃賽事勝果獻火災遇難者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:43.048859",
+      "archive_path": "content/news/now-news/archive/港隊40歲以上板球隊代表moner-dar-將球隊在世界盃賽事勝果獻火災遇難者"
+    },
+    "https://www.881903.com/news/local/2608084/": {
+      "title": "宏福苑5級火｜盧偉國︰業界或存在魚目混珠　惟不能「一竹篙打一船人」",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:47.889522",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火盧偉國業界或存在魚目混珠-惟不能一竹篙打一船人"
+    },
+    "https://news.now.com/home/local/player?newsId=627787": {
+      "title": "宏福苑五級火災｜全港政府建築物及設施下半旗誌哀　市民到弔唁處悼念遇難者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:48.663265",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災全港政府建築物及設施下半旗誌哀-市民到弔唁處悼念遇難者"
+    },
+    "https://www.881903.com/news/local/2608083/": {
+      "title": "李家超：消防員以生命拯救居民　宏福苑援助基金已達16億元",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:53.487331",
+      "archive_path": "content/news/commercial-radio/archive/李家超消防員以生命拯救居民-宏福苑援助基金已達16億元"
+    },
+    "https://news.now.com/home/local/player?newsId=627786": {
+      "title": "大埔直擊｜社署為宏福苑居民辦災民證　入境處安排車輛載人到將軍澳辦各類證件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:52:54.253805",
+      "archive_path": "content/news/now-news/archive/大埔直擊社署為宏福苑居民辦災民證-入境處安排車輛載人到將軍澳辦各類證件"
+    },
+    "https://www.881903.com/news/local/2608075/": {
+      "title": "宏福苑5級火｜李家超：成立獨立委員會審視大火　會全面公開報告",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:52:59.241691",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火李家超成立獨立委員會審視大火-會全面公開報告"
+    },
+    "https://news.now.com/home/local/player?newsId=627785": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組入火場搜索遇難者　家屬透過相片辨認親人遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:00.074847",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組入火場搜索遇難者-家屬透過相片辨認親人遺體"
+    },
+    "https://www.881903.com/news/local/2608079/": {
+      "title": "李家超無回應有否往深圳匯報災情　指夏寶龍肯定特區工作",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:05.441488",
+      "archive_path": "content/news/commercial-radio/archive/李家超無回應有否往深圳匯報災情-指夏寶龍肯定特區工作"
+    },
+    "https://news.now.com/home/local/player?newsId=627781": {
+      "title": "全城哀悼宏福苑遇難者　祝願傷者早日康復、災民走出悲痛",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:07.060596",
+      "archive_path": "content/news/now-news/archive/全城哀悼宏福苑遇難者-祝願傷者早日康復災民走出悲痛"
+    },
+    "https://www.881903.com/news/local/2608071/": {
+      "title": "領展：寬減廣福商場及宏福苑停車場租戶租金",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:11.940818",
+      "archive_path": "content/news/commercial-radio/archive/領展寬減廣福商場及宏福苑停車場租戶租金"
+    },
+    "https://news.now.com/home/local/player?newsId=627777": {
+      "title": "宏福苑五級火災｜房委會放寬宏福苑未補地價業主按揭還款規定",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:12.960110",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災房委會放寬宏福苑未補地價業主按揭還款規定"
+    },
+    "https://www.881903.com/news/local/2608063/": {
+      "title": "宏福苑5級火｜罹難者「頭七」　市民到場悼念死者及遇難寵物",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:18.079300",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火罹難者頭七-市民到場悼念死者及遇難寵物"
+    },
+    "https://news.now.com/home/local/player?newsId=627776": {
+      "title": "勞工處早前覆市民棚網無阻燃要求　孫玉菡承認回覆不理想",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:18.780129",
+      "archive_path": "content/news/now-news/archive/勞工處早前覆市民棚網無阻燃要求-孫玉菡承認回覆不理想"
+    },
+    "https://www.881903.com/news/local/2608015/": {
+      "title": "多名廣東運動員為宏福苑大火災民及港人打氣",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:24.507010",
+      "archive_path": "content/news/commercial-radio/archive/多名廣東運動員為宏福苑大火災民及港人打氣"
+    },
+    "https://news.now.com/home/local/player?newsId=627775": {
+      "title": "宏福苑五級火災｜孫玉菡：社福界在富山殮房助處理免費殮葬服務",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:25.073739",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災孫玉菡社福界在富山殮房助處理免費殮葬服務"
+    },
+    "https://www.881903.com/news/local/2608011/": {
+      "title": "宏福苑5級火丨房屋局完成視察8座樓宇指整體結構沒即時危險",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:30.979396",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑5級火丨房屋局完成視察8座樓宇指整體結構沒即時危險"
+    },
+    "https://news.now.com/home/local/player?newsId=627774": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組進屋搜索遇難者　大批市民到場發獻花悼念",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:31.004547",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組進屋搜索遇難者-大批市民到場發獻花悼念"
+    },
+    "https://news.now.com/home/local/player?newsId=627773": {
+      "title": "宏福苑五級火災｜政府就罹難者下半旗誌哀　市民自發到弔唁處悼念罹難者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:36.635329",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府就罹難者下半旗誌哀-市民自發到弔唁處悼念罹難者"
+    },
+    "https://www.881903.com/news/local/2608215/": {
+      "title": "宏福苑維修工程顧問公司「鴻毅」傳出疑結業",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:37.181020",
+      "archive_path": "content/news/commercial-radio/archive/宏福苑維修工程顧問公司鴻毅傳出疑結業"
+    },
+    "https://www.881903.com/news/local/2608213/": {
+      "title": "應急管理部等就大埔5級火  向特區交付第二批應急物資",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:43.227353",
+      "archive_path": "content/news/commercial-radio/archive/應急管理部等就大埔5級火-向特區交付第二批應急物資"
+    },
+    "https://news.now.com/home/local/player?newsId=627771": {
+      "title": "宏福苑五級火災｜孫玉菡︰富山殮房有社福機構助家屬 提供毋須申請免費殮葬服務",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:43.533498",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災孫玉菡富山殮房有社福機構助家屬-提供毋須申請免費殮葬服務"
+    },
+    "https://news.now.com/home/local/player?newsId=627770": {
+      "title": "宏福苑五級火災｜麥美娟感謝熱心市民及機構自發提供物資及捐錢　冀善心人聯絡社署統籌",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:49.968375",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災麥美娟感謝熱心市民及機構自發提供物資及捐錢-冀善心人聯絡社署統籌"
+    },
+    "https://www.881903.com/news/local/2608212/": {
+      "title": "選舉事務處重新安排大埔區3個票站  安排免費交通接送選民",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-03T15:53:50.065426",
+      "archive_path": "content/news/commercial-radio/archive/選舉事務處重新安排大埔區3個票站-安排免費交通接送選民"
+    },
+    "https://news.now.com/home/local/player?newsId=627769": {
+      "title": "宏福苑五級火災｜政府就罹難者下半旗誌哀　市民自發到弔唁處悼念",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:53:57.021100",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府就罹難者下半旗誌哀-市民自發到弔唁處悼念"
+    },
+    "https://news.now.com/home/local/player?newsId=627768": {
+      "title": "宏福苑五級火災｜市民自發到場獻花悼念死難者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:03.306082",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災市民自發到場獻花悼念死難者"
+    },
+    "https://news.now.com/home/local/player?newsId=627765": {
+      "title": "宏福苑五級火災｜特區政府駐境外辦事處下半旗誌哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:09.951908",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災特區政府駐境外辦事處下半旗誌哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627762": {
+      "title": "梁君彥出席前高級公務員協會晚宴　稱有遵守政府指引",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:15.770844",
+      "archive_path": "content/news/now-news/archive/梁君彥出席前高級公務員協會晚宴-稱有遵守政府指引"
+    },
+    "https://news.now.com/home/local/player?newsId=627758": {
+      "title": "宏福苑五級火災｜英王查理斯三世就大火　向死者家屬致以慰問",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:22.223496",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災英王查理斯三世就大火-向死者家屬致以慰問"
+    },
+    "https://news.now.com/home/local/player?newsId=627756": {
+      "title": "宏福苑五級火災｜政府就罹難者下半旗致哀　李家超及周霽出席默哀儀式",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:28.863776",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府就罹難者下半旗致哀-李家超及周霽出席默哀儀式"
+    },
+    "https://news.now.com/home/local/player?newsId=627757": {
+      "title": "宏福苑五級火災｜中聯辦下半旗致哀",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:34.496198",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中聯辦下半旗致哀"
+    },
+    "https://news.now.com/home/local/player?newsId=627755": {
+      "title": "政府官員默哀三分鐘哀悼宏福苑罹難者（附18弔唁處地點）",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:40.764323",
+      "archive_path": "content/news/now-news/archive/政府官員默哀三分鐘哀悼宏福苑罹難者附18弔唁處地點"
+    },
+    "https://news.now.com/home/local/player?newsId=627915": {
+      "title": "晨早新聞重點｜宏福苑五級火災死亡人數增至146人／發生水災的印尼災區據報出現搶掠",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:46.933340",
+      "archive_path": "content/news/now-news/archive/晨早新聞重點宏福苑五級火災死亡人數增至146人發生水災的印尼災區據報出現搶掠"
+    },
+    "https://news.now.com/home/local/player?newsId=627914": {
+      "title": "宏福苑五級火災｜入境處將軍澳總部周一至周六非辦公時段讓災民補辦證件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:53.636751",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災入境處將軍澳總部周一至周六非辦公時段讓災民補辦證件"
+    },
+    "https://news.now.com/home/local/player?newsId=627910": {
+      "title": "宏福苑五級火災｜政府援助基金累計12億元捐款　協助居民重建家園",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:54:59.795752",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府援助基金累計12億元捐款-協助居民重建家園"
+    },
+    "https://news.now.com/home/local/player?newsId=627909": {
+      "title": "宏福苑五級火災｜MIRROR成員柳應廷捐贈首場演唱會收益支援災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:06.283062",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災mirror成員柳應廷捐贈首場演唱會收益支援災民"
+    },
+    "https://news.now.com/home/local/player?newsId=627906": {
+      "title": "即日焦點｜宏福苑五級火增至146死79傷／屋宇署勒令宏業建築負責或相關樓宇項目停工　業主批當局出事後方稱有問題",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:12.607270",
+      "archive_path": "content/news/now-news/archive/即日焦點宏福苑五級火增至146死79傷屋宇署勒令宏業建築負責或相關樓宇項目停工-業主批當局出事後方稱有問題"
+    },
+    "https://news.now.com/home/local/player?newsId=627904": {
+      "title": "火炭穗禾苑突然拆棚　居民憂竣工無期　江玉歡促當局加強突擊抽查",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:19.417706",
+      "archive_path": "content/news/now-news/archive/火炭穗禾苑突然拆棚-居民憂竣工無期-江玉歡促當局加強突擊抽查"
+    },
+    "https://news.now.com/home/local/player?newsId=627852": {
+      "title": "經緯線｜世紀火難(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:25.209294",
+      "archive_path": "content/news/now-news/archive/經緯線世紀火難二"
+    },
+    "https://news.now.com/home/local/player?newsId=627851": {
+      "title": "經緯線｜世紀火難(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:30.930931",
+      "archive_path": "content/news/now-news/archive/經緯線世紀火難一"
+    },
+    "https://news.now.com/home/local/player?newsId=627899": {
+      "title": "宏福苑五級火災｜馬會捐沙田閉門賽事7020萬收益　援助宏福苑居民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:37.971054",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災馬會捐沙田閉門賽事7020萬收益-援助宏福苑居民"
+    },
+    "https://news.now.com/home/local/player?newsId=627898": {
+      "title": "宏福苑五級火災｜馬會宣布閉門賽事總收益悉數捐予政府「大埔宏福苑援助基金」",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:44.997678",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災馬會宣布閉門賽事總收益悉數捐予政府大埔宏福苑援助基金"
+    },
+    "https://news.now.com/home/local/player?newsId=627893": {
+      "title": "宏福苑五級火災｜民建聯指若黃碧嬌有違法行為　絕不姑息",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:51.395779",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災民建聯指若黃碧嬌有違法行為-絕不姑息"
+    },
+    "https://news.now.com/home/local/player?newsId=627892": {
+      "title": "宏福苑五級火災｜獻花人龍廣福邨排至太和橋",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:55:58.137189",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災獻花人龍廣福邨排至太和橋"
+    },
+    "https://news.now.com/home/local/player?newsId=627889": {
+      "title": "宏福苑五級火災｜災難辨認組搜索多18具遺體增至146死　79人傷　50多人仍失聯",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:05.025562",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難辨認組搜索多18具遺體增至146死-79人傷-50多人仍失聯"
+    },
+    "https://news.now.com/home/local/player?newsId=627887": {
+      "title": "宏福苑五級火災｜其中六座無即時危險　盡快加固少量單位",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:11.916764",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災其中六座無即時危險-盡快加固少量單位"
+    },
+    "https://news.now.com/home/local/player?newsId=627886": {
+      "title": "宏福苑五級火災｜累計146人死　警方不排除數字再上升",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:18.910891",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災累計146人死-警方不排除數字再上升"
+    },
+    "https://news.now.com/home/local/player?newsId=627885": {
+      "title": "宏福苑五級火災｜警方稱死亡人數增至146人　多發現18具遺體　房署指所有樓宇整體結構無即時危險",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:25.948254",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方稱死亡人數增至146人-多發現18具遺體-房署指所有樓宇整體結構無即時危險"
+    },
+    "https://news.now.com/home/local/player?newsId=627884": {
+      "title": "時事全方位重點提要｜12月1日",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:32.459282",
+      "archive_path": "content/news/now-news/archive/時事全方位重點提要12月1日"
+    },
+    "https://news.now.com/home/local/player?newsId=627882": {
+      "title": "大埔直擊｜市民沿大埔河畔排隊獻花悼念　人龍見首不見尾",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:38.086071",
+      "archive_path": "content/news/now-news/archive/大埔直擊市民沿大埔河畔排隊獻花悼念-人龍見首不見尾"
+    },
+    "https://news.now.com/home/local/player?newsId=627880": {
+      "title": "宏福苑五級火災｜莫文蔚：香港氣氛沉重　取消下月啟德演唱會",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:44.912038",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災莫文蔚香港氣氛沉重-取消下月啟德演唱會"
+    },
+    "https://news.now.com/home/local/player?newsId=627879": {
+      "title": "宏福苑五級火災｜暴露工地消防安全疏忽　工程界：招標時提升消防管理能力比重",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:51.892213",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災暴露工地消防安全疏忽-工程界招標時提升消防管理能力比重"
+    },
+    "https://news.now.com/home/local/player?newsId=627877": {
+      "title": "宏福苑五級火災｜陳茂波：哀慟傷痛貫穿整座城市　部門積極投入支援",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:56:58.767261",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災陳茂波哀慟傷痛貫穿整座城市-部門積極投入支援"
+    },
+    "https://news.now.com/home/local/player?newsId=627878": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組展開第二日搜索　陸續再發現多具懷疑遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:05.030216",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組展開第二日搜索-陸續再發現多具懷疑遺體"
+    },
+    "https://news.now.com/home/local/player?newsId=627873": {
+      "title": "宏福苑五級火災｜被問會否重建屋苑　黃偉綸：不排除任何可能性",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:11.394075",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災被問會否重建屋苑-黃偉綸不排除任何可能性"
+    },
+    "https://news.now.com/home/local/player?newsId=627869": {
+      "title": "宏福苑五級火災｜屋宇署勒令宏業建築負責或相關樓宇項目停工　有業主批當局出事後才說有問題",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:17.441403",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災屋宇署勒令宏業建築負責或相關樓宇項目停工-有業主批當局出事後才說有問題"
+    },
+    "https://news.now.com/home/local/player?newsId=627867": {
+      "title": "宏福苑五級火災｜黃偉綸稱暫不評重建　冀盡快安排宏志閣居民回去居住",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:24.405870",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災黃偉綸稱暫不評重建-冀盡快安排宏志閣居民回去居住"
+    },
+    "https://news.now.com/home/local/player?newsId=627866": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組發現數具懷疑遺體　市民繼續到場獻花悼念",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:30.747267",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組發現數具懷疑遺體-市民繼續到場獻花悼念"
+    },
+    "https://news.now.com/home/local/player?newsId=627845": {
+      "title": "宏福苑五級火災｜災民憶述逃生經過難忘未能救出鄰居　籲倖存者努力活下去",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:36.918381",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災民憶述逃生經過難忘未能救出鄰居-籲倖存者努力活下去"
+    },
+    "https://news.now.com/home/local/player?newsId=628045": {
+      "title": "採訪日誌｜李家超行會前見記者／大埔宏福苑五級火災頭七",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:43.455355",
+      "archive_path": "content/news/now-news/archive/採訪日誌李家超行會前見記者大埔宏福苑五級火災頭七"
+    },
+    "https://news.now.com/home/local/player?newsId=628037": {
+      "title": "晨早新聞重點｜宏福苑棚網樣本7個未達阻燃標準／道瓊斯指數跌逾400點",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:50.553423",
+      "archive_path": "content/news/now-news/archive/晨早新聞重點宏福苑棚網樣本7個未達阻燃標準道瓊斯指數跌逾400點"
+    },
+    "https://news.now.com/home/local/player?newsId=628035": {
+      "title": "宏福苑五級火災｜屋宇署指宏業28個停工項目涉27個地址(附詳細地址)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:57:56.550321",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災屋宇署指宏業28個停工項目涉27個地址附詳細地址"
+    },
+    "https://news.now.com/home/local/player?newsId=628032": {
+      "title": "宏福苑五級火災｜出版社零售商為受災學生免費提供替補教科書",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:02.899510",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災出版社零售商為受災學生免費提供替補教科書"
+    },
+    "https://news.now.com/home/local/player?newsId=628034": {
+      "title": "宏福苑五級火災｜李家超探訪入住過渡屋災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:09.247996",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超探訪入住過渡屋災民"
+    },
+    "https://news.now.com/home/local/player?newsId=628031": {
+      "title": "宏福苑五級火災｜教大啟用臨時支援中心　為大埔浸小師生安排教學場地",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:16.142375",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教大啟用臨時支援中心-為大埔浸小師生安排教學場地"
+    },
+    "https://news.now.com/home/local/player?newsId=628030": {
+      "title": "宏福苑五級火災｜中國太平保險集團捐1000萬港元　調撥番禺130個床位予災民住三個月",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:22.939607",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中國太平保險集團捐1000萬港元-調撥番禺130個床位予災民住三個月"
+    },
+    "https://news.now.com/home/local/player?newsId=628027": {
+      "title": "宏福苑五級火災｜政府向受影響人士發放特別補助",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:29.775809",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府向受影響人士發放特別補助"
+    },
+    "https://news.now.com/home/local/player?newsId=628026": {
+      "title": "宏福苑五級火災｜聖約翰救傷隊兩女隊員火災中離世",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:36.020879",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災聖約翰救傷隊兩女隊員火災中離世"
+    },
+    "https://news.now.com/home/local/player?newsId=627506": {
+      "title": "各方支援宏福苑五級火災民",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:42.558061",
+      "archive_path": "content/news/now-news/archive/各方支援宏福苑五級火災民"
+    },
+    "https://news.now.com/home/local/player?newsId=628024": {
+      "title": "即日焦點｜宏福苑火災死者增至151人　家屬已辨認104具遺體／7棚網樣本未達阻燃要求　陳國基斥涉案者為貪微利害死多人",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:49.354028",
+      "archive_path": "content/news/now-news/archive/即日焦點宏福苑火災死者增至151人-家屬已辨認104具遺體7棚網樣本未達阻燃要求-陳國基斥涉案者為貪微利害死多人"
+    },
+    "https://news.now.com/home/local/player?newsId=628021": {
+      "title": "宏福苑五級火災｜受影響居民及外傭可享免費公院醫療服務至明年底",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:58:56.330119",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災受影響居民及外傭可享免費公院醫療服務至明年底"
+    },
+    "https://news.now.com/home/local/player?newsId=628020": {
+      "title": "宏福苑五級火災｜入境處在大埔五個地點設立個人證件領證處　供居民取回證件",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:03.067103",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災入境處在大埔五個地點設立個人證件領證處-供居民取回證件"
+    },
+    "https://news.now.com/home/local/player?newsId=628019": {
+      "title": "宏福苑五級火災｜死者增至151人　家屬已辨認104具遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:09.666261",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死者增至151人-家屬已辨認104具遺體"
+    },
+    "https://news.now.com/home/local/player?newsId=628012": {
+      "title": "宏福苑五級火災｜一男一女涉藉火災意圖煽動　鄧炳強指危害國家安全",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:16.701454",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災一男一女涉藉火災意圖煽動-鄧炳強指危害國家安全"
+    },
+    "https://news.now.com/home/local/player?newsId=628011": {
+      "title": "宏福苑五級火災｜廉署：涉案人以不合規棚網圖魚目混珠　兩者價格僅相差約10萬元",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:23.544323",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廉署涉案人以不合規棚網圖魚目混珠-兩者價格僅相差約10萬元"
+    },
+    "https://news.now.com/home/local/player?newsId=628005": {
+      "title": "時事全方位重點提要｜12月2日",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:29.818872",
+      "archive_path": "content/news/now-news/archive/時事全方位重點提要12月2日"
+    },
+    "https://news.now.com/home/local/player?newsId=628010": {
+      "title": "宏福苑五級火災｜政府：7棚網樣本未達阻燃要求　陳國基斥涉案者為蠅頭小利害死多條人命",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:36.843453",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府7棚網樣本未達阻燃要求-陳國基斥涉案者為蠅頭小利害死多條人命"
+    },
+    "https://news.now.com/home/local/player?newsId=628009": {
+      "title": "宏福苑五級火災｜死亡人數增至151人　勞工處稱5名承建商工人遇難",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:43.313874",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死亡人數增至151人-勞工處稱5名承建商工人遇難"
+    },
+    "https://news.now.com/home/local/player?newsId=628006": {
+      "title": "宏福苑五級火災｜黃碧嬌稱將報警促查現屆法團　鄧炳強表明有證據會檢控",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:49.768828",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災黃碧嬌稱將報警促查現屆法團-鄧炳強表明有證據會檢控"
+    },
+    "https://news.now.com/home/local/player?newsId=628004": {
+      "title": "宏福苑五級火災｜宏昌閣再發現遺體　死者增至151人　12名受傷消防員已出院",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T15:59:56.374547",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災宏昌閣再發現遺體-死者增至151人-12名受傷消防員已出院"
+    },
+    "https://news.now.com/home/local/player?newsId=628003": {
+      "title": "宏福苑五級火災｜政府：7棚網樣本未達阻燃要求　疑有人購不達標棚網魚目混珠",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:00:02.984743",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府7棚網樣本未達阻燃要求-疑有人購不達標棚網魚目混珠"
+    },
+    "https://news.now.com/home/local/player?newsId=627995": {
+      "title": "宏福苑五級火災｜宏昌閣發現多5具遺體　火災死亡人數增至151人",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:00:09.549871",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災宏昌閣發現多5具遺體-火災死亡人數增至151人"
+    },
+    "https://news.now.com/home/local/player?newsId=627994": {
+      "title": "宏福苑五級火災｜死者增至151名　39具遺體待辨認　分布單位走廊等位置",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:00:16.151321",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災死者增至151名-39具遺體待辨認-分布單位走廊等位置"
+    },
+    "https://news.now.com/home/local/player?newsId=627993": {
+      "title": "牛頭角安基苑承建商示範燒棚網　未釋居民疑慮",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:00:23.107362",
+      "archive_path": "content/news/now-news/archive/牛頭角安基苑承建商示範燒棚網-未釋居民疑慮"
+    },
+    "https://news.now.com/home/local/player?newsId=627987": {
+      "title": "宏福苑五級火災｜政府稱宏福苑有棚網樣本未達阻燃要求",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:02:37.175807",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府稱宏福苑有棚網樣本未達阻燃要求"
+    },
+    "https://news.now.com/home/local/player?newsId=627986": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組展開第三日搜索行動　12名受傷消防員已出院",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:02:44.125865",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組展開第三日搜索行動-12名受傷消防員已出院"
+    },
+    "https://news.now.com/home/local/player?newsId=627985": {
+      "title": "宏福苑五級火災｜四大廈棚網樣本未達阻燃測試標準　疑有人將不合標準棚網混入工程使用",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:02:50.025153",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災四大廈棚網樣本未達阻燃測試標準-疑有人將不合標準棚網混入工程使用"
+    },
+    "https://news.now.com/home/local/player?newsId=627984": {
+      "title": "宏福苑五級火災｜夏寶龍在深圳聽取火災詳細匯報",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:02:56.121654",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災夏寶龍在深圳聽取火災詳細匯報"
+    },
+    "https://news.now.com/home/local/player?newsId=627983": {
+      "title": "宏福苑五級火災｜廣東省運動員拍片表達慰問　蘇炳添祝願香港同胞盡快走出陰霾",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:03.131522",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災廣東省運動員拍片表達慰問-蘇炳添祝願香港同胞盡快走出陰霾"
+    },
+    "https://news.now.com/home/local/player?newsId=627959": {
+      "title": "時事全方位｜宏福苑火災之支援措施(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:09.250655",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之支援措施二"
+    },
+    "https://news.now.com/home/local/player?newsId=627958": {
+      "title": "時事全方位｜宏福苑火災之支援措施(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:16.030398",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之支援措施一"
+    },
+    "https://news.now.com/home/local/player?newsId=627945": {
+      "title": "時事全方位｜宏福苑火災之最新情況(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:22.701953",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之最新情況二"
+    },
+    "https://news.now.com/home/local/player?newsId=627944": {
+      "title": "時事全方位｜宏福苑火災之最新情況(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:28.904036",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之最新情況一"
+    },
+    "https://news.now.com/home/local/player?newsId=627940": {
+      "title": "時事全方位｜宏福苑火災之情緒支援(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:35.579574",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之情緒支援二"
+    },
+    "https://news.now.com/home/local/player?newsId=627939": {
+      "title": "時事全方位｜宏福苑火災之情緒支援(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:42.378711",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑火災之情緒支援一"
+    },
+    "https://news.now.com/home/local/player?newsId=627980": {
+      "title": "宏福苑五級火災｜民建聯大埔區議員黃碧嬌：將報警要求調查現屆法團",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:48.787107",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災民建聯大埔區議員黃碧嬌將報警要求調查現屆法團"
+    },
+    "https://news.now.com/home/local/player?newsId=627963": {
+      "title": "宏福苑五級火災｜民青局：留意到有人利用假災民登記表騙個人資料　提醒市民防範警惕",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:03:55.082840",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災民青局留意到有人利用假災民登記表騙個人資料-提醒市民防範警惕"
+    },
+    "https://news.now.com/home/local/player?newsId=627962": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組展開第三日搜索行動　再發現有懷疑遺體",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:00.952427",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組展開第三日搜索行動-再發現有懷疑遺體"
+    },
+    "https://news.now.com/home/local/player?newsId=627956": {
+      "title": "宏福苑五級火災｜災難遇害者辨認組展開第三日搜索行動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:07.176824",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災災難遇害者辨認組展開第三日搜索行動"
+    },
+    "https://news.now.com/home/local/player?newsId=627955": {
+      "title": "宏福苑五級火災｜民青局：超過1900戶申請1萬元應急補助金　已向1760戶派發",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:13.719108",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災民青局超過1900戶申請1萬元應急補助金-已向1760戶派發"
+    },
+    "https://news.now.com/home/local/player?newsId=627952": {
+      "title": "全紅嬋等廣東省運動員拍片表達慰問　中資機構及貴州榕江民眾踴躍捐輸",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:20.100310",
+      "archive_path": "content/news/now-news/archive/全紅嬋等廣東省運動員拍片表達慰問-中資機構及貴州榕江民眾踴躍捐輸"
+    },
+    "https://news.now.com/home/local/player?newsId=627947": {
+      "title": "國安處再拘一男一女　涉藉宏福苑火災意圖煽動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:26.686896",
+      "archive_path": "content/news/now-news/archive/國安處再拘一男一女-涉藉宏福苑火災意圖煽動"
+    },
+    "https://news.now.com/home/local/player?newsId=627938": {
+      "title": "宏福苑五級火災｜梁宏正：已向1760戶災民派發1萬元應急補助金",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:32.296874",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災梁宏正已向1760戶災民派發1萬元應急補助金"
+    },
+    "https://news.now.com/home/local/player?newsId=627934": {
+      "title": "全紅嬋等廣東省運動員　向宏福苑災民表達慰問",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:38.508935",
+      "archive_path": "content/news/now-news/archive/全紅嬋等廣東省運動員-向宏福苑災民表達慰問"
+    },
+    "https://news.now.com/home/local/player?newsId=627933": {
+      "title": "宏福苑五級火災｜借出作援助站多日　馮梁結紀念中學暫以網課復課",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:44.521138",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災借出作援助站多日-馮梁結紀念中學暫以網課復課"
+    },
+    "https://news.now.com/home/local/player?newsId=628139": {
+      "title": "立法會選舉｜大埔區3個票站要臨時調整　陳國基重申從來沒有預設投票率目標",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:50.023048",
+      "archive_path": "content/news/now-news/archive/立法會選舉大埔區3個票站要臨時調整-陳國基重申從來沒有預設投票率目標"
+    },
+    "https://news.now.com/home/local/player?newsId=628153": {
+      "title": "即日焦點｜李家超宣布就宏福苑火災成立獨立委員會／立法會選舉如期周日投票",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:04:56.736111",
+      "archive_path": "content/news/now-news/archive/即日焦點李家超宣布就宏福苑火災成立獨立委員會立法會選舉如期周日投票"
+    },
+    "https://news.now.com/home/local/player?newsId=628152": {
+      "title": "宏福苑五級火災｜孫玉菡：將透過一戶一社工統一處理慈善團體資助申請",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:03.202196",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災孫玉菡將透過一戶一社工統一處理慈善團體資助申請"
+    },
+    "https://news.now.com/home/local/player?newsId=628151": {
+      "title": "宏福苑五級火災｜政府成立宏福苑援助基金　總額達23億元",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:09.536345",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災政府成立宏福苑援助基金-總額達23億元"
+    },
+    "https://news.now.com/home/local/player?newsId=628146": {
+      "title": "宏福苑五級火災｜陳茂波探訪參與救援消防員以及慰問傷者",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:16.560521",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災陳茂波探訪參與救援消防員以及慰問傷者"
+    },
+    "https://news.now.com/home/local/player?newsId=628144": {
+      "title": "時事全方位重點提要｜12月3日",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:22.307191",
+      "archive_path": "content/news/now-news/archive/時事全方位重點提要12月3日"
+    },
+    "https://news.now.com/home/local/player?newsId=628142": {
+      "title": "宏福苑五級火災｜教育局安排大埔浸信會公立學校到區內其他學校上課",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:28.607251",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災教育局安排大埔浸信會公立學校到區內其他學校上課"
+    },
+    "https://news.now.com/home/local/player?newsId=628138": {
+      "title": "宏福苑五級火災｜雙程證女子涉以火災支援名義詐騙被捕",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:34.505683",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災雙程證女子涉以火災支援名義詐騙被捕"
+    },
+    "https://news.now.com/home/local/player?newsId=628137": {
+      "title": "宏福苑五級火災｜警方發現多5具遺體增至156死　宏志閣居民周三及周四可返住所一次拿取物品",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:40.394301",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方發現多5具遺體增至156死-宏志閣居民周三及周四可返住所一次拿取物品"
+    },
+    "https://news.now.com/home/local/player?newsId=628134": {
+      "title": "宏福苑五級火災｜中央港澳辦協調應急管理部等為救災工作提供協助",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:46.614037",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中央港澳辦協調應急管理部等為救災工作提供協助"
+    },
+    "https://news.now.com/home/local/player?newsId=628133": {
+      "title": "宏福苑五級火災｜警方發現多5具遺體　死亡人數增至156人",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:53.137268",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方發現多5具遺體-死亡人數增至156人"
+    },
+    "https://news.now.com/home/local/player?newsId=628132": {
+      "title": "宏福苑五級火災｜湯家驊：獨立委員會沒司法程序掣肘　能較彈性處理",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:05:59.574615",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災湯家驊獨立委員會沒司法程序掣肘-能較彈性處理"
+    },
+    "https://news.now.com/home/local/player?newsId=628130": {
+      "title": "立法會選舉｜大埔區3個票站要臨時調整　當局安排穿梭車輛接載受影響選民投票",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:05.475699",
+      "archive_path": "content/news/now-news/archive/立法會選舉大埔區3個票站要臨時調整-當局安排穿梭車輛接載受影響選民投票"
+    },
+    "https://news.now.com/home/local/player?newsId=628121": {
+      "title": "宏福苑五級火災造成10名外傭死亡　孫玉菡：罹難外傭可獲約80萬港元補償",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:11.221944",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災造成10名外傭死亡-孫玉菡罹難外傭可獲約80萬港元補償"
+    },
+    "https://news.now.com/home/local/player?newsId=628120": {
+      "title": "立法會選舉｜葉劉淑儀：歡迎如期投票　低調但莊嚴進行選舉最恰當",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:17.663409",
+      "archive_path": "content/news/now-news/archive/立法會選舉葉劉淑儀歡迎如期投票-低調但莊嚴進行選舉最恰當"
+    },
+    "https://news.now.com/home/local/player?newsId=628119": {
+      "title": "宏福苑五級火災｜罹難者頭七　現場舉行路祭　九龍殯儀館舉行公眾悼念活動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:24.359885",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災罹難者頭七-現場舉行路祭-九龍殯儀館舉行公眾悼念活動"
+    },
+    "https://news.now.com/home/local/player?newsId=628117": {
+      "title": "宏福苑五級火災｜罹難者頭七　現場舉行路祭",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:30.037985",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災罹難者頭七-現場舉行路祭"
+    },
+    "https://news.now.com/home/local/player?newsId=628112": {
+      "title": "宏福苑五級火災｜警方設立熱線呼籲市民提供相關影片或相片（附熱線號碼）",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:36.863546",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方設立熱線呼籲市民提供相關影片或相片附熱線號碼"
+    },
+    "https://news.now.com/home/local/player?newsId=628081": {
+      "title": "時事全方位｜宏福苑大火之大維修(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:43.985885",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑大火之大維修二"
+    },
+    "https://news.now.com/home/local/player?newsId=628080": {
+      "title": "時事全方位｜宏福苑大火之大維修(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:51.106282",
+      "archive_path": "content/news/now-news/archive/時事全方位宏福苑大火之大維修一"
+    },
+    "https://news.now.com/home/local/player?newsId=628079": {
+      "title": "時事全方位｜立法會選舉(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:06:57.306984",
+      "archive_path": "content/news/now-news/archive/時事全方位立法會選舉二"
+    },
+    "https://news.now.com/home/local/player?newsId=628078": {
+      "title": "時事全方位｜立法會選舉(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:03.696584",
+      "archive_path": "content/news/now-news/archive/時事全方位立法會選舉一"
+    },
+    "https://news.now.com/home/local/player?newsId=628091": {
+      "title": "宏福苑五級火災｜安基苑工程承建商緊急拆除棚網　曾示範燃燒樣本逾一分鐘不熄",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:12.392772",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災安基苑工程承建商緊急拆除棚網-曾示範燃燒樣本逾一分鐘不熄"
+    },
+    "https://news.now.com/home/local/player?newsId=628090": {
+      "title": "宏福苑五級火災｜盧偉國促檢討屋苑維修方式　建築業界指擴大棚網檢測範圍及增加數量",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:18.616721",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災盧偉國促檢討屋苑維修方式-建築業界指擴大棚網檢測範圍及增加數量"
+    },
+    "https://news.now.com/home/local/player?newsId=628085": {
+      "title": "宏福苑五級火災｜承建商用不合規棚網　建築業界：應更嚴謹抽查",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:25.184791",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災承建商用不合規棚網-建築業界應更嚴謹抽查"
+    },
+    "https://news.now.com/home/local/player?newsId=628083": {
+      "title": "宏福苑五級火災｜九龍殯儀館為宏福苑罹難者舉行公眾悼念活動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:30.935735",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災九龍殯儀館為宏福苑罹難者舉行公眾悼念活動"
+    },
+    "https://news.now.com/home/local/player?newsId=628084": {
+      "title": "宏福苑五級火災｜中國應急關愛基金會捐物資援助宏福苑火災",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:37.036905",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災中國應急關愛基金會捐物資援助宏福苑火災"
+    },
+    "https://news.now.com/home/local/player?newsId=628082": {
+      "title": "宏福苑五級火災｜李家超宣布成立獨立委員會　審視起火原因等問題並提出建議",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:43.534897",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超宣布成立獨立委員會-審視起火原因等問題並提出建議"
+    },
+    "https://news.now.com/home/local/player?newsId=628077": {
+      "title": "立法會選舉｜李家超：如期12月7日投票　選出有抱負議員是重建路上重要一步",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:50.097028",
+      "archive_path": "content/news/now-news/archive/立法會選舉李家超如期12月7日投票-選出有抱負議員是重建路上重要一步"
+    },
+    "https://news.now.com/home/local/player?newsId=628076": {
+      "title": "宏福苑五級火災｜警方國安處拘三人涉藉火災煽動　李家超：任何人犯法都會採取行動",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:07:56.622887",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災警方國安處拘三人涉藉火災煽動-李家超任何人犯法都會採取行動"
+    },
+    "https://news.now.com/home/local/player?newsId=628072": {
+      "title": "宏福苑五級火災｜李家超：成立獨立委員會　審視起火原因等",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:08:03.407696",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災李家超成立獨立委員會-審視起火原因等"
+    },
+    "https://news.now.com/home/local/player?newsId=628071": {
+      "title": "立法會換屆選舉如期在周日投票　李家超：盡快完成選舉更有助改革",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:08:10.079115",
+      "archive_path": "content/news/now-news/archive/立法會換屆選舉如期在周日投票-李家超盡快完成選舉更有助改革"
+    },
+    "https://news.now.com/home/local/player?newsId=628064": {
+      "title": "李家超行會前見記者｜回應宏福苑火災善後工作／立法會選舉如期進行",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:08:16.945878",
+      "archive_path": "content/news/now-news/archive/李家超行會前見記者回應宏福苑火災善後工作立法會選舉如期進行"
+    },
+    "https://news.now.com/home/local/player?newsId=628060": {
+      "title": "宏福苑五級火災｜盧偉國：須檢討屋苑大維修方式",
+      "source": "now-news",
+      "scraped_at": "2025-12-03T16:08:23.686404",
+      "archive_path": "content/news/now-news/archive/宏福苑五級火災盧偉國須檢討屋苑大維修方式"
     }
   },
-  "last_updated": "2025-12-01T22:59:15.157461"
+  "last_updated": "2025-12-03T16:08:23.686417"
 }

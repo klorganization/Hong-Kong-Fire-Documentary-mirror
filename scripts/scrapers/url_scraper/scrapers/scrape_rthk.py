@@ -60,4 +60,4 @@ def scrape():
 
         current_date += datetime.timedelta(days=1)
 
-    return ("RTHK", results)
+    return ("香港電台", results)

@@ -153,12 +153,6 @@ def scrape():
         print(f"TVB Scraper failed: {e}")
         raw_results = []
 
-<<<<<<< Updated upstream
     formatted_results = [(r["date"], r["title"], r["link"]) for r in raw_results]
-=======
-    formatted_results = []
-    for r in raw_results:
-        formatted_results.append((r["date"], r["title"], r["link"]))
->>>>>>> Stashed changes
 
     return ("TVB News", formatted_results)

@@ -7,7 +7,7 @@
 - [**Now 新聞**](now-news/README.md)
 - [**香港電台 (RTHK)**](rthk/README.md)
 - [**有線新聞 (i-Cable)**](i-cable/README.md)
-- [**無綫新聞 (TVB)**](tvb/README.md) *(待補)*
+- [**無綫新聞 (TVB)**](tvb/README.md)
 - [**HOY TV**](hoy-tv/README.md)
 - [**商業電台 (Commercial Radio)**](commercial-radio/README.md)
 - [**香港 01 (HK01)**](hk01/README.md)
@@ -42,6 +42,7 @@
 - [**The Guardian**](the-guardian/README.md)
 - [**The Sun**](the-sun/README.md)
 - [**SBS (Australia)**](sbs/README.md)
+- [**Al Jazeera (English) 半島電視台英語頻道**](aljazeera/README.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## 官方資料 (Official Information)
@@ -52,3 +53,5 @@
 
 ## 各國/機構慰問列表 (Condolence List)
 - [**香港大埔宏福苑火災慰問列表**](international-condolences/international-condolences-zh.md)
+
+Last update : 04-Nov-2025

@@ -70,4 +70,4 @@ def scrape():
         except Exception:
             pass
 
-    return ("Sky Post", list(found_articles.values()))
+    return ("晴報 (Sky Post)", list(found_articles.values()))

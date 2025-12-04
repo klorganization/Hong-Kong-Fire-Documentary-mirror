@@ -6,85 +6,120 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 
 # 政府文件、部門回覆及公開信件
 
-本區塊整理政府部門就宏福苑火災及相關事務的回覆、公開信件、法定命令以及業主立案法團會議記錄。
+本區塊整理政府部門就宏福苑火災及相關事務的回覆、公開信件、法定命令以及業主立案法
+團會議記錄。
 
 ## 政府部門文件 (Government Documents)
 
-- **屋宇署 (Buildings Department)**
+### **屋宇署 (Buildings Department)**
 
-  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf>
-  - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf>
-  - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](government/CL_ATGMWCS2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf>
-  - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDRMW2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDRMW2025c.pdf>
-  - [屋宇署致業界通告函件 - 大廈維修或修葺工程的竹棚架安全 (2025年4月16日) ((54) in BD GR/1-50/97)](government/CL_SBSBMRW2025c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_SBSBMRW2025c.pdf>
-  - [2011年建築物消防安全守則（2024年修訂版）](government/fs_code2011_c.pdf)
-  收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf>
-  - [屋宇署命令 (BD GPBORD71)](government/BD%20GPBORD71.jpg)
-  - [屋宇署文件 (BD GR1-5097)](government/BD%20GR1-5097.pdf)
-  - [屋宇署行動 (LM 18-92 BD GRACT11)](others/LM%2018-92%20BD%20GRACT11.png)
-  - [拆卸工程相關 (Removal Works)](others/Removal%20Works.png)
+- [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025 年 11 月 27 日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf))
+- [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025 年 11 月 27 日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf))
+- [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024 年修訂版）修訂事宜(2025 年 10 月 31 日) (BD MW/1-50/11)](government/CL_ATGMWCS2025c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf))
+- [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025 年 10 月 21 日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDRMW2025c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDRMW2025c.pdf))
+- [屋宇署致業界通告函件 - 大廈維修或修葺工程的竹棚架安全 (2025 年 4 月 16 日) ((54) in BD GR/1-50/97)](government/CL_SBSBMRW2025c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_SBSBMRW2025c.pdf))
+- [2011 年建築物消防安全守則（2024 年修訂版）](government/fs_code2011_c.pdf)
+  ([來源](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf))
+- [屋宇署命令 (BD GPBORD71)](government/BD%20GPBORD71.jpg) -
+- [屋宇署文件 (BD GR1-5097)](government/BD%20GR1-5097.pdf) -
+- [屋宇署行動 (LM 18-92 BD GRACT11)](others/LM%2018-92%20BD%20GRACT11.png) -
+- [拆卸工程相關 (Removal Works)](others/Removal%20Works.png)
 
-- **勞工處 (Labour Department)**
-  - [勞工處回覆 (260) in LM to LD GR6-1561 Pt. 583](others/%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
-  - [竹棚架安全工作守則 (Code of Practice for Bamboo Scaffolding Safety)](government/Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
-  - [竹棚架工作安全守則第五版](government/Bamboo.pdf) - 收集自: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
+### **勞工處 (Labour Department)**
 
-- **消防處 (Fire Services Department)**
-  - [消防安全守則 (Fire Safety Code)](others/Fire%20Safety%20Code.png)
-  - [消防安全改善服務 – 有意承辦法例所規定消防安全改善工程的註冊消防裝置承辦商名單)](government/Fire_Safety_Improvement_Services_chi.pdf) - 收集自: <https://www.hkfsd.gov.hk/chi/source/safety/Fire_Safety_Improvement_Services_chi.pdf>
+- [勞工處回覆 (260) in LM to LD GR6-1561 Pt. 583](others/%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
+- [竹棚架安全工作守則 (Code of Practice for Bamboo Scaffolding Safety)](government/Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
+- [竹棚架工作安全守則第五版](government/Bamboo.pdf) -
+  ([來源](https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf))
 
-- **市區重建局 (Urban Renewal Authority)**
-  - [「樓宇復修公司資料庫」已登記之公司 - 註冊一般建築承建商](government/rgbc_fulllist.pdf) - 收集自: <https://brcrs.brplatform.org.hk/home/uploads/summary/rgbc_fulllist.pdf>
-  - [「樓宇復修公司資料庫」已登記之公司 - 認可人士 (提供認可人士服務之顧問公司)](government/ap_fulllist.pdf) - 收集自: <https://brcrs.brplatform.org.hk/home/uploads/summary/ap_fulllist.pdf>
-  - [「樓宇復修公司資料庫」已登記之公司 - 註冊檢驗人員 (提供註冊檢驗人員服務之顧問公司)](government/ri_fulllist.pdf) - 收集自: <https://brcrs.brplatform.org.hk/home/uploads/summary/ri_fulllist.pdf>
-  - [「樓宇復修公司資料庫」查閱公司資料 - 宏業建築工程有限公司](government/宏業建築工程有限公司.html) - 收集自: <https://brcrs.brplatform.org.hk/tc/info/aid/176>
-  - [「樓宇復修公司資料庫」查閱公司資料 - 鴻毅建築師有限公司](government/鴻毅建築師有限公司.html) - 收集自: <https://brcrs.brplatform.org.hk/tc/info/aid/44>
-  - [樓宇復修平台 - 招標妥《自助工具》手冊（DIY Tool-kits）](government/DIY_Tool_Kit.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf>
-  - [樓宇復修平台 - 「招標妥」樓宇復修促進服務申請須知](government/Application_notes_ST.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13481/Application_notes_ST.pdf>
-  - [樓宇復修平台 - 第三輪樓宇更新大行動 2.0 (第一類別樓宇業主組織適用)申請須知](government/AN-OBB-CHI.pdf) - 收集自: <https://brplatform.org.hk/f/upload/13481/AN-OBB-CHI.pdf>
+### **消防處 (Fire Services Department)**
 
-- **[廉政公署 (ICAC)]**
-  - [「誠」建約章2.0 - 參加指引](government/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf>
-  - [「誠」建約章2.0 - 誠信政策範本](government/926ada7c-e234-4477-8fbe-feabd989d2af.docx) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/926ada7c-e234-4477-8fbe-feabd989d2af.docx>
-  - [「誠」建約章2.0 - 常見問題](government/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2022/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx>
-  - [「誠」建約章2.0 - 參加公司名單](government/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf) - 收集自: <https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2025/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf>
+- [消防安全守則 (Fire Safety Code)](others/Fire%20Safety%20Code.png)
+- [消防安全改善服務 – 有意承办法例所規定消防安全改善工程的註冊消防裝置承辦商名單)](government/Fire_Safety_Improvement_Services_chi.pdf) -
+  ([來源](https://www.hkfsd.gov.hk/chi/source/safety/Fire_Safety_Improvement_Services_chi.pdf))
 
-- **社會福利署 (SWD)**
-  - [南大埔綜合家庭服務中心服務範圍 (2024年10月)](government/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - 收集自: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
+### **市區重建局 (Urban Renewal Authority)**
 
-- **民政事務總署 (HAD)**
-  - [大埔區分區委員會小區關愛隊概要和 聯絡途徑](government/TP09_Wang_Fuk_Chi.pdf) - 收集自: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+- [「樓宇復修公司資料庫」已登記之公司 - 註冊一般建築承建商](government/rgbc_fulllist.pdf) -
+  ([來源](https://brcrs.brplatform.org.hk/home/uploads/summary/rgbc_fulllist.pdf))
+- [「樓宇復修公司資料庫」已登記之公司 - 認可人士 (提供認可人士服務之顧問公司)](government/ap_fulllist.pdf) -
+  ([來源](https://brcrs.brplatform.org.hk/home/uploads/summary/ap_fulllist.pdf))
+- [「樓宇復修公司資料庫」已登記之公司 - 註冊檢驗人員 (提供註冊檢驗人員服務之顧問公司)](government/ri_fulllist.pdf) -
+  ([來源](https://brcrs.brplatform.org.hk/home/uploads/summary/ri_fulllist.pdf))
+- [「樓宇復修公司資料庫」查閱公司資料 - 宏業建築工程有限公司](government/宏業建築工程有限公司.html) -
+  ([來源](https://brcrs.brplatform.org.hk/tc/info/aid/176))
+- [「樓宇復修公司資料庫」查閱公司資料 - 鴻毅建築師有限公司](government/鴻毅建築師有限公司.html) -
+  ([來源](https://brcrs.brplatform.org.hk/tc/info/aid/44))
+- [樓宇復修平台 - 招標妥《自助工具》手冊（DIY Tool-kits）](government/DIY_Tool_Kit.pdf) -
+  ([來源](https://brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf))
+- [樓宇復修平台 - 「招標妥」樓宇復修促進服務申請須知](government/Application_notes_ST.pdf) -
+  ([來源](https://brplatform.org.hk/f/upload/13481/Application_notes_ST.pdf))
+- [樓宇復修平台 - 第三輪樓宇更新大行動 2.0 (第一類別樓宇業主組織適用)申請須知](government/AN-OBB-CHI.pdf) -
+  ([來源](https://brplatform.org.hk/f/upload/13481/AN-OBB-CHI.pdf))
 
-- **樓層平面圖 (香港房屋委員會)**
+### **廉政公署 (ICAC)**
 
-  - [宏福苑宏仁閣 (A座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_ba.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf>
-  - [宏福苑 (B座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bb.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf>
-  - [宏福苑 (C座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bC.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf>
-  - [宏福苑 (D座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bd.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf>
-  - [宏福苑 (E座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bE.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf>
-  - [宏福苑 (F座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bf.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf>
-  - [宏福苑 (G座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bg.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
-  - [宏福苑 (H座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
+- [「誠」建約章 2.0 - 參加指引](government/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf) -
+  ([來源](https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/4113fd87-2bb8-47b0-a62d-d41c0337303b.pdf))
+- [「誠」建約章 2.0 - 誠信政策範本](government/926ada7c-e234-4477-8fbe-feabd989d2af.docx) -
+  ([來源](https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2024/926ada7c-e234-4477-8fbe-feabd989d2af.docx))
+- [「誠」建約章 2.0 - 常見問題](government/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx) -
+  ([來源](https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2022/5d45d5c6-f0e0-4276-8d36-7e25f6da5365.docx))
+- [「誠」建約章 2.0 - 參加公司名單](government/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf) -
+  ([來源](https://cpas.icac.hk/UPloadImages/InfoFile/cate_43/2025/a7bca96a-6a1b-4347-bed3-b9214c699bd3.pdf))
+
+### **社會福利署 (SWD)**
+
+- [南大埔綜合家庭服務中心服務範圍 (2024 年 10 月)](<government/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>) -
+  ([來源](<https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>))
+
+### **民政事務總署 (HAD)**
+
+- [大埔區分區委員會小區關愛隊概要和 聯絡途徑](government/TP09_Wang_Fuk_Chi.pdf) -
+  ([來源](https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf))
+
+### **樓層平面圖 (香港房屋委員會)**
+
+- [宏福苑宏仁閣 (A 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_ba.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf))
+- [宏福苑 (B 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bb.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf))
+- [宏福苑 (C 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bC.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf))
+- [宏福苑 (D 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bd.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf))
+- [宏福苑 (E 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bE.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf))
+- [宏福苑 (F 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bf.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf))
+- [宏福苑 (G 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bg.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf))
+- [宏福苑 (H 座) 典型樓層平面圖](building-plans/typical-floor-plans/wangfukcourt_bh.pdf) -
+  ([來源](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf))
 
 ## **宏福苑大維修工程相關文件**
 
 [點擊進入文件目錄 (Click to access document directory)](renovation_docs/README.md)
 
-本目錄收錄了與宏福苑大維修工程相關的文件，包括財務簡報、工程進度、會議記錄及技術文件。
+本目錄收錄了與宏福苑大維修工程相關的文件，包括財務簡報、工程進度、會議記錄及技術
+文件。
 
 ## 宏福苑業主立案法團會議記錄 (Meeting Minutes)
 
-收錄 2021 年至 2025 年間，宏福苑業主立案法團管理委員會的會議記錄，以供查閱屋苑維修及管理之討論過程。
+收錄 2021 年至 2025 年間，宏福苑業主立案法團管理委員會的會議記錄，以供查閱屋苑維
+修及管理之討論過程。
 
 ### 格式選擇
 
-- **[PDF 原件存檔 (PDF Files)](meeting_minutes/pdf/README.md)**：掃描原件，保留文件原貌。
-- **[Markdown 文字版 (Markdown Files)](meeting_minutes/markdown/README.md)**：經 OCR 轉錄，方便搜尋及閱讀。
+- **[PDF 原件存檔 (PDF Files)](meeting_minutes/pdf/README.md)**：掃描原件，保留
+  文件原貌。
+- **[Markdown 文字版 (Markdown Files)](meeting_minutes/markdown/README.md)**：經
+  OCR 轉錄，方便搜尋及閱讀。
 
 ### 2025 年 (近期)
 
@@ -95,4 +130,4 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 - 2025-03-21
 - 2025-03-01
 
-*(更多年份請點擊上方連結進入子目錄查閱)*
+_(更多年份請點擊上方連結進入子目錄查閱)_

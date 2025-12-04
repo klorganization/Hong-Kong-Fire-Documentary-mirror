@@ -39,6 +39,8 @@ This section compiles news reports, feature articles, and official releases from
 - [**Sky**](sky/README.md)
 - [**The Guardian**](the-guardian/README.md)
 - [**The Sun**](the-sun/README.md)
+- [**SBS (Australia)**](sbs/README.md)
+- [**Al Jazeera (English)**](aljazeera/README.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## Official Information
@@ -49,3 +51,5 @@ This section compiles news reports, feature articles, and official releases from
 
 ## Condolence List
 - [**Hong Kong Tai Po Wang Fuk Court Fire Condolence List**](international-condolences/international-condolences-en.md)
+
+Last update : 04-Nov-2025

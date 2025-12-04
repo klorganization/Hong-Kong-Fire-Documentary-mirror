@@ -57,4 +57,4 @@ def scrape():
         except Exception:
             break
 
-    return ("iCable", results)
+    return ("有線新聞 (i-Cable)", results)

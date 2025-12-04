@@ -60,11 +60,7 @@ async def _scrape_async():
                 # Wait for list to appear
                 try:
                     await page.wait_for_selector("li a div.txt_box", timeout=5000)
-<<<<<<< Updated upstream
                 except Exception:
-=======
-                except:
->>>>>>> Stashed changes
                     print("Timeout waiting for list content.")
                     break
 
@@ -131,13 +127,7 @@ def scrape():
         print(f"TVBS Scraper failed: {e}")
         raw_results = []
 
-<<<<<<< Updated upstream
     formatted_results = [(r["date"], r["title"], r["link"]) for r in raw_results]
-=======
-    formatted_results = []
-    for r in raw_results:
-        formatted_results.append((r["date"], r["title"], r["link"]))
->>>>>>> Stashed changes
 
     return ("TVBS News", formatted_results)
 

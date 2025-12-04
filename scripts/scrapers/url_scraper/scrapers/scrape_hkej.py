@@ -83,15 +83,9 @@ def scrape():
     """
     raw_results = asyncio.run(_scrape_async())
 
-<<<<<<< Updated upstream
     formatted_results = [(r["date"], r["title"], r["link"]) for r in raw_results]
-=======
-    formatted_results = []
-    for r in raw_results:
-        formatted_results.append((r["date"], r["title"], r["link"]))
->>>>>>> Stashed changes
 
     # Sort by date descending
     formatted_results.sort(key=lambda x: x[0], reverse=True)
 
-    return ("HKEJ", formatted_results)
+    return ("信報財經新聞", formatted_results)
