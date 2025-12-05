@@ -40,3 +40,8 @@
 * [B.C.'s Hong Kong community gathers to mourn victims of deadly highrise fire](https://www.youtube.com/watch?v=KgDvsPOpHKA), CBC British Columbia
 * [CBC Vancouver News at 11 Nov 30: B.C.'s Hong Kong community gathers to mourn highrise fire victims](https://www.youtube.com/watch?v=5ZqvzZnRTR0), CBC British Columbia (1:35-1:50, 6:25-9:15)
 * [Hong Kong highrise netting did not meet code, officials say](https://www.cbc.ca/player/play/video/9.6998792) ([YouTube](https://www.youtube.com/watch?v=cIlmGzG2Aco))
+* [Hong Kong highrise netting did not meet code, officials say, with death toll at 151 people](https://www.cbc.ca/news/world/hong-kong-wang-fuk-fire-monday-9.6998363)
+* [Vigil held in Vancouver to mourn deaths, losses in deadly Hong Kong fire](https://www.cbc.ca/news/canada/british-columbia/vancouver-vigil-hong-kong-fire-9.6999589)
+
+### 2025-12-02
+* [Hong Kong leader orders independent inquiry into deadly highrise fire](https://www.cbc.ca/news/world/hong-kong-committee-inquiry-deadly-fire-9.6999714)
