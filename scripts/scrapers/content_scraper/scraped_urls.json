@@ -19991,7 +19991,25 @@
       "source": "aljazeera",
       "scraped_at": "2025-12-03T17:01:47.706079",
       "archive_path": "content/news/aljazeera/archive/hong-kong-residents-demand-answers-after-deadly-apartment-fire"
+    },
+    "https://www.cbc.ca/news/world/hong-kong-wang-fuk-fire-monday-9.6998363": {
+      "title": "Hong Kong highrise netting did not meet code, officials say, with death toll at 151 people",
+      "source": "cbc",
+      "scraped_at": "2025-12-04T19:27:39.511907",
+      "archive_path": "content/news/cbc/archive/hong-kong-highrise-netting-did-not-meet-code-officials-say-with-death-toll-at"
+    },
+    "https://www.cbc.ca/news/canada/british-columbia/vancouver-vigil-hong-kong-fire-9.6999589": {
+      "title": "Vigil held in Vancouver to mourn deaths, losses in deadly Hong Kong fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-04T19:27:50.266620",
+      "archive_path": "content/news/cbc/archive/vigil-held-in-vancouver-to-mourn-deaths-losses-in-deadly-hong-kong-fire"
+    },
+    "https://www.cbc.ca/news/world/hong-kong-committee-inquiry-deadly-fire-9.6999714": {
+      "title": "Hong Kong leader orders independent inquiry into deadly highrise fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-04T19:28:01.842728",
+      "archive_path": "content/news/cbc/archive/hong-kong-leader-orders-independent-inquiry-into-deadly-highrise-fire"
     }
   },
-  "last_updated": "2025-12-03T17:01:47.706093"
+  "last_updated": "2025-12-04T19:28:01.842743"
 }
